@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-15 10:00+0100\n"
+"PO-Revision-Date: 2014-11-15 14:37+0100\n"
 "Last-Translator: Ervin Hegedüs <airween@gmail.com>\n"
 "Language-Team: \n"
 "Language: \n"
@@ -246,6 +246,11 @@ msgid ""
 "\n"
 "What would you like to do?"
 msgstr ""
+"A(z) %s verzió elérhető\n"
+"\n"
+"%s\n"
+"\n"
+"Mit szeretnél tenni?"
 
 #: src/dialogs/fl_digi.cxx:2002
 #: src/dialogs/Viewer.cxx:300
@@ -256,19 +261,19 @@ msgstr ""
 #: src/spot/notify.cxx:524
 #: src/dialogs/confdialog.cxx:10946
 msgid "Close"
-msgstr ""
+msgstr "Bezárás"
 
 #: src/dialogs/fl_digi.cxx:2002
 msgid "Visit URL"
-msgstr ""
+msgstr "URL megtekintése"
 
 #: src/dialogs/fl_digi.cxx:2002
 msgid "Copy URL"
-msgstr ""
+msgstr "URL másolása"
 
 #: src/dialogs/fl_digi.cxx:2014
 msgid "You are running the latest version"
-msgstr ""
+msgstr "A legfrissebb verzió fut"
 
 #: src/dialogs/fl_digi.cxx:2080
 msgid "Sunspot creation underway!"
@@ -356,11 +361,11 @@ msgstr "Mented a logbejegyzést?"
 
 #: src/dialogs/fl_digi.cxx:2904
 msgid "Confirm Quit"
-msgstr ""
+msgstr "Kilépés megerősítése"
 
 #: src/dialogs/fl_digi.cxx:2924
 msgid "Confirm quit?"
-msgstr ""
+msgstr "Megerősíted a kilépést?"
 
 #: src/dialogs/fl_digi.cxx:3500
 #: src/dialogs/fl_digi.cxx:5776
@@ -369,36 +374,36 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3502
 msgid "Folders"
-msgstr ""
+msgstr "Könyvtárak"
 
 #: src/dialogs/fl_digi.cxx:3503
 msgid "Fldigi config..."
-msgstr ""
+msgstr "Fldigi konfiguráció..."
 
 #: src/dialogs/fl_digi.cxx:3504
 msgid "FLMSG files..."
-msgstr ""
+msgstr "FLMSG fájlok..."
 
 #: src/dialogs/fl_digi.cxx:3505
 msgid "NBEMS files..."
-msgstr ""
+msgstr "NBEMS fájlok..."
 
 #: src/dialogs/fl_digi.cxx:3506
 msgid "Data files..."
-msgstr ""
+msgstr "Adat fájlok..."
 
 #: src/dialogs/fl_digi.cxx:3509
 #: src/dialogs/confdialog.cxx:5967
 msgid "Macros"
-msgstr ""
+msgstr "Makrók"
 
 #: src/dialogs/fl_digi.cxx:3510
 msgid "Open ..."
-msgstr ""
+msgstr "Megnyitás ..."
 
 #: src/dialogs/fl_digi.cxx:3511
 msgid "Save ..."
-msgstr ""
+msgstr "Mentés ..."
 
 #: src/dialogs/fl_digi.cxx:3514
 msgid "Text Capture"
@@ -408,7 +413,7 @@ msgstr ""
 #: src/misc/debug.cxx:101
 #: src/dialogs/confdialog.cxx:9192
 msgid "Audio"
-msgstr ""
+msgstr "Hang"
 
 #: src/dialogs/fl_digi.cxx:3520
 msgid "RX capture"
@@ -421,12 +426,12 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3522
 #: src/dialogs/confdialog.cxx:9292
 msgid "Playback"
-msgstr ""
+msgstr "Lejátszás"
 
 #: src/dialogs/fl_digi.cxx:3526
 #: src/dialogs/fl_digi.cxx:5777
 msgid "Exit"
-msgstr ""
+msgstr "Kilépés"
 
 #: src/dialogs/fl_digi.cxx:3723
 #: src/dialogs/fl_digi.cxx:5919
@@ -436,48 +441,48 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3724
 #: src/dialogs/confdialog.cxx:5289
 msgid "Operator"
-msgstr ""
+msgstr "Operátor"
 
 #: src/dialogs/fl_digi.cxx:3725
 msgid "Colors && Fonts"
-msgstr ""
+msgstr "Színek és fontok"
 
 #: src/dialogs/fl_digi.cxx:3726
 #: src/dialogs/confdialog.cxx:5400
 msgid "User Interface"
-msgstr ""
+msgstr "Felhasználói felület"
 
 #: src/dialogs/fl_digi.cxx:3727
 #: src/dialogs/fl_digi.cxx:3762
 #: src/dialogs/fl_digi.cxx:5920
 #: src/dialogs/confdialog.cxx:6580
 msgid "Waterfall"
-msgstr ""
+msgstr "Vízesés"
 
 #: src/dialogs/fl_digi.cxx:3728
 msgid "Waterfall controls"
-msgstr ""
+msgstr "Vízesés kezelés"
 
 #: src/dialogs/fl_digi.cxx:3730
 #: src/dialogs/fl_digi.cxx:5923
 #: src/dialogs/confdialog.cxx:6974
 msgid "Modems"
-msgstr ""
+msgstr "Modemek"
 
 #: src/dialogs/fl_digi.cxx:3732
 #: src/dialogs/fl_digi.cxx:5922
 msgid "Sound Card"
-msgstr ""
+msgstr "Hangkártya"
 
 #: src/dialogs/fl_digi.cxx:3733
 #: src/dialogs/fl_digi.cxx:5924
 msgid "IDs"
-msgstr ""
+msgstr "Azonosítók"
 
 #: src/dialogs/fl_digi.cxx:3734
 #: src/dialogs/confdialog.cxx:9701
 msgid "Misc"
-msgstr ""
+msgstr "Egyéb"
 
 #: src/dialogs/fl_digi.cxx:3735
 #: src/dialogs/confdialog.cxx:10519
@@ -493,7 +498,7 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:5925
 #: src/dialogs/notifydialog.cxx:104
 msgid "Notifications"
-msgstr ""
+msgstr "Értesítések"
 
 #: src/dialogs/fl_digi.cxx:3739
 msgid "QRZ/eQSL"
@@ -502,11 +507,11 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3740
 #: src/dialogs/fl_digi.cxx:5926
 msgid "Save Config"
-msgstr ""
+msgstr "Konfiguráció mentése"
 
 #: src/dialogs/fl_digi.cxx:3745
 msgid "View/Hide Channels"
-msgstr ""
+msgstr "Csatornák mutatása/elrejtése"
 
 #: src/dialogs/fl_digi.cxx:3747
 msgid "Floating scope"
@@ -526,46 +531,46 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3770
 msgid "View"
-msgstr ""
+msgstr "Nézet"
 
 #: src/dialogs/fl_digi.cxx:3772
 msgid "ADIF"
-msgstr ""
+msgstr "ADIF"
 
 #: src/dialogs/fl_digi.cxx:3773
 msgid "Merge..."
-msgstr ""
+msgstr "Összefésülés..."
 
 #: src/dialogs/fl_digi.cxx:3774
 msgid "Export..."
-msgstr ""
+msgstr "Export..."
 
 #: src/dialogs/fl_digi.cxx:3777
 msgid "Reports"
-msgstr ""
+msgstr "Riportok"
 
 #: src/dialogs/fl_digi.cxx:3778
 msgid "Text..."
-msgstr ""
+msgstr "Szöveg..."
 
 #: src/dialogs/fl_digi.cxx:3779
 msgid "CSV..."
-msgstr ""
+msgstr "CSV..."
 
 #: src/dialogs/fl_digi.cxx:3780
 msgid "Cabrillo..."
-msgstr ""
+msgstr "Cabrillo..."
 
 #: src/dialogs/fl_digi.cxx:3783
 #: src/logbook/logsupport.cxx:595
 #: src/logbook/lgbook.cxx:960
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 #: src/dialogs/fl_digi.cxx:3784
 #: src/dialogs/confdialog.cxx:8722
 msgid "Open..."
-msgstr ""
+msgstr "Megnyitás"
 
 #: src/dialogs/fl_digi.cxx:3792
 msgid "&Help"
@@ -577,15 +582,15 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3797
 msgid "Beginners' Guide"
-msgstr ""
+msgstr "Kezdők kézikönyve"
 
 #: src/dialogs/fl_digi.cxx:3798
 msgid "Online documentation..."
-msgstr ""
+msgstr "Online dokumentáció"
 
 #: src/dialogs/fl_digi.cxx:3799
 msgid "Fldigi web site..."
-msgstr ""
+msgstr "Az Fldigi weboldala..."
 
 #: src/dialogs/fl_digi.cxx:3800
 msgid "Reception reports..."
@@ -593,11 +598,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3801
 msgid "Command line options"
-msgstr ""
+msgstr "Parancssori opciók"
 
 #: src/dialogs/fl_digi.cxx:3802
 msgid "Audio device info"
-msgstr ""
+msgstr "Hangeszköz információ"
 
 #: src/dialogs/fl_digi.cxx:3803
 msgid "Build info"
