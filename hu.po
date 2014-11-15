@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-15 14:37+0100\n"
-"Last-Translator: Ervin Hegedüs <airween@gmail.com>\n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2014-11-14 20:03+0100\n"
+"Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: src/main.cxx:504
 #, c-format
 msgid "%s log started on %s"
-msgstr "%s log elindítva ekkor: %s"
+msgstr ""
 
 #: src/main.cxx:1170
 msgid "Bad modem id"
-msgstr "Hibás modem azonosító"
+msgstr ""
 
 #: src/main.cxx:1177
 msgid "Bad frequency"
@@ -31,34 +31,27 @@ msgstr "Hibás frekvencia"
 
 #: src/main.cxx:1312
 msgid ""
-"License GPLv3+: GNU GPL version 3 or later <http://www.gnu.org/licenses/gpl-3.0.html>\n"
+"License GPLv3+: GNU GPL version 3 or later <http://www.gnu.org/licenses/"
+"gpl-3.0.html>\n"
 "This is free software: you are free to change and redistribute it.\n"
 "There is NO WARRANTY, to the extent permitted by law.\n"
 msgstr ""
-"Licensz GPLv3+: GNU GPL 3-as verzió vagy frissebb <http://www.gnu.org/licenses/gpl-3.0.html>\n"
-"Ez egy szabad szoftver: szabadon módosítható és továbbadható.\n"
-"Az alkalmazható jogszabályok által biztosított maximális mértékben visszautasítjuk a programhoz a GARANCIA BIZTOSÍTÁSÁT.\n"
 
-#: src/main.cxx:1537
-#: src/main.cxx:1579
-#: src/main.cxx:1603
-#: src/main.cxx:1617
+#: src/main.cxx:1537 src/main.cxx:1579 src/main.cxx:1603 src/main.cxx:1617
 msgid "Could not make directory "
-msgstr "Nem sikerült a könyvtárat létrehozni"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:162
 msgid "Log all RX/TX text"
-msgstr "Minden RX/TX forgalom logolása"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:163
-#: src/misc/debug.cxx:103
+#: src/dialogs/fl_digi.cxx:163 src/misc/debug.cxx:103
 msgid "Rig control"
-msgstr "Rig kontroll"
+msgstr "Rádió kontroll"
 
-#: src/dialogs/fl_digi.cxx:164
-#: src/dialogs/fl_digi.cxx:5780
+#: src/dialogs/fl_digi.cxx:164 src/dialogs/fl_digi.cxx:5780
 msgid "Op &Mode"
-msgstr "Op és mód"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:165
 msgid "Show fewer modes"
@@ -70,7 +63,7 @@ msgstr "Minden mód mutatása"
 
 #: src/dialogs/fl_digi.cxx:170
 msgid "&View"
-msgstr "&Nézet"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:171
 msgid "&MFSK Image"
@@ -78,20 +71,19 @@ msgstr "&MFSK kép"
 
 #: src/dialogs/fl_digi.cxx:172
 msgid "&Weather Fax Image RX"
-msgstr "&Időjárás Fax Kép RX"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:173
 msgid "&Weather Fax Image TX"
-msgstr "&Időjárás Fax kép TX"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:174
-#: src/dialogs/confdialog.cxx:5546
+#: src/dialogs/fl_digi.cxx:174 src/dialogs/confdialog.cxx:5546
 msgid "Contest"
 msgstr "Verseny"
 
 #: src/dialogs/fl_digi.cxx:175
 msgid "&Contest fields"
-msgstr "&Verseny mezők"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:176
 msgid "C&ountries"
@@ -103,31 +95,29 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:178
 msgid "Full"
-msgstr ""
+msgstr "Teljes"
 
-#: src/dialogs/fl_digi.cxx:179
-#: src/waterfall/waterfall.cxx:2137
-#: src/dialogs/confdialog.cxx:5456
-#: src/dialogs/confdialog.cxx:10288
+#: src/dialogs/fl_digi.cxx:179 src/waterfall/waterfall.cxx:2137
+#: src/dialogs/confdialog.cxx:5456 src/dialogs/confdialog.cxx:10288
 #: src/dialogs/confdialog.cxx:10318
 msgid "None"
 msgstr ""
 
 #: src/dialogs/fl_digi.cxx:180
 msgid "Rig control and logging"
-msgstr "Rig kontroll és logolás"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:181
 msgid "Rig control and contest"
-msgstr "Rig kontroll és verseny"
+msgstr "Rádió kontroll és verseny"
 
 #: src/dialogs/fl_digi.cxx:182
 msgid "Docked scope"
-msgstr ""
+msgstr "Dokkolt szkóp"
 
 #: src/dialogs/fl_digi.cxx:183
 msgid "Minimal controls"
-msgstr "Minimális vezérlések"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:184
 msgid "Show channels"
@@ -135,54 +125,42 @@ msgstr "Csatornák mutatása"
 
 #: src/dialogs/fl_digi.cxx:186
 msgid "Connect to server"
-msgstr "Kapcoslódás kiszolgálóhoz"
+msgstr "Kapcsolódás a szerverhez"
 
-#: src/dialogs/fl_digi.cxx:612
-#: src/dialogs/fl_digi.cxx:627
-#: src/dialogs/fl_digi.cxx:636
-#: src/dialogs/fl_digi.cxx:3543
-#: src/dialogs/fl_digi.cxx:3600
-#: src/dialogs/fl_digi.cxx:3672
-#: src/dialogs/fl_digi.cxx:5795
-#: src/dialogs/fl_digi.cxx:5839
+#: src/dialogs/fl_digi.cxx:612 src/dialogs/fl_digi.cxx:627
+#: src/dialogs/fl_digi.cxx:636 src/dialogs/fl_digi.cxx:3543
+#: src/dialogs/fl_digi.cxx:3600 src/dialogs/fl_digi.cxx:3672
+#: src/dialogs/fl_digi.cxx:5795 src/dialogs/fl_digi.cxx:5839
 #: src/dialogs/fl_digi.cxx:5879
 msgid "Custom..."
-msgstr "Egyedi..."
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:971
-#: src/dialogs/fl_digi.cxx:2882
+#: src/dialogs/fl_digi.cxx:971 src/dialogs/fl_digi.cxx:2882
 msgid "Save changed macros?"
-msgstr "Mentsem a módosított makrókat?"
+msgstr "Megváltozott makrók mentése?"
 
-#: src/dialogs/fl_digi.cxx:971
-#: src/dialogs/fl_digi.cxx:2527
-#: src/dialogs/fl_digi.cxx:2589
-#: src/dialogs/fl_digi.cxx:4100
-#: src/logbook/logsupport.cxx:587
-#: src/misc/configuration.cxx:691
-#: src/dialogs/font_browser.cxx:137
-#: src/logbook/lgbook.cxx:447
+#: src/dialogs/fl_digi.cxx:971 src/dialogs/fl_digi.cxx:2527
+#: src/dialogs/fl_digi.cxx:2589 src/dialogs/fl_digi.cxx:4100
+#: src/logbook/logsupport.cxx:587 src/misc/configuration.cxx:691
+#: src/dialogs/font_browser.cxx:137 src/logbook/lgbook.cxx:447
 #: src/logbook/lgbook.cxx:1056
 msgid "Cancel"
 msgstr "Mégsem"
 
-#: src/dialogs/fl_digi.cxx:971
-#: src/dialogs/fl_digi.cxx:3785
-#: src/dialogs/fl_digi.cxx:4842
-#: src/dialogs/fl_digi.cxx:5110
-#: src/dialogs/fl_digi.cxx:5215
-#: src/logbook/logsupport.cxx:586
+#: src/dialogs/fl_digi.cxx:971 src/dialogs/fl_digi.cxx:3785
+#: src/dialogs/fl_digi.cxx:4842 src/dialogs/fl_digi.cxx:5110
+#: src/dialogs/fl_digi.cxx:5215 src/logbook/logsupport.cxx:586
 #: src/dialogs/confdialog.cxx:10943
 msgid "Save"
 msgstr "Mentés"
 
 #: src/dialogs/fl_digi.cxx:971
 msgid "Don't save"
-msgstr "Nincs mentés"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:1853
 msgid "No file name given"
-msgstr "Nincs megadva fájlnév"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:1856
 msgid "Unsupported format"
@@ -190,15 +168,15 @@ msgstr "Nem támogatott formátum"
 
 #: src/dialogs/fl_digi.cxx:1859
 msgid "channels != 1"
-msgstr "csatornák != 1"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:1862
 msgid "unknown wave file error"
-msgstr "ismeretlen hullámformátumú fájl"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:1869
 msgid "Spotting disabled"
-msgstr "Észlelés letíltva"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:1918
 #, c-format
@@ -209,11 +187,6 @@ msgid ""
 "Open this URL manually:\n"
 "%s"
 msgstr ""
-"Nem tudtam elindítani a böngészőt:\n"
-"%s\n"
-"\n"
-"Nyisd ezt meg hivatkozást:\n"
-"%s"
 
 #: src/dialogs/fl_digi.cxx:1931
 #, c-format
@@ -221,12 +194,10 @@ msgid ""
 "Could not open url:\n"
 "%s\n"
 msgstr ""
-"Nem tudtam megnyitni a hivatkozást:\n"
-"%s\n"
 
 #: src/dialogs/fl_digi.cxx:1982
 msgid "Checking for updates..."
-msgstr "Frissítések keresése"
+msgstr "Frissítések ellenőrzése"
 
 #: src/dialogs/fl_digi.cxx:1997
 #, c-format
@@ -234,8 +205,6 @@ msgid ""
 "Could not check for updates:\n"
 "%s"
 msgstr ""
-"Nem sikerült a frissítések ellenőrzése:\n"
-"%s"
 
 #: src/dialogs/fl_digi.cxx:2001
 #, c-format
@@ -246,26 +215,17 @@ msgid ""
 "\n"
 "What would you like to do?"
 msgstr ""
-"A(z) %s verzió elérhető\n"
-"\n"
-"%s\n"
-"\n"
-"Mit szeretnél tenni?"
 
-#: src/dialogs/fl_digi.cxx:2002
-#: src/dialogs/Viewer.cxx:300
-#: src/misc/macroedit.cxx:422
-#: src/misc/newinstall.cxx:391
-#: src/mfsk/mfsk-pic.cxx:342
-#: src/spot/notify.cxx:520
-#: src/spot/notify.cxx:524
+#: src/dialogs/fl_digi.cxx:2002 src/dialogs/Viewer.cxx:300
+#: src/misc/macroedit.cxx:422 src/misc/newinstall.cxx:391
+#: src/mfsk/mfsk-pic.cxx:342 src/spot/notify.cxx:520 src/spot/notify.cxx:524
 #: src/dialogs/confdialog.cxx:10946
 msgid "Close"
 msgstr "Bezárás"
 
 #: src/dialogs/fl_digi.cxx:2002
 msgid "Visit URL"
-msgstr "URL megtekintése"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2002
 msgid "Copy URL"
@@ -273,7 +233,7 @@ msgstr "URL másolása"
 
 #: src/dialogs/fl_digi.cxx:2014
 msgid "You are running the latest version"
-msgstr "A legfrissebb verzió fut"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2080
 msgid "Sunspot creation underway!"
@@ -285,7 +245,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2096
 msgid "Capture device"
-msgstr "Monitorozó eszköz"
+msgstr "Bemeneti eszköz"
 
 #: src/dialogs/fl_digi.cxx:2097
 msgid "Playback device"
@@ -293,88 +253,71 @@ msgstr "Lejátszó eszköz"
 
 #: src/dialogs/fl_digi.cxx:2101
 msgid "Capture and playback devices"
-msgstr "Monitorozó és lejátszó eszköz"
+msgstr "Bementi és lejátszó eszköz"
 
 #: src/dialogs/fl_digi.cxx:2147
 #, c-format
 msgid "%s: Do not exist, create?"
-msgstr "%s: Nem létezik, létrehozzam?"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:2147
-#: src/dialogs/fl_digi.cxx:2874
-#: src/dialogs/fl_digi.cxx:2882
-#: src/dialogs/fl_digi.cxx:2890
-#: src/dialogs/fl_digi.cxx:2904
-#: src/dialogs/fl_digi.cxx:2913
-#: src/dialogs/fl_digi.cxx:2924
-#: src/logbook/logbook.cxx:63
-#: src/logbook/logsupport.cxx:232
-#: src/logbook/logsupport.cxx:1049
-#: src/misc/configuration.cxx:693
-#: src/soundcard/sound.cxx:306
+#: src/dialogs/fl_digi.cxx:2147 src/dialogs/fl_digi.cxx:2874
+#: src/dialogs/fl_digi.cxx:2882 src/dialogs/fl_digi.cxx:2890
+#: src/dialogs/fl_digi.cxx:2904 src/dialogs/fl_digi.cxx:2913
+#: src/dialogs/fl_digi.cxx:2924 src/logbook/logbook.cxx:63
+#: src/logbook/logsupport.cxx:232 src/logbook/logsupport.cxx:1049
+#: src/misc/configuration.cxx:693 src/soundcard/sound.cxx:306
 msgid "No"
 msgstr "Nem"
 
-#: src/dialogs/fl_digi.cxx:2147
-#: src/dialogs/fl_digi.cxx:2874
-#: src/dialogs/fl_digi.cxx:2882
-#: src/dialogs/fl_digi.cxx:2890
-#: src/dialogs/fl_digi.cxx:2904
-#: src/dialogs/fl_digi.cxx:2913
-#: src/dialogs/fl_digi.cxx:2924
-#: src/logbook/logbook.cxx:63
-#: src/logbook/logsupport.cxx:232
-#: src/logbook/logsupport.cxx:1049
-#: src/misc/configuration.cxx:693
-#: src/soundcard/sound.cxx:306
+#: src/dialogs/fl_digi.cxx:2147 src/dialogs/fl_digi.cxx:2874
+#: src/dialogs/fl_digi.cxx:2882 src/dialogs/fl_digi.cxx:2890
+#: src/dialogs/fl_digi.cxx:2904 src/dialogs/fl_digi.cxx:2913
+#: src/dialogs/fl_digi.cxx:2924 src/logbook/logbook.cxx:63
+#: src/logbook/logsupport.cxx:232 src/logbook/logsupport.cxx:1049
+#: src/misc/configuration.cxx:693 src/soundcard/sound.cxx:306
 msgid "Yes"
 msgstr "Igen"
 
 #: src/dialogs/fl_digi.cxx:2527
 msgid "Clear log fields?"
-msgstr "Töröljem a log mezőket?"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:2527
-#: src/misc/configuration.cxx:691
-#: src/logbook/lgbook.cxx:444
-#: src/logbook/lgbook.cxx:1053
+#: src/dialogs/fl_digi.cxx:2527 src/misc/configuration.cxx:691
+#: src/logbook/lgbook.cxx:444 src/logbook/lgbook.cxx:1053
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2542
 msgid "Enter a CALL !"
-msgstr "Írj be egy HÍVÓJELET!"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:2589
-#: src/dialogs/fl_digi.cxx:4100
+#: src/dialogs/fl_digi.cxx:2589 src/dialogs/fl_digi.cxx:4100
 msgid "Confirm"
-msgstr "Megerősítés"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2874
 msgid "Save changed configuration?"
-msgstr "Mented a módosított konfigurációt?"
+msgstr "Configuráció mentése?"
 
-#: src/dialogs/fl_digi.cxx:2890
-#: src/dialogs/fl_digi.cxx:2913
+#: src/dialogs/fl_digi.cxx:2890 src/dialogs/fl_digi.cxx:2913
 msgid "Save log entry?"
-msgstr "Mented a logbejegyzést?"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2904
 msgid "Confirm Quit"
-msgstr "Kilépés megerősítése"
+msgstr "Kilépés jóváhagyása"
 
 #: src/dialogs/fl_digi.cxx:2924
 msgid "Confirm quit?"
-msgstr "Megerősíted a kilépést?"
+msgstr "Kilépés?"
 
-#: src/dialogs/fl_digi.cxx:3500
-#: src/dialogs/fl_digi.cxx:5776
+#: src/dialogs/fl_digi.cxx:3500 src/dialogs/fl_digi.cxx:5776
 msgid "&File"
-msgstr ""
+msgstr "&Fájl"
 
 #: src/dialogs/fl_digi.cxx:3502
 msgid "Folders"
-msgstr "Könyvtárak"
+msgstr "Mappák"
 
 #: src/dialogs/fl_digi.cxx:3503
 msgid "Fldigi config..."
@@ -392,8 +335,7 @@ msgstr "NBEMS fájlok..."
 msgid "Data files..."
 msgstr "Adat fájlok..."
 
-#: src/dialogs/fl_digi.cxx:3509
-#: src/dialogs/confdialog.cxx:5967
+#: src/dialogs/fl_digi.cxx:3509 src/dialogs/confdialog.cxx:5967
 msgid "Macros"
 msgstr "Makrók"
 
@@ -409,8 +351,7 @@ msgstr "Mentés ..."
 msgid "Text Capture"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3519
-#: src/misc/debug.cxx:101
+#: src/dialogs/fl_digi.cxx:3519 src/misc/debug.cxx:101
 #: src/dialogs/confdialog.cxx:9192
 msgid "Audio"
 msgstr "Hang"
@@ -423,103 +364,88 @@ msgstr ""
 msgid "TX generate"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3522
-#: src/dialogs/confdialog.cxx:9292
+#: src/dialogs/fl_digi.cxx:3522 src/dialogs/confdialog.cxx:9292
 msgid "Playback"
 msgstr "Lejátszás"
 
-#: src/dialogs/fl_digi.cxx:3526
-#: src/dialogs/fl_digi.cxx:5777
+#: src/dialogs/fl_digi.cxx:3526 src/dialogs/fl_digi.cxx:5777
 msgid "Exit"
 msgstr "Kilépés"
 
-#: src/dialogs/fl_digi.cxx:3723
-#: src/dialogs/fl_digi.cxx:5919
+#: src/dialogs/fl_digi.cxx:3723 src/dialogs/fl_digi.cxx:5919
 msgid "&Configure"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3724
-#: src/dialogs/confdialog.cxx:5289
+#: src/dialogs/fl_digi.cxx:3724 src/dialogs/confdialog.cxx:5289
 msgid "Operator"
-msgstr "Operátor"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3725
 msgid "Colors && Fonts"
-msgstr "Színek és fontok"
+msgstr "Színek és Betűtípusok"
 
-#: src/dialogs/fl_digi.cxx:3726
-#: src/dialogs/confdialog.cxx:5400
+#: src/dialogs/fl_digi.cxx:3726 src/dialogs/confdialog.cxx:5400
 msgid "User Interface"
 msgstr "Felhasználói felület"
 
-#: src/dialogs/fl_digi.cxx:3727
-#: src/dialogs/fl_digi.cxx:3762
-#: src/dialogs/fl_digi.cxx:5920
-#: src/dialogs/confdialog.cxx:6580
+#: src/dialogs/fl_digi.cxx:3727 src/dialogs/fl_digi.cxx:3762
+#: src/dialogs/fl_digi.cxx:5920 src/dialogs/confdialog.cxx:6580
 msgid "Waterfall"
 msgstr "Vízesés"
 
 #: src/dialogs/fl_digi.cxx:3728
 msgid "Waterfall controls"
-msgstr "Vízesés kezelés"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3730
-#: src/dialogs/fl_digi.cxx:5923
+#: src/dialogs/fl_digi.cxx:3730 src/dialogs/fl_digi.cxx:5923
 #: src/dialogs/confdialog.cxx:6974
 msgid "Modems"
 msgstr "Modemek"
 
-#: src/dialogs/fl_digi.cxx:3732
-#: src/dialogs/fl_digi.cxx:5922
+#: src/dialogs/fl_digi.cxx:3732 src/dialogs/fl_digi.cxx:5922
 msgid "Sound Card"
 msgstr "Hangkártya"
 
-#: src/dialogs/fl_digi.cxx:3733
-#: src/dialogs/fl_digi.cxx:5924
+#: src/dialogs/fl_digi.cxx:3733 src/dialogs/fl_digi.cxx:5924
 msgid "IDs"
-msgstr "Azonosítók"
+msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3734
-#: src/dialogs/confdialog.cxx:9701
+#: src/dialogs/fl_digi.cxx:3734 src/dialogs/confdialog.cxx:9701
 msgid "Misc"
 msgstr "Egyéb"
 
-#: src/dialogs/fl_digi.cxx:3735
-#: src/dialogs/confdialog.cxx:10519
+#: src/dialogs/fl_digi.cxx:3735 src/dialogs/confdialog.cxx:10519
 msgid "Autostart"
-msgstr ""
+msgstr "Automatikus indítás"
 
-#: src/dialogs/fl_digi.cxx:3736
-#: src/dialogs/confdialog.cxx:10728
+#: src/dialogs/fl_digi.cxx:3736 src/dialogs/confdialog.cxx:10728
 msgid "IO"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3737
-#: src/dialogs/fl_digi.cxx:5925
+#: src/dialogs/fl_digi.cxx:3737 src/dialogs/fl_digi.cxx:5925
 #: src/dialogs/notifydialog.cxx:104
 msgid "Notifications"
-msgstr "Értesítések"
+msgstr "Figyelmeztetések"
 
 #: src/dialogs/fl_digi.cxx:3739
 msgid "QRZ/eQSL"
-msgstr ""
+msgstr "QRZ/eQSL"
 
-#: src/dialogs/fl_digi.cxx:3740
-#: src/dialogs/fl_digi.cxx:5926
+#: src/dialogs/fl_digi.cxx:3740 src/dialogs/fl_digi.cxx:5926
 msgid "Save Config"
 msgstr "Konfiguráció mentése"
 
 #: src/dialogs/fl_digi.cxx:3745
 msgid "View/Hide Channels"
-msgstr "Csatornák mutatása/elrejtése"
+msgstr "Csatonák mutatása/elrejtése"
 
 #: src/dialogs/fl_digi.cxx:3747
 msgid "Floating scope"
-msgstr ""
+msgstr "Lebegő szkóp"
 
 #: src/dialogs/fl_digi.cxx:3751
 msgid "Signal browser"
-msgstr ""
+msgstr "Jel böngésző"
 
 #: src/dialogs/fl_digi.cxx:3754
 msgid "Controls"
@@ -531,7 +457,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3770
 msgid "View"
-msgstr "Nézet"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3772
 msgid "ADIF"
@@ -539,15 +465,15 @@ msgstr "ADIF"
 
 #: src/dialogs/fl_digi.cxx:3773
 msgid "Merge..."
-msgstr "Összefésülés..."
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3774
 msgid "Export..."
-msgstr "Export..."
+msgstr "Exportálás..."
 
 #: src/dialogs/fl_digi.cxx:3777
 msgid "Reports"
-msgstr "Riportok"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3778
 msgid "Text..."
@@ -561,20 +487,18 @@ msgstr "CSV..."
 msgid "Cabrillo..."
 msgstr "Cabrillo..."
 
-#: src/dialogs/fl_digi.cxx:3783
-#: src/logbook/logsupport.cxx:595
+#: src/dialogs/fl_digi.cxx:3783 src/logbook/logsupport.cxx:595
 #: src/logbook/lgbook.cxx:960
 msgid "New"
 msgstr "Új"
 
-#: src/dialogs/fl_digi.cxx:3784
-#: src/dialogs/confdialog.cxx:8722
+#: src/dialogs/fl_digi.cxx:3784 src/dialogs/confdialog.cxx:8722
 msgid "Open..."
-msgstr "Megnyitás"
+msgstr "Megnyitás..."
 
 #: src/dialogs/fl_digi.cxx:3792
 msgid "&Help"
-msgstr ""
+msgstr "&Súgó"
 
 #: src/dialogs/fl_digi.cxx:3795
 msgid "Create sunspots"
@@ -582,7 +506,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3797
 msgid "Beginners' Guide"
-msgstr "Kezdők kézikönyve"
+msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3798
 msgid "Online documentation..."
@@ -590,7 +514,7 @@ msgstr "Online dokumentáció"
 
 #: src/dialogs/fl_digi.cxx:3799
 msgid "Fldigi web site..."
-msgstr "Az Fldigi weboldala..."
+msgstr "Fldigi weboldal"
 
 #: src/dialogs/fl_digi.cxx:3800
 msgid "Reception reports..."
@@ -602,20 +526,19 @@ msgstr "Parancssori opciók"
 
 #: src/dialogs/fl_digi.cxx:3802
 msgid "Audio device info"
-msgstr "Hangeszköz információ"
+msgstr "Hang eszköz információ"
 
 #: src/dialogs/fl_digi.cxx:3803
 msgid "Build info"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:3804
-#: src/misc/debug.cxx:138
+#: src/dialogs/fl_digi.cxx:3804 src/misc/debug.cxx:138
 msgid "Event log"
-msgstr ""
+msgstr "Esménynapló"
 
 #: src/dialogs/fl_digi.cxx:3805
 msgid "Check for updates..."
-msgstr ""
+msgstr "Frissítések ellenőrzése"
 
 #: src/dialogs/fl_digi.cxx:3806
 msgid "&About"
@@ -627,22 +550,20 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4044
 msgid "NO CALLSIGN SET"
-msgstr ""
+msgstr "NINCS HÍVÓJEL BEÁLLÍTVA"
 
 #: src/dialogs/fl_digi.cxx:4059
 msgid "Close List"
-msgstr ""
+msgstr "Lista bezárása"
 
-#: src/dialogs/fl_digi.cxx:4069
-#: src/dialogs/fl_digi.cxx:4824
-#: src/dialogs/fl_digi.cxx:5089
-#: src/dialogs/fl_digi.cxx:5201
+#: src/dialogs/fl_digi.cxx:4069 src/dialogs/fl_digi.cxx:4824
+#: src/dialogs/fl_digi.cxx:5089 src/dialogs/fl_digi.cxx:5201
 msgid "Open List"
-msgstr ""
+msgstr "Lista megynitása"
 
 #: src/dialogs/fl_digi.cxx:4100
 msgid "Clear list?"
-msgstr ""
+msgstr "Lista törlése?"
 
 #: src/dialogs/fl_digi.cxx:4133
 msgid "report"
@@ -660,25 +581,19 @@ msgstr ""
 msgid "Toggle smeter / combo controls"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:4830
-#: src/dialogs/fl_digi.cxx:5096
+#: src/dialogs/fl_digi.cxx:4830 src/dialogs/fl_digi.cxx:5096
 msgid "QRZ"
-msgstr ""
+msgstr "QRZ"
 
-#: src/dialogs/fl_digi.cxx:4836
-#: src/dialogs/fl_digi.cxx:5103
-#: src/dialogs/fl_digi.cxx:5208
-#: src/dialogs/fl_digi.cxx:5413
-#: src/dialogs/Viewer.cxx:308
-#: src/widgets/FTextView.cxx:480
-#: src/widgets/FTextView.cxx:645
-#: src/widgets/flinput2.cxx:47
+#: src/dialogs/fl_digi.cxx:4836 src/dialogs/fl_digi.cxx:5103
+#: src/dialogs/fl_digi.cxx:5208 src/dialogs/fl_digi.cxx:5413
+#: src/dialogs/Viewer.cxx:308 src/widgets/FTextView.cxx:480
+#: src/widgets/FTextView.cxx:645 src/widgets/flinput2.cxx:47
 #: src/dialogs/confdialog.cxx:8049
 msgid "Clear"
-msgstr ""
+msgstr "Törlés"
 
-#: src/dialogs/fl_digi.cxx:4858
-#: src/spot/notify.cxx:216
+#: src/dialogs/fl_digi.cxx:4858 src/spot/notify.cxx:216
 #: src/dialogs/confdialog.cxx:5534
 msgid "Select"
 msgstr ""
@@ -689,11 +604,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4872
 msgid "Clear list"
-msgstr ""
+msgstr "Lista törlése"
 
 #: src/dialogs/fl_digi.cxx:4879
 msgid "Delete from list"
-msgstr ""
+msgstr "Törlés a listából"
 
 #: src/dialogs/fl_digi.cxx:4903
 msgid "Select operating parameters"
@@ -701,69 +616,62 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4933
 msgid "Frq"
-msgstr ""
+msgstr "Frek"
 
 #: src/dialogs/fl_digi.cxx:4935
 msgid "frequency kHz"
-msgstr ""
+msgstr "frekvencia kHz"
 
-#: src/dialogs/fl_digi.cxx:4939
-#: src/dialogs/fl_digi.cxx:5112
+#: src/dialogs/fl_digi.cxx:4939 src/dialogs/fl_digi.cxx:5112
 #: src/dialogs/fl_digi.cxx:5218
 msgid "On"
-msgstr ""
+msgstr "Be"
 
 #: src/dialogs/fl_digi.cxx:4940
 msgid "Press to update QSO start time"
-msgstr ""
+msgstr "QSO kezdetének frissítése"
 
 #: src/dialogs/fl_digi.cxx:4946
 msgid "QSO start time"
-msgstr ""
+msgstr "QSO kezdete"
 
-#: src/dialogs/fl_digi.cxx:4951
-#: src/dialogs/fl_digi.cxx:5125
+#: src/dialogs/fl_digi.cxx:4951 src/dialogs/fl_digi.cxx:5125
 #: src/dialogs/fl_digi.cxx:5219
 msgid "Off"
-msgstr ""
+msgstr "Ki"
 
 #: src/dialogs/fl_digi.cxx:4952
 msgid "QSO end time"
-msgstr ""
+msgstr "QSO vége"
 
-#: src/dialogs/fl_digi.cxx:4957
-#: src/dialogs/fl_digi.cxx:5142
+#: src/dialogs/fl_digi.cxx:4957 src/dialogs/fl_digi.cxx:5142
 #: src/logbook/lgbook.cxx:620
 msgid "In"
-msgstr ""
+msgstr "Be"
 
-#: src/dialogs/fl_digi.cxx:4962
-#: src/dialogs/fl_digi.cxx:5150
+#: src/dialogs/fl_digi.cxx:4962 src/dialogs/fl_digi.cxx:5150
 #: src/logbook/lgbook.cxx:706
 msgid "Out"
-msgstr ""
+msgstr "Ki"
 
-#: src/dialogs/fl_digi.cxx:4969
-#: src/dialogs/fl_digi.cxx:5134
-#: src/dialogs/fl_digi.cxx:5220
-#: src/widgets/FTextRXTX.cxx:103
-#: src/logbook/lgbook.cxx:459
-#: src/logbook/lgbook.cxx:596
+#: src/dialogs/fl_digi.cxx:4969 src/dialogs/fl_digi.cxx:5134
+#: src/dialogs/fl_digi.cxx:5220 src/widgets/FTextRXTX.cxx:103
+#: src/logbook/lgbook.cxx:459 src/logbook/lgbook.cxx:596
 #: src/logbook/lgbook.cxx:1075
 msgid "Call"
-msgstr ""
+msgstr "Hívás"
 
 #: src/dialogs/fl_digi.cxx:4970
 msgid "call sign"
-msgstr ""
+msgstr "hívójel"
 
 #: src/dialogs/fl_digi.cxx:4976
 msgid "Op"
-msgstr ""
+msgstr "Op"
 
 #: src/dialogs/fl_digi.cxx:4977
 msgid "Operator name"
-msgstr ""
+msgstr "Operátor neve"
 
 #: src/dialogs/fl_digi.cxx:4982
 msgid "Azimuth"
@@ -771,7 +679,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4989
 msgid "City"
-msgstr ""
+msgstr "Város"
 
 #: src/dialogs/fl_digi.cxx:4994
 msgid "US State"
@@ -785,65 +693,55 @@ msgstr ""
 msgid "Maidenhead Locator"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5016
-#: src/dialogs/fl_digi.cxx:5269
+#: src/dialogs/fl_digi.cxx:5016 src/dialogs/fl_digi.cxx:5269
 msgid "Sent serial number (read only)"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5022
-#: src/dialogs/fl_digi.cxx:5260
+#: src/dialogs/fl_digi.cxx:5022 src/dialogs/fl_digi.cxx:5260
 msgid "Received serial number"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5027
-#: src/dialogs/fl_digi.cxx:5251
+#: src/dialogs/fl_digi.cxx:5027 src/dialogs/fl_digi.cxx:5251
 msgid "Contest exchange in"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5042
-#: src/spot/notify.cxx:570
-#: src/widgets/FTextRXTX.cxx:108
-#: src/logbook/lgbook.cxx:521
+#: src/dialogs/fl_digi.cxx:5042 src/spot/notify.cxx:570
+#: src/widgets/FTextRXTX.cxx:108 src/logbook/lgbook.cxx:521
 #: src/logbook/lgbook.cxx:767
 msgid "Country"
-msgstr ""
+msgstr "Ország"
 
-#: src/dialogs/fl_digi.cxx:5048
-#: src/logbook/lgbook.cxx:524
+#: src/dialogs/fl_digi.cxx:5048 src/logbook/lgbook.cxx:524
 #: src/logbook/lgbook.cxx:791
 msgid "Notes"
-msgstr ""
+msgstr "Megjegyzések"
 
-#: src/dialogs/fl_digi.cxx:5116
-#: src/dialogs/fl_digi.cxx:5275
+#: src/dialogs/fl_digi.cxx:5116 src/dialogs/fl_digi.cxx:5275
 msgid "Press to update"
-msgstr ""
+msgstr "Nyomja meg a frissítéshez"
 
-#: src/dialogs/fl_digi.cxx:5122
-#: src/dialogs/fl_digi.cxx:5281
+#: src/dialogs/fl_digi.cxx:5122 src/dialogs/fl_digi.cxx:5281
 #: src/logbook/lgbook.cxx:584
 msgid "Time On"
-msgstr ""
+msgstr "Idő be"
 
-#: src/dialogs/fl_digi.cxx:5131
-#: src/dialogs/fl_digi.cxx:5289
+#: src/dialogs/fl_digi.cxx:5131 src/dialogs/fl_digi.cxx:5289
 #: src/logbook/lgbook.cxx:658
 msgid "Time Off"
-msgstr ""
+msgstr "Idő ki"
 
-#: src/dialogs/fl_digi.cxx:5140
-#: src/dialogs/fl_digi.cxx:5236
+#: src/dialogs/fl_digi.cxx:5140 src/dialogs/fl_digi.cxx:5236
 #: src/dialogs/fl_digi.cxx:5591
 msgid "Other call"
 msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5148
 msgid "Received RST"
-msgstr ""
+msgstr "ett RST"
 
 #: src/dialogs/fl_digi.cxx:5156
 msgid "Sent RST"
-msgstr ""
+msgstr "Küldött RST"
 
 #: src/dialogs/fl_digi.cxx:5158
 msgid "Nm"
@@ -886,8 +784,7 @@ msgstr ""
 msgid "seek - regular expression"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5407
-#: src/dialogs/Viewer.cxx:318
+#: src/dialogs/fl_digi.cxx:5407 src/dialogs/Viewer.cxx:318
 msgid "Set Viewer Squelch"
 msgstr ""
 
@@ -900,94 +797,84 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5516
 msgid "Primary macro set"
-msgstr ""
+msgstr "Elsődleges macroö beállítás"
 
-#: src/dialogs/fl_digi.cxx:5533
-#: src/dialogs/fl_digi.cxx:6143
+#: src/dialogs/fl_digi.cxx:5533 src/dialogs/fl_digi.cxx:6143
 msgid "Detected signal level"
-msgstr ""
+msgstr "Érzékelt jelszint"
 
-#: src/dialogs/fl_digi.cxx:5544
-#: src/dialogs/fl_digi.cxx:6155
+#: src/dialogs/fl_digi.cxx:5544 src/dialogs/fl_digi.cxx:6155
 #: src/waterfall/waterfall.cxx:2138
 msgid "Squelch level"
-msgstr ""
+msgstr "Zajzár szintje"
 
-#: src/dialogs/fl_digi.cxx:5558
-#: src/dialogs/fl_digi.cxx:6169
+#: src/dialogs/fl_digi.cxx:5558 src/dialogs/fl_digi.cxx:6169
 msgid ""
 "Left click: change mode\n"
 "Right click: configure"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5568
-#: src/dialogs/fl_digi.cxx:6176
+#: src/dialogs/fl_digi.cxx:5568 src/dialogs/fl_digi.cxx:6176
 msgid "CW transmit WPM"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5574
-#: src/dialogs/fl_digi.cxx:6183
+#: src/dialogs/fl_digi.cxx:5574 src/dialogs/fl_digi.cxx:6183
 msgid "Default WPM"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5613
-#: src/dialogs/fl_digi.cxx:6215
+#: src/dialogs/fl_digi.cxx:5613 src/dialogs/fl_digi.cxx:6215
 msgid "Tx level attenuator (dB)"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5643
-#: src/dialogs/fl_digi.cxx:6244
+#: src/dialogs/fl_digi.cxx:5643 src/dialogs/fl_digi.cxx:6244
 msgid "Automatic Frequency Control"
-msgstr ""
+msgstr "Automatikus Frekvencia Kontroll"
 
-#: src/dialogs/fl_digi.cxx:5647
-#: src/dialogs/fl_digi.cxx:6247
+#: src/dialogs/fl_digi.cxx:5647 src/dialogs/fl_digi.cxx:6247
 msgid "Squelch"
-msgstr ""
+msgstr "Zajzár"
 
-#: src/dialogs/fl_digi.cxx:5652
-#: src/dialogs/fl_digi.cxx:6251
+#: src/dialogs/fl_digi.cxx:5652 src/dialogs/fl_digi.cxx:6251
 msgid "Monitor KISS Pwr Squelch"
 msgstr ""
 
-#: src/dialogs/fl_digi.cxx:5699
-#: src/dialogs/fl_digi.cxx:6053
+#: src/dialogs/fl_digi.cxx:5699 src/dialogs/fl_digi.cxx:6053
 msgid "Scope"
-msgstr ""
+msgstr "Szkóp"
 
-#: src/dialogs/fl_digi.cxx:5935
-#: src/dialogs/Viewer.cxx:275
+#: src/dialogs/fl_digi.cxx:5935 src/dialogs/Viewer.cxx:275
 msgid "Signal Browser"
-msgstr ""
+msgstr "Jelböngésző"
 
 #: src/dialogs/Viewer.cxx:279
 msgid "Find: "
-msgstr ""
+msgstr "Keresés:"
 
 #: src/dialogs/Viewer.cxx:312
 msgid ""
 "Left click to clear text\n"
 "Right click to reset frequencies"
 msgstr ""
+"Bal egérgomb szöveg törlése\n"
+"Jobb egérgomb frekvencia visszaállítása"
 
 #: src/logbook/adif_io.cxx:228
 #, c-format
 msgid "Empty ADIF logbook file %s"
-msgstr ""
+msgstr "Üres ADIF log file %s"
 
 #: src/logbook/adif_io.cxx:247
 #, c-format
 msgid "Error reading %s"
 msgstr ""
 
-#: src/logbook/logbook.cxx:63
-#: src/logbook/logsupport.cxx:232
+#: src/logbook/logbook.cxx:63 src/logbook/logsupport.cxx:232
 msgid "Save changed Logbook?"
-msgstr ""
+msgstr "Log mentése?"
 
 #: src/logbook/logsupport.cxx:141
 msgid "Export to CSV file"
-msgstr ""
+msgstr "Exportálás CSV fájlba"
 
 #: src/logbook/logsupport.cxx:167
 msgid "Export to fixed field text file"
@@ -995,27 +882,25 @@ msgstr ""
 
 #: src/logbook/logsupport.cxx:194
 msgid "Export to ADIF file"
-msgstr ""
+msgstr "Exportálás ADIF fájlba"
 
 #: src/logbook/logsupport.cxx:277
 msgid "Open logbook file"
-msgstr ""
+msgstr "Log fájl megnyitása"
 
 #: src/logbook/logsupport.cxx:300
 msgid "Save logbook file"
-msgstr ""
+msgstr "Log fájl mentése"
 
 #: src/logbook/logsupport.cxx:494
 msgid "Merge ADIF file"
 msgstr ""
 
-#: src/logbook/logsupport.cxx:596
-#: src/spot/notify.cxx:204
-#: src/spot/notify.cxx:518
-#: src/dialogs/record_browse.cxx:47
+#: src/logbook/logsupport.cxx:596 src/spot/notify.cxx:204
+#: src/spot/notify.cxx:518 src/dialogs/record_browse.cxx:47
 #: src/logbook/lgbook.cxx:967
 msgid "Update"
-msgstr ""
+msgstr "Frissítés"
 
 #: src/logbook/logsupport.cxx:1048
 #, c-format
@@ -1042,13 +927,12 @@ msgstr ""
 
 #: src/logger/rx_extract.cxx:269
 msgid "Could not start flmsg"
-msgstr ""
+msgstr "Az flmsf nem indult el"
 
-#: src/logger/rx_extract.cxx:333
-#: src/logger/rx_extract.cxx:336
+#: src/logger/rx_extract.cxx:333 src/logger/rx_extract.cxx:336
 #: src/dialogs/confdialog.cxx:9768
 msgid "Locate flmsg executable"
-msgstr ""
+msgstr "Az flmsg program helye"
 
 #: src/logger/rx_extract.cxx:333
 msgid "flmsg.exe\t*.exe"
@@ -1060,11 +944,11 @@ msgstr ""
 
 #: src/logger/rx_extract.cxx:408
 msgid "Locate executable"
-msgstr ""
+msgstr "A program helye"
 
 #: src/logger/rx_extract.cxx:408
 msgid "*.exe"
-msgstr ""
+msgstr "*.exe"
 
 #: src/logger/rx_extract.cxx:411
 msgid "Locate binary"
@@ -1072,7 +956,7 @@ msgstr ""
 
 #: src/logger/rx_extract.cxx:411
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: src/logger/speak.cxx:42
 msgid ""
@@ -1088,11 +972,11 @@ msgstr ""
 
 #: src/misc/configuration.cxx:510
 msgid "Always LSB"
-msgstr ""
+msgstr "Mindig LSB"
 
 #: src/misc/configuration.cxx:511
 msgid "Always USB"
-msgstr ""
+msgstr "Mindig USB"
 
 #: src/misc/configuration.cxx:688
 msgid ""
@@ -1112,7 +996,7 @@ msgstr ""
 
 #: src/misc/debug.cxx:91
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #: src/misc/debug.cxx:91
 msgid "Warning"
@@ -1120,7 +1004,7 @@ msgstr ""
 
 #: src/misc/debug.cxx:91
 msgid "Info"
-msgstr ""
+msgstr "Információ"
 
 #: src/misc/debug.cxx:91
 msgid "Verbose"
@@ -1134,10 +1018,9 @@ msgstr ""
 msgid "ARQ control"
 msgstr ""
 
-#: src/misc/debug.cxx:102
-#: src/waterfall/waterfall.cxx:2139
+#: src/misc/debug.cxx:102 src/waterfall/waterfall.cxx:2139
 msgid "Modem"
-msgstr ""
+msgstr "Modem"
 
 #: src/misc/debug.cxx:104
 msgid "RPC"
@@ -1153,11 +1036,11 @@ msgstr ""
 
 #: src/misc/debug.cxx:107
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
 #: src/misc/debug.cxx:142
 msgid "Log sources"
-msgstr ""
+msgstr "Log források"
 
 #: src/misc/debug.cxx:147
 msgid "Change log level"
@@ -1165,15 +1048,15 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:71
 msgid "<FREQ>\tmy frequency"
-msgstr ""
+msgstr "<FREQ>\ta frekvenciám"
 
 #: src/misc/macroedit.cxx:72
 msgid "<MODE>\tmode"
-msgstr ""
+msgstr "<MODE>\tmód"
 
 #: src/misc/macroedit.cxx:73
 msgid "<MYCALL>\tmy call"
-msgstr ""
+msgstr "<MYCALL>\tHívójelem"
 
 #: src/misc/macroedit.cxx:74
 msgid "<MYLOC>\tmy locator"
@@ -1181,7 +1064,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:75
 msgid "<MYNAME>\tmy name"
-msgstr ""
+msgstr "<MYNAME>\tA nevem"
 
 #: src/misc/macroedit.cxx:76
 msgid "<MYQTH>\tmy QTH"
@@ -1577,15 +1460,15 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:331
 msgid "Text file to insert"
-msgstr ""
+msgstr "Szövegfájl beszúrása"
 
 #: src/misc/macroedit.cxx:339
 msgid "Test text file"
-msgstr ""
+msgstr "Szövegfájl tesztelése"
 
 #: src/misc/macroedit.cxx:347
 msgid "MFSK image file"
-msgstr ""
+msgstr "MFSK képfájl"
 
 #: src/misc/macroedit.cxx:354
 msgid "Change to Macro file"
@@ -1597,7 +1480,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:394
 msgid "Macro Text"
-msgstr ""
+msgstr "Makró szöveg"
 
 #: src/misc/macroedit.cxx:399
 msgid "Select Tag"
@@ -1605,32 +1488,31 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:411
 msgid "Macro Button Label"
-msgstr ""
+msgstr "Makró gombfelirat"
 
 #: src/misc/macroedit.cxx:419
 msgid "Apply"
-msgstr ""
+msgstr "Alkalmazás"
 
 #: src/misc/macroedit.cxx:446
 msgid "Macro editor - "
-msgstr ""
+msgstr "Makrószerkesztő -"
 
 #: src/misc/macros.cxx:2976
 msgid "Open macro file"
-msgstr ""
+msgstr "Makró fájl megnyitása"
 
-#: src/misc/macros.cxx:2977
-#: src/misc/macros.cxx:3015
+#: src/misc/macros.cxx:2977 src/misc/macros.cxx:3015
 msgid "Fldigi macro definition file\t*.{mdf}"
 msgstr ""
 
 #: src/misc/macros.cxx:3014
 msgid "Save macro file"
-msgstr ""
+msgstr "Makró fájl mentése"
 
 #: src/misc/network.cxx:170
 msgid "Aborted"
-msgstr ""
+msgstr "Megszakítva"
 
 #: src/misc/network.cxx:170
 msgid "Timed out"
@@ -1642,11 +1524,11 @@ msgstr ""
 
 #: src/misc/newinstall.cxx:388
 msgid "Next"
-msgstr ""
+msgstr "Következő"
 
 #: src/misc/newinstall.cxx:389
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 #: src/misc/newinstall.cxx:519
 msgid "The wizard will guide you through the basic fldigi settings"
@@ -1662,22 +1544,20 @@ msgstr ""
 
 #: src/misc/newinstall.cxx:538
 msgid "Fldigi configuration wizard"
-msgstr ""
+msgstr "Fldigi konfiguráció varázsló"
 
-#: src/mfsk/mfsk-pic.cxx:142
-#: src/mfsk/mfsk-pic.cxx:146
-#: src/mfsk/mfsk-pic.cxx:305
-#: src/mfsk/mfsk-pic.cxx:308
+#: src/mfsk/mfsk-pic.cxx:142 src/mfsk/mfsk-pic.cxx:146
+#: src/mfsk/mfsk-pic.cxx:305 src/mfsk/mfsk-pic.cxx:308
 msgid "Time needed: "
 msgstr ""
 
 #: src/mfsk/mfsk-pic.cxx:175
 msgid "Load image file"
-msgstr ""
+msgstr "Képfájl betöltése"
 
 #: src/mfsk/mfsk-pic.cxx:316
 msgid "Send image"
-msgstr ""
+msgstr "Kép küldése"
 
 #: src/mfsk/mfsk-pic.cxx:323
 msgid ""
@@ -1691,15 +1571,15 @@ msgstr ""
 
 #: src/mfsk/mfsk-pic.cxx:339
 msgid "Load"
-msgstr ""
+msgstr "Betöltés"
 
 #: src/waterfall/waterfall.cxx:1581
 msgid "Waterfall / FFT / Scope"
-msgstr ""
+msgstr "Vízesés / FFT / Szkóp"
 
 #: src/waterfall/waterfall.cxx:1591
 msgid "Upper signal level (dB)"
-msgstr ""
+msgstr "Felső jelszint (dB)"
 
 #: src/waterfall/waterfall.cxx:1602
 msgid "Signal range (dB)"
@@ -1745,14 +1625,13 @@ msgstr ""
 msgid "Lock transmit frequency"
 msgstr ""
 
-#: src/waterfall/waterfall.cxx:1668
-#: src/dialogs/confdialog.cxx:6095
+#: src/waterfall/waterfall.cxx:1668 src/dialogs/confdialog.cxx:6095
 msgid "Reverse"
 msgstr ""
 
 #: src/waterfall/waterfall.cxx:1675
 msgid "Transmit/Receive"
-msgstr ""
+msgstr "Adás/vétel"
 
 #: src/waterfall/waterfall.cxx:2137
 msgid "AFC range or BW"
@@ -1760,11 +1639,11 @@ msgstr ""
 
 #: src/waterfall/waterfall.cxx:2138
 msgid "Signal search"
-msgstr ""
+msgstr "Jel keresés"
 
 #: src/waterfall/waterfall.cxx:2139
 msgid "Modem carrier"
-msgstr ""
+msgstr "Modem vivő"
 
 #: src/waterfall/waterfall.cxx:2139
 msgid "Scroll"
@@ -1772,7 +1651,7 @@ msgstr ""
 
 #: src/rigcontrol/rigxml.cxx:946
 msgid "Open rig xml file"
-msgstr ""
+msgstr "Rádió xml fájl megnyitása"
 
 #: src/rigcontrol/rigxml.cxx:946
 msgid "Fldigi rig xml definition file\t*.xml"
@@ -1788,18 +1667,17 @@ msgstr ""
 msgid "Free Lossless Audio Codec\t*.flac"
 msgstr ""
 
-#: src/soundcard/sound.cxx:158
-#: src/soundcard/sound.cxx:160
+#: src/soundcard/sound.cxx:158 src/soundcard/sound.cxx:160
 msgid "Audio file"
-msgstr ""
+msgstr "Hangfájl"
 
 #: src/soundcard/sound.cxx:306
 msgid "Playback continuous loop?"
-msgstr ""
+msgstr "A lejátszás folyamatos ismétlése?"
 
 #: src/spot/notify.cxx:192
 msgid "My callsign de CALL"
-msgstr ""
+msgstr "A hívójelem de CALL"
 
 #: src/spot/notify.cxx:193
 msgid "Station heard twice"
@@ -1817,35 +1695,26 @@ msgstr ""
 msgid "Toggle"
 msgstr ""
 
-#: src/spot/notify.cxx:205
-#: src/spot/notify.cxx:517
+#: src/spot/notify.cxx:205 src/spot/notify.cxx:517
 msgid "Remove"
 msgstr ""
 
-#: src/spot/notify.cxx:217
-#: src/spot/notify.cxx:223
-#: src/spot/notify.cxx:571
-#: src/logbook/lgbook.cxx:548
-#: src/logbook/lgbook.cxx:853
+#: src/spot/notify.cxx:217 src/spot/notify.cxx:223 src/spot/notify.cxx:571
+#: src/logbook/lgbook.cxx:548 src/logbook/lgbook.cxx:853
 msgid "Continent"
 msgstr ""
 
-#: src/spot/notify.cxx:218
-#: src/spot/notify.cxx:224
-#: src/logbook/lgbook.cxx:841
+#: src/spot/notify.cxx:218 src/spot/notify.cxx:224 src/logbook/lgbook.cxx:841
 msgid "ITU zone"
-msgstr ""
+msgstr "ITU zóna"
 
-#: src/spot/notify.cxx:219
-#: src/spot/notify.cxx:225
-#: src/logbook/lgbook.cxx:829
+#: src/spot/notify.cxx:219 src/spot/notify.cxx:225 src/logbook/lgbook.cxx:829
 msgid "CQ zone"
-msgstr ""
+msgstr "CQ zóna"
 
-#: src/spot/notify.cxx:220
-#: src/spot/notify.cxx:226
+#: src/spot/notify.cxx:220 src/spot/notify.cxx:226
 msgid "All"
-msgstr ""
+msgstr "Minden"
 
 #: src/spot/notify.cxx:222
 msgid "Deselect"
@@ -1857,21 +1726,18 @@ msgstr ""
 
 #: src/spot/notify.cxx:519
 msgid "Test..."
-msgstr ""
+msgstr "teszt..."
 
-#: src/spot/notify.cxx:522
-#: src/widgets/FTextView.cxx:481
+#: src/spot/notify.cxx:522 src/widgets/FTextView.cxx:481
 #: src/widgets/flinput2.cxx:48
 msgid "Select All"
-msgstr ""
+msgstr "Minden kijelölése"
 
-#: src/spot/notify.cxx:523
-#: src/logbook/lgbook.cxx:403
-#: src/logbook/lgbook.cxx:453
-#: src/logbook/lgbook.cxx:1045
+#: src/spot/notify.cxx:523 src/logbook/lgbook.cxx:403
+#: src/logbook/lgbook.cxx:453 src/logbook/lgbook.cxx:1045
 #: src/logbook/lgbook.cxx:1119
 msgid "Clear All"
-msgstr ""
+msgstr "Minden törlése"
 
 #: src/spot/notify.cxx:1096
 msgid "The regular expression field must not be empty."
@@ -1883,11 +1749,11 @@ msgstr ""
 
 #: src/spot/notify.cxx:1109
 msgid "Please set your callsign first."
-msgstr ""
+msgstr "Kérem előszőr állítsa be a hívójelét!"
 
 #: src/spot/notify.cxx:1246
 msgid "Run program"
-msgstr ""
+msgstr "Program futattása"
 
 #: src/spot/notify.cxx:1279
 msgid ""
@@ -1911,81 +1777,70 @@ msgstr ""
 msgid "Available substrings"
 msgstr ""
 
-#: src/spot/notify.cxx:1399
-#: src/logbook/lgbook.cxx:1026
+#: src/spot/notify.cxx:1399 src/logbook/lgbook.cxx:1026
 msgid "Frequency"
-msgstr ""
+msgstr "Frekvencia"
 
-#: src/spot/notify.cxx:1401
-#: src/dialogs/notifydialog.cxx:131
+#: src/spot/notify.cxx:1401 src/dialogs/notifydialog.cxx:131
 #: src/logbook/lgbook.cxx:1023
 msgid "Callsign"
-msgstr ""
+msgstr "Hívójel"
 
 #: src/waterfall/colorbox.cxx:89
 msgid "Open palette"
-msgstr ""
+msgstr "Színséma megnyitása"
 
-#: src/waterfall/colorbox.cxx:89
-#: src/waterfall/colorbox.cxx:126
+#: src/waterfall/colorbox.cxx:89 src/waterfall/colorbox.cxx:126
 msgid "Fldigi palette\t*.pal"
 msgstr ""
 
-#: src/waterfall/colorbox.cxx:112
-#: src/waterfall/colorbox.cxx:137
+#: src/waterfall/colorbox.cxx:112 src/waterfall/colorbox.cxx:137
 msgid "Palette: "
-msgstr ""
+msgstr "Színséma:"
 
 #: src/waterfall/colorbox.cxx:126
 msgid "Save palette"
-msgstr ""
+msgstr "Színséma mentése"
 
 #: src/widgets/FTextRXTX.cxx:102
 msgid "Look up call"
 msgstr ""
 
-#: src/widgets/FTextRXTX.cxx:104
-#: src/logbook/lgbook.cxx:463
-#: src/logbook/lgbook.cxx:608
-#: src/logbook/lgbook.cxx:1025
+#: src/widgets/FTextRXTX.cxx:104 src/logbook/lgbook.cxx:463
+#: src/logbook/lgbook.cxx:608 src/logbook/lgbook.cxx:1025
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: src/widgets/FTextRXTX.cxx:105
 msgid "QTH"
-msgstr ""
+msgstr "QTH"
 
-#: src/widgets/FTextRXTX.cxx:106
-#: src/dialogs/confdialog.cxx:5652
+#: src/widgets/FTextRXTX.cxx:106 src/dialogs/confdialog.cxx:5652
 #: src/logbook/lgbook.cxx:512
 msgid "State"
 msgstr ""
 
-#: src/widgets/FTextRXTX.cxx:107
-#: src/logbook/lgbook.cxx:518
+#: src/widgets/FTextRXTX.cxx:107 src/logbook/lgbook.cxx:518
 msgid "Province"
 msgstr ""
 
 #: src/widgets/FTextRXTX.cxx:109
 msgid "Locator"
-msgstr ""
+msgstr "Lokátor"
 
 #: src/widgets/FTextRXTX.cxx:110
 msgid "RST(r)"
-msgstr ""
+msgstr "RST(r)"
 
-#: src/widgets/FTextRXTX.cxx:111
-#: src/dialogs/confdialog.cxx:5658
-#: src/logbook/lgbook.cxx:539
-#: src/logbook/lgbook.cxx:924
+#: src/widgets/FTextRXTX.cxx:111 src/dialogs/confdialog.cxx:5658
+#: src/logbook/lgbook.cxx:539 src/logbook/lgbook.cxx:924
 #: src/logbook/lgbook.cxx:1111
 msgid "Exchange In"
 msgstr ""
 
-#: src/widgets/FTextRXTX.cxx:112
-#: src/dialogs/confdialog.cxx:5583
+#: src/widgets/FTextRXTX.cxx:112 src/dialogs/confdialog.cxx:5583
 msgid "Serial number"
-msgstr ""
+msgstr "Szériaszám"
 
 #: src/widgets/FTextRXTX.cxx:113
 msgid "Insert marker"
@@ -2005,123 +1860,114 @@ msgstr ""
 
 #: src/widgets/FTextRXTX.cxx:706
 msgid "Last QSO"
-msgstr ""
+msgstr "Utolsó QSO"
 
-#: src/widgets/FTextRXTX.cxx:751
-#: src/dialogs/confdialog.cxx:7109
+#: src/widgets/FTextRXTX.cxx:751 src/dialogs/confdialog.cxx:7109
 msgid "Transmit"
-msgstr ""
+msgstr "Adás"
 
-#: src/widgets/FTextRXTX.cxx:752
-#: src/dialogs/confdialog.cxx:6984
+#: src/widgets/FTextRXTX.cxx:752 src/dialogs/confdialog.cxx:6984
 #: src/dialogs/confdialog.cxx:8256
 msgid "Receive"
-msgstr ""
+msgstr "Vétel"
 
 #: src/widgets/FTextRXTX.cxx:753
 msgid "Abort"
-msgstr ""
+msgstr "Megszakítás"
 
 #: src/widgets/FTextRXTX.cxx:754
 msgid "Send image..."
-msgstr ""
+msgstr "Kép küldése"
 
 #: src/widgets/FTextView.cxx:292
 msgid "Insert text"
-msgstr ""
+msgstr "szöveg beillesztése"
 
 #: src/widgets/FTextView.cxx:351
 msgid "Save text as"
-msgstr ""
+msgstr "Szöveg mentése másként"
 
-#: src/widgets/FTextView.cxx:479
-#: src/widgets/FTextView.cxx:643
+#: src/widgets/FTextView.cxx:479 src/widgets/FTextView.cxx:643
 #: src/widgets/flinput2.cxx:44
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 #: src/widgets/FTextView.cxx:482
 msgid "Save as..."
-msgstr ""
+msgstr "Mentés másként"
 
-#: src/widgets/FTextView.cxx:483
-#: src/widgets/FTextView.cxx:647
+#: src/widgets/FTextView.cxx:483 src/widgets/FTextView.cxx:647
 msgid "Word wrap"
 msgstr ""
 
-#: src/widgets/FTextView.cxx:642
-#: src/widgets/flinput2.cxx:43
+#: src/widgets/FTextView.cxx:642 src/widgets/flinput2.cxx:43
 msgid "Cut"
-msgstr ""
+msgstr "Kivágás"
 
-#: src/widgets/FTextView.cxx:644
-#: src/widgets/flinput2.cxx:45
+#: src/widgets/FTextView.cxx:644 src/widgets/flinput2.cxx:45
 msgid "Paste"
-msgstr ""
+msgstr "Beillesztés"
 
 #: src/widgets/FTextView.cxx:646
 msgid "Insert file..."
-msgstr ""
+msgstr "File beszúrása"
 
 #: src/widgets/flinput2.cxx:42
 msgid "Undo"
-msgstr ""
+msgstr "Vissza"
 
-#: src/widgets/flinput2.cxx:46
-#: src/logbook/lgbook.cxx:974
+#: src/widgets/flinput2.cxx:46 src/logbook/lgbook.cxx:974
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
-#: src/dialogs/confdialog.cxx:4834
-#: src/dialogs/confdialog.cxx:10401
+#: src/dialogs/confdialog.cxx:4834 src/dialogs/confdialog.cxx:10401
 #: src/dialogs/confdialog.cxx:10446
 msgid "Show"
-msgstr ""
+msgstr "Mutat"
 
 #: src/dialogs/confdialog.cxx:4834
 msgid "Hide"
-msgstr ""
+msgstr "Elrejtés"
 
 #: src/dialogs/confdialog.cxx:5280
 msgid "Fldigi configuration"
-msgstr ""
+msgstr "Fldigi konfiguráció"
 
-#: src/dialogs/confdialog.cxx:5290
-#: src/dialogs/confdialog.cxx:10520
+#: src/dialogs/confdialog.cxx:5290 src/dialogs/confdialog.cxx:10520
 msgid "Operator information"
-msgstr ""
+msgstr "Operátor információ"
 
 #: src/dialogs/confdialog.cxx:5293
 msgid "Station"
-msgstr ""
+msgstr "Állomás"
 
 #: src/dialogs/confdialog.cxx:5296
 msgid "Callsign:"
-msgstr ""
+msgstr "Hívójel:"
 
 #: src/dialogs/confdialog.cxx:5297
 msgid "Operators callsign"
-msgstr ""
+msgstr "Operátorok hívójele"
 
 #: src/dialogs/confdialog.cxx:5310
 msgid "Name:"
-msgstr ""
+msgstr "Név:"
 
 #: src/dialogs/confdialog.cxx:5311
 msgid "Operators name"
-msgstr ""
+msgstr "Operátorok neve"
 
 #: src/dialogs/confdialog.cxx:5324
 msgid "QTH:"
-msgstr ""
+msgstr "QTH:"
 
 #: src/dialogs/confdialog.cxx:5325
 msgid "Operators QTH"
-msgstr ""
+msgstr "Operátorok QTH-ja"
 
 #: src/dialogs/confdialog.cxx:5338
 msgid "Locator:"
-msgstr ""
+msgstr "Lokátor:"
 
 #: src/dialogs/confdialog.cxx:5339
 msgid "Maidenhead locator as in EM64qv"
@@ -2129,11 +1975,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5354
 msgid "Antenna:"
-msgstr ""
+msgstr "Antenna:"
 
 #: src/dialogs/confdialog.cxx:5355
 msgid "Short description of antenna"
-msgstr ""
+msgstr "Az antenna rövid leírása"
 
 #: src/dialogs/confdialog.cxx:5368
 msgid "Test Signal - Do NOT use with transmitter"
@@ -2141,11 +1987,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5372
 msgid "Noise on"
-msgstr ""
+msgstr "Zaj be"
 
 #: src/dialogs/confdialog.cxx:5377
 msgid "dB"
-msgstr ""
+msgstr "dB"
 
 #: src/dialogs/confdialog.cxx:5399
 msgid "UI"
@@ -2153,7 +1999,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5404
 msgid "Browser"
-msgstr ""
+msgstr "Böngésző"
 
 #: src/dialogs/confdialog.cxx:5405
 msgid "User Interface - Browser"
@@ -2187,24 +2033,23 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5456
 msgid "Audio frequency"
-msgstr ""
+msgstr "Hang frekvencia"
 
 #: src/dialogs/confdialog.cxx:5457
 msgid "Radio frequency"
-msgstr ""
+msgstr "Rádió frekvencia"
 
 #: src/dialogs/confdialog.cxx:5457
 msgid "Channel number"
-msgstr ""
+msgstr "Csatornaszám"
 
-#: src/dialogs/confdialog.cxx:5462
-#: src/dialogs/confdialog.cxx:6742
+#: src/dialogs/confdialog.cxx:5462 src/dialogs/confdialog.cxx:6742
 msgid "Font..."
-msgstr ""
+msgstr "Betű..."
 
 #: src/dialogs/confdialog.cxx:5463
 msgid "select browser font"
-msgstr ""
+msgstr "Bögésző betűtípus választása"
 
 #: src/dialogs/confdialog.cxx:5466
 msgid "Fixed Intervals"
@@ -2216,7 +2061,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5474
 msgid "Continuous scrolling"
-msgstr ""
+msgstr "Folyamatos görgetés"
 
 #: src/dialogs/confdialog.cxx:5475
 msgid ""
@@ -2246,7 +2091,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5494
 msgid "Backgnd"
-msgstr ""
+msgstr "Háttér"
 
 #: src/dialogs/confdialog.cxx:5495
 msgid "Background color of signal viewer squelch control"
@@ -2254,7 +2099,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5500
 msgid "Button"
-msgstr ""
+msgstr "Gomb"
 
 #: src/dialogs/confdialog.cxx:5501
 msgid "Slider hilite color of signal viewer squelch control"
@@ -2310,12 +2155,10 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5552
 msgid "Send:"
-msgstr ""
+msgstr "Küldés:"
 
-#: src/dialogs/confdialog.cxx:5554
-#: src/logbook/lgbook.cxx:542
-#: src/logbook/lgbook.cxx:900
-#: src/logbook/lgbook.cxx:1115
+#: src/dialogs/confdialog.cxx:5554 src/logbook/lgbook.cxx:542
+#: src/logbook/lgbook.cxx:900 src/logbook/lgbook.cxx:1115
 msgid "Exchange Out"
 msgstr ""
 
@@ -2363,8 +2206,7 @@ msgstr ""
 msgid "Number of digits in serial number"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5625
-#: src/dialogs/record_browse.cxx:51
+#: src/dialogs/confdialog.cxx:5625 src/dialogs/record_browse.cxx:51
 msgid "Reset"
 msgstr ""
 
@@ -2378,30 +2220,26 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5634
 msgid "On/Off"
-msgstr ""
+msgstr "Be/Ki"
 
 #: src/dialogs/confdialog.cxx:5635
 msgid "Check for duplicates"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5640
-#: src/dialogs/notifydialog.cxx:188
+#: src/dialogs/confdialog.cxx:5640 src/dialogs/notifydialog.cxx:188
 #: src/logbook/lgbook.cxx:471
 msgid "Band"
-msgstr ""
+msgstr "Sáv"
 
 #: src/dialogs/confdialog.cxx:5641
 msgid "Bands must match"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5646
-#: src/dialogs/notifydialog.cxx:191
-#: src/logbook/lgbook.cxx:474
-#: src/logbook/lgbook.cxx:682
-#: src/logbook/lgbook.cxx:1028
-#: src/logbook/lgbook.cxx:1083
+#: src/dialogs/confdialog.cxx:5646 src/dialogs/notifydialog.cxx:191
+#: src/logbook/lgbook.cxx:474 src/logbook/lgbook.cxx:682
+#: src/logbook/lgbook.cxx:1028 src/logbook/lgbook.cxx:1083
 msgid "Mode"
-msgstr ""
+msgstr "Mód"
 
 #: src/dialogs/confdialog.cxx:5647
 msgid "Mode must match"
@@ -2439,16 +2277,14 @@ msgstr ""
 msgid "Left click to select dup color"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5700
-#: src/dialogs/confdialog.cxx:6982
-#: src/dialogs/confdialog.cxx:7987
-#: src/dialogs/confdialog.cxx:9884
+#: src/dialogs/confdialog.cxx:5700 src/dialogs/confdialog.cxx:6982
+#: src/dialogs/confdialog.cxx:7987 src/dialogs/confdialog.cxx:9884
 msgid "General"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:5701
 msgid "User Interface - General"
-msgstr ""
+msgstr "Kezelői felület - Általános"
 
 #: src/dialogs/confdialog.cxx:5705
 msgid "Show tooltips"
@@ -2460,11 +2296,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5712
 msgid "Show menu icons"
-msgstr ""
+msgstr "Menüikonok mutatása"
 
 #: src/dialogs/confdialog.cxx:5713
 msgid "Enable / disable icons on menus"
-msgstr ""
+msgstr "Menüikonok ki/be"
 
 #: src/dialogs/confdialog.cxx:5718
 msgid "UI scheme"
@@ -2486,8 +2322,7 @@ msgstr ""
 msgid "UI language"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5742
-#: src/dialogs/confdialog.cxx:6888
+#: src/dialogs/confdialog.cxx:5742 src/dialogs/confdialog.cxx:6888
 msgid "Changes take effect on next program startup"
 msgstr ""
 
@@ -2511,8 +2346,7 @@ msgstr ""
 msgid "Prompt to save macro file"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5787
-#: src/dialogs/confdialog.cxx:6077
+#: src/dialogs/confdialog.cxx:5787 src/dialogs/confdialog.cxx:6077
 msgid "Write current macro set on program exit"
 msgstr ""
 
@@ -2520,8 +2354,7 @@ msgstr ""
 msgid "Prompt to save log"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5793
-#: src/dialogs/confdialog.cxx:5841
+#: src/dialogs/confdialog.cxx:5793 src/dialogs/confdialog.cxx:5841
 msgid "Bug me about saving log entries"
 msgstr ""
 
@@ -2531,16 +2364,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5805
 msgid "Check for updates"
-msgstr ""
+msgstr "Frissítések ellenőrzése"
 
 #: src/dialogs/confdialog.cxx:5808
 msgid "Check for updates when starting program"
-msgstr ""
+msgstr "Frissítések ellenőrzése indításkor"
 
-#: src/dialogs/confdialog.cxx:5817
-#: src/dialogs/confdialog.cxx:6332
+#: src/dialogs/confdialog.cxx:5817 src/dialogs/confdialog.cxx:6332
 msgid "Log"
-msgstr ""
+msgstr "Log"
 
 #: src/dialogs/confdialog.cxx:5818
 msgid "User Interface - Logging"
@@ -2552,16 +2384,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5822
 msgid "Address:"
-msgstr ""
+msgstr "Cím:"
 
 #: src/dialogs/confdialog.cxx:5823
 msgid "Enter URL address of server"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5827
-#: src/dialogs/confdialog.cxx:9941
+#: src/dialogs/confdialog.cxx:5827 src/dialogs/confdialog.cxx:9941
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 #: src/dialogs/confdialog.cxx:5828
 msgid "Enter Port # assigned to server"
@@ -2637,7 +2468,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5888
 msgid "cty.dat folder"
-msgstr ""
+msgstr "cty.dat mappa"
 
 #: src/dialogs/confdialog.cxx:5889
 msgid "Enter full path-name for cty.dat folder"
@@ -2651,12 +2482,9 @@ msgstr ""
 msgid "Locate cty.dat file"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:5906
-#: src/dialogs/confdialog.cxx:6349
-#: src/dialogs/confdialog.cxx:6369
-#: src/dialogs/confdialog.cxx:7133
-#: src/dialogs/confdialog.cxx:10765
-#: src/dialogs/confdialog.cxx:10796
+#: src/dialogs/confdialog.cxx:5906 src/dialogs/confdialog.cxx:6349
+#: src/dialogs/confdialog.cxx:6369 src/dialogs/confdialog.cxx:7133
+#: src/dialogs/confdialog.cxx:10765 src/dialogs/confdialog.cxx:10796
 #: src/dialogs/confdialog.cxx:10835
 msgid "Default"
 msgstr ""
@@ -2957,13 +2785,11 @@ msgstr ""
 msgid "Selection background color in Rx Tx panels"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6248
-#: src/dialogs/confdialog.cxx:6414
+#: src/dialogs/confdialog.cxx:6248 src/dialogs/confdialog.cxx:6414
 msgid "System"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6251
-#: src/dialogs/confdialog.cxx:6401
+#: src/dialogs/confdialog.cxx:6251 src/dialogs/confdialog.cxx:6401
 #: src/logbook/lgbook.cxx:563
 msgid "Defaults"
 msgstr ""
@@ -2976,16 +2802,13 @@ msgstr ""
 msgid "14070.150"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6271
-#: src/dialogs/confdialog.cxx:6346
+#: src/dialogs/confdialog.cxx:6271 src/dialogs/confdialog.cxx:6346
 #: src/dialogs/confdialog.cxx:6366
 msgid "Font"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6274
-#: src/dialogs/confdialog.cxx:6288
-#: src/dialogs/confdialog.cxx:6302
-#: src/dialogs/confdialog.cxx:6343
+#: src/dialogs/confdialog.cxx:6274 src/dialogs/confdialog.cxx:6288
+#: src/dialogs/confdialog.cxx:6302 src/dialogs/confdialog.cxx:6343
 #: src/dialogs/confdialog.cxx:6363
 msgid "Bg Color"
 msgstr ""
@@ -3002,13 +2825,11 @@ msgstr ""
 msgid "S-meter"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6291
-#: src/dialogs/confdialog.cxx:6305
+#: src/dialogs/confdialog.cxx:6291 src/dialogs/confdialog.cxx:6305
 msgid "Scale Color"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6294
-#: src/dialogs/confdialog.cxx:6308
+#: src/dialogs/confdialog.cxx:6294 src/dialogs/confdialog.cxx:6308
 msgid "Meter Color"
 msgstr ""
 
@@ -3020,8 +2841,7 @@ msgstr ""
 msgid "Power scale"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6312
-#: src/dialogs/confdialog.cxx:6811
+#: src/dialogs/confdialog.cxx:6312 src/dialogs/confdialog.cxx:6811
 msgid "Select the type of FFT prefilter"
 msgstr ""
 
@@ -3133,13 +2953,11 @@ msgstr ""
 msgid "SigLvl"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6501
-#: src/dialogs/confdialog.cxx:9504
+#: src/dialogs/confdialog.cxx:6501 src/dialogs/confdialog.cxx:9504
 msgid "Low"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6509
-#: src/dialogs/confdialog.cxx:9504
+#: src/dialogs/confdialog.cxx:6509 src/dialogs/confdialog.cxx:9504
 msgid "High"
 msgstr ""
 
@@ -3162,7 +2980,8 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:6543
 msgid ""
 "Note:\n"
-"These configuration items are useful for but not unique to using fldigi on a\n"
+"These configuration items are useful for but not unique to using fldigi on "
+"a\n"
 "touch screen device such as a tablet."
 msgstr ""
 
@@ -3208,18 +3027,12 @@ msgstr ""
 msgid "aa"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6604
-#: src/dialogs/confdialog.cxx:6608
-#: src/dialogs/confdialog.cxx:6612
-#: src/dialogs/confdialog.cxx:6616
-#: src/dialogs/confdialog.cxx:6620
-#: src/dialogs/confdialog.cxx:6624
-#: src/dialogs/confdialog.cxx:6628
-#: src/dialogs/confdialog.cxx:6632
-#: src/dialogs/confdialog.cxx:6636
-#: src/dialogs/confdialog.cxx:6657
-#: src/dialogs/confdialog.cxx:6681
-#: src/dialogs/confdialog.cxx:6705
+#: src/dialogs/confdialog.cxx:6604 src/dialogs/confdialog.cxx:6608
+#: src/dialogs/confdialog.cxx:6612 src/dialogs/confdialog.cxx:6616
+#: src/dialogs/confdialog.cxx:6620 src/dialogs/confdialog.cxx:6624
+#: src/dialogs/confdialog.cxx:6628 src/dialogs/confdialog.cxx:6632
+#: src/dialogs/confdialog.cxx:6636 src/dialogs/confdialog.cxx:6657
+#: src/dialogs/confdialog.cxx:6681 src/dialogs/confdialog.cxx:6705
 #: src/dialogs/confdialog.cxx:6723
 msgid "Change color"
 msgstr ""
@@ -3240,14 +3053,12 @@ msgstr ""
 msgid "Save this palette"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6647
-#: src/dialogs/confdialog.cxx:7800
+#: src/dialogs/confdialog.cxx:6647 src/dialogs/confdialog.cxx:7800
 #: src/dialogs/confdialog.cxx:7896
 msgid "Bandwidth"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6650
-#: src/dialogs/confdialog.cxx:6674
+#: src/dialogs/confdialog.cxx:6650 src/dialogs/confdialog.cxx:6674
 #: src/dialogs/confdialog.cxx:6698
 msgid "ON"
 msgstr ""
@@ -3256,24 +3067,19 @@ msgstr ""
 msgid "Show cursor with bandwidth lines"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6656
-#: src/dialogs/confdialog.cxx:6680
-#: src/dialogs/confdialog.cxx:6704
-#: src/dialogs/confdialog.cxx:6722
+#: src/dialogs/confdialog.cxx:6656 src/dialogs/confdialog.cxx:6680
+#: src/dialogs/confdialog.cxx:6704 src/dialogs/confdialog.cxx:6722
 #: src/dialogs/font_browser.cxx:141
 msgid "Color"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6663
-#: src/dialogs/confdialog.cxx:6687
+#: src/dialogs/confdialog.cxx:6663 src/dialogs/confdialog.cxx:6687
 #: src/dialogs/confdialog.cxx:6711
 msgid "Wide"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6664
-#: src/dialogs/confdialog.cxx:6688
-#: src/dialogs/confdialog.cxx:6699
-#: src/dialogs/confdialog.cxx:6712
+#: src/dialogs/confdialog.cxx:6664 src/dialogs/confdialog.cxx:6688
+#: src/dialogs/confdialog.cxx:6699 src/dialogs/confdialog.cxx:6712
 msgid "Show bandwidth tracks on waterfall"
 msgstr ""
 
@@ -3333,8 +3139,7 @@ msgstr ""
 msgid "FFT Processing"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6784
-#: src/dialogs/confdialog.cxx:7153
+#: src/dialogs/confdialog.cxx:6784 src/dialogs/confdialog.cxx:7153
 msgid "Lower limit"
 msgstr ""
 
@@ -3362,8 +3167,7 @@ msgstr ""
 msgid "Triangular"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6829
-#: src/dialogs/confdialog.cxx:7165
+#: src/dialogs/confdialog.cxx:6829 src/dialogs/confdialog.cxx:7165
 msgid "Upper limit"
 msgstr ""
 
@@ -3382,8 +3186,7 @@ msgid ""
 "4 - greatest"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6872
-#: src/dialogs/confdialog.cxx:6889
+#: src/dialogs/confdialog.cxx:6872 src/dialogs/confdialog.cxx:6889
 msgid "Show me more or less waterfall"
 msgstr ""
 
@@ -3449,8 +3252,7 @@ msgid ""
 "behaves inside the waterfall"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:6979
-#: src/dialogs/confdialog.cxx:9658
+#: src/dialogs/confdialog.cxx:6979 src/dialogs/confdialog.cxx:9658
 #: src/dialogs/confdialog.cxx:9973
 msgid "CW"
 msgstr ""
@@ -3531,8 +3333,7 @@ msgstr ""
 msgid "TX WPM"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7113
-#: src/dialogs/confdialog.cxx:7178
+#: src/dialogs/confdialog.cxx:7113 src/dialogs/confdialog.cxx:7178
 msgid "My transmit CW WPM"
 msgstr ""
 
@@ -3572,8 +3373,7 @@ msgstr ""
 msgid "Dot to dot-space ratio"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7233
-#: src/dialogs/confdialog.cxx:7234
+#: src/dialogs/confdialog.cxx:7233 src/dialogs/confdialog.cxx:7234
 msgid "Dash to dot ratio"
 msgstr ""
 
@@ -3693,18 +3493,15 @@ msgstr ""
 msgid "Dom"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7544
-#: src/dialogs/confdialog.cxx:8389
+#: src/dialogs/confdialog.cxx:7544 src/dialogs/confdialog.cxx:8389
 msgid "Secondary Text"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7545
-#: src/dialogs/confdialog.cxx:8390
+#: src/dialogs/confdialog.cxx:7545 src/dialogs/confdialog.cxx:8390
 msgid "Text to send during keyboard idle times"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7559
-#: src/dialogs/confdialog.cxx:8404
+#: src/dialogs/confdialog.cxx:7559 src/dialogs/confdialog.cxx:8404
 msgid "Filtering"
 msgstr ""
 
@@ -3712,13 +3509,11 @@ msgstr ""
 msgid "Use DSP filter before decoder"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7566
-#: src/dialogs/confdialog.cxx:8411
+#: src/dialogs/confdialog.cxx:7566 src/dialogs/confdialog.cxx:8411
 msgid "Filter bandwidth factor"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7567
-#: src/dialogs/confdialog.cxx:8412
+#: src/dialogs/confdialog.cxx:7567 src/dialogs/confdialog.cxx:8412
 msgid "Filter bandwidth relative to signal width"
 msgstr ""
 
@@ -3730,18 +3525,15 @@ msgstr ""
 msgid "Enable MultiPSK-compatible FEC"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7591
-#: src/dialogs/confdialog.cxx:8430
+#: src/dialogs/confdialog.cxx:7591 src/dialogs/confdialog.cxx:8430
 msgid "CWI threshold"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7592
-#: src/dialogs/confdialog.cxx:8431
+#: src/dialogs/confdialog.cxx:7592 src/dialogs/confdialog.cxx:8431
 msgid "CWI detection and suppression"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7608
-#: src/dialogs/confdialog.cxx:8466
+#: src/dialogs/confdialog.cxx:7608 src/dialogs/confdialog.cxx:8466
 msgid "Paths (hidden)"
 msgstr ""
 
@@ -3821,8 +3613,7 @@ msgstr ""
 msgid "MT-63"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7742
-#: src/dialogs/confdialog.cxx:7883
+#: src/dialogs/confdialog.cxx:7742 src/dialogs/confdialog.cxx:7883
 msgid "8-bit extended characters (UTF-8)"
 msgstr ""
 
@@ -3858,40 +3649,32 @@ msgstr ""
 msgid "Olivia"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7801
-#: src/dialogs/confdialog.cxx:7897
+#: src/dialogs/confdialog.cxx:7801 src/dialogs/confdialog.cxx:7897
 msgid "Select bandwidth"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7817
-#: src/dialogs/confdialog.cxx:7913
+#: src/dialogs/confdialog.cxx:7817 src/dialogs/confdialog.cxx:7913
 msgid "Tones"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7818
-#: src/dialogs/confdialog.cxx:7914
+#: src/dialogs/confdialog.cxx:7818 src/dialogs/confdialog.cxx:7914
 msgid "Select number of tones"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7834
-#: src/dialogs/confdialog.cxx:7930
+#: src/dialogs/confdialog.cxx:7834 src/dialogs/confdialog.cxx:7930
 msgid "Receive synchronizer"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7837
-#: src/dialogs/confdialog.cxx:7933
+#: src/dialogs/confdialog.cxx:7837 src/dialogs/confdialog.cxx:7933
 msgid "Tune margin (tone frequency spacing)"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7838
-#: src/dialogs/confdialog.cxx:7857
-#: src/dialogs/confdialog.cxx:7934
-#: src/dialogs/confdialog.cxx:7953
+#: src/dialogs/confdialog.cxx:7838 src/dialogs/confdialog.cxx:7857
+#: src/dialogs/confdialog.cxx:7934 src/dialogs/confdialog.cxx:7953
 msgid "Change ONLY to experiment"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7856
-#: src/dialogs/confdialog.cxx:7952
+#: src/dialogs/confdialog.cxx:7856 src/dialogs/confdialog.cxx:7952
 msgid "Integration period (FEC blocks)"
 msgstr ""
 
@@ -3899,8 +3682,7 @@ msgstr ""
 msgid "Reset FEC blocks when changing BW or Tones"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:7876
-#: src/dialogs/confdialog.cxx:7884
+#: src/dialogs/confdialog.cxx:7876 src/dialogs/confdialog.cxx:7884
 msgid "Enable this for UTF-8 character transmission"
 msgstr ""
 
@@ -3932,13 +3714,11 @@ msgstr ""
 msgid "Capture signals within this frequency range"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8012
-#: src/dialogs/confdialog.cxx:9835
+#: src/dialogs/confdialog.cxx:8012 src/dialogs/confdialog.cxx:9835
 msgid "Acquisition S/N (dB)"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8013
-#: src/dialogs/confdialog.cxx:9836
+#: src/dialogs/confdialog.cxx:8013 src/dialogs/confdialog.cxx:9836
 msgid "Capture signals over this threshold"
 msgstr ""
 
@@ -3978,8 +3758,7 @@ msgstr ""
 msgid "Disable on very slow CPUs of if signal browser is not used"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8094
-#: src/dialogs/confdialog.cxx:9992
+#: src/dialogs/confdialog.cxx:8094 src/dialogs/confdialog.cxx:9992
 msgid "RTTY"
 msgstr ""
 
@@ -4192,7 +3971,9 @@ msgid "SYNOP to KML"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:8365
-msgid "Decodes SYNOP messages (Ex: Deutsche Wetterdienst) to KML documents (Ex: Google Earth)"
+msgid ""
+"Decodes SYNOP messages (Ex: Deutsche Wetterdienst) to KML documents (Ex: "
+"Google Earth)"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:8372
@@ -4254,7 +4035,8 @@ msgid "Log Navtex messages to KML"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:8498
-msgid "Logs messages to Keyhole Markup Language (Google Earth, Marble, Gaia, etc...)"
+msgid ""
+"Logs messages to Keyhole Markup Language (Google Earth, Marble, Gaia, etc...)"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:8505
@@ -4305,7 +4087,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8558
 msgid "Hide Transmission window"
-msgstr ""
+msgstr "Adás ablak elrejtése"
 
 #: src/dialogs/confdialog.cxx:8559
 msgid "Hide transmission window by default."
@@ -4337,7 +4119,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8605
 msgid "Rig"
-msgstr ""
+msgstr "Rádió"
 
 #: src/dialogs/confdialog.cxx:8606
 msgid "Transceiver control"
@@ -4347,8 +4129,7 @@ msgstr ""
 msgid "Hardware PTT"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8613
-#: src/dialogs/confdialog.cxx:9407
+#: src/dialogs/confdialog.cxx:8613 src/dialogs/confdialog.cxx:9407
 msgid "PTT tone on right audio channel "
 msgstr ""
 
@@ -4364,10 +4145,8 @@ msgstr ""
 msgid "Use separate serial port PTT"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8629
-#: src/dialogs/confdialog.cxx:8726
-#: src/dialogs/confdialog.cxx:8936
-#: src/dialogs/confdialog.cxx:9206
+#: src/dialogs/confdialog.cxx:8629 src/dialogs/confdialog.cxx:8726
+#: src/dialogs/confdialog.cxx:8936 src/dialogs/confdialog.cxx:9206
 msgid "Device:"
 msgstr ""
 
@@ -4403,10 +4182,8 @@ msgstr ""
 msgid "Initial voltage on DTR"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8663
-#: src/dialogs/confdialog.cxx:8827
-#: src/dialogs/confdialog.cxx:9089
-#: src/dialogs/confdialog.cxx:9164
+#: src/dialogs/confdialog.cxx:8663 src/dialogs/confdialog.cxx:8827
+#: src/dialogs/confdialog.cxx:9089 src/dialogs/confdialog.cxx:9164
 #: src/dialogs/confdialog.cxx:9956
 msgid "Initialize"
 msgstr ""
@@ -4471,8 +4248,7 @@ msgstr ""
 msgid "Select rig descriptor file"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8741
-#: src/dialogs/confdialog.cxx:8951
+#: src/dialogs/confdialog.cxx:8741 src/dialogs/confdialog.cxx:8951
 msgid "Retries"
 msgstr ""
 
@@ -4480,8 +4256,7 @@ msgstr ""
 msgid "# retries before giving up"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8758
-#: src/dialogs/confdialog.cxx:9054
+#: src/dialogs/confdialog.cxx:8758 src/dialogs/confdialog.cxx:9054
 msgid "Retry interval (ms)"
 msgstr ""
 
@@ -4489,8 +4264,7 @@ msgstr ""
 msgid "Time between retires in msec"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8775
-#: src/dialogs/confdialog.cxx:8985
+#: src/dialogs/confdialog.cxx:8775 src/dialogs/confdialog.cxx:8985
 msgid "Write delay (ms)"
 msgstr ""
 
@@ -4498,13 +4272,11 @@ msgstr ""
 msgid "Wait for response to subsequent command"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8792
-#: src/dialogs/confdialog.cxx:9019
+#: src/dialogs/confdialog.cxx:8792 src/dialogs/confdialog.cxx:9019
 msgid "Baud rate:"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8808
-#: src/dialogs/confdialog.cxx:9035
+#: src/dialogs/confdialog.cxx:8808 src/dialogs/confdialog.cxx:9035
 msgid "Stopbits"
 msgstr ""
 
@@ -4548,8 +4320,7 @@ msgstr ""
 msgid "RTS +12 v"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8857
-#: src/dialogs/confdialog.cxx:9121
+#: src/dialogs/confdialog.cxx:8857 src/dialogs/confdialog.cxx:9121
 msgid "Initial state of RTS"
 msgstr ""
 
@@ -4557,13 +4328,11 @@ msgstr ""
 msgid "DTR +12 v"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8863
-#: src/dialogs/confdialog.cxx:9115
+#: src/dialogs/confdialog.cxx:8863 src/dialogs/confdialog.cxx:9115
 msgid "Initial state of DTR"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8868
-#: src/dialogs/confdialog.cxx:9126
+#: src/dialogs/confdialog.cxx:8868 src/dialogs/confdialog.cxx:9126
 msgid "RTS/CTS flow control"
 msgstr ""
 
@@ -4579,8 +4348,7 @@ msgstr ""
 msgid "Restore the serial (COM) port settings"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8880
-#: src/dialogs/confdialog.cxx:9139
+#: src/dialogs/confdialog.cxx:8880 src/dialogs/confdialog.cxx:9139
 msgid "Revert"
 msgstr ""
 
@@ -4606,19 +4374,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8913
 msgid "Hamlib"
-msgstr ""
+msgstr "Hamlib"
 
 #: src/dialogs/confdialog.cxx:8915
 msgid "Use Hamlib"
-msgstr ""
+msgstr "Hamlib használata"
 
 #: src/dialogs/confdialog.cxx:8916
 msgid "Hamlib used for rig control"
-msgstr ""
+msgstr "hamlib használata a rádió vezérlésre"
 
 #: src/dialogs/confdialog.cxx:8922
 msgid "Rig:"
-msgstr ""
+msgstr "Rádió:"
 
 #: src/dialogs/confdialog.cxx:8952
 msgid "# times to resend command before giving up"
@@ -4628,8 +4396,7 @@ msgstr ""
 msgid "Retry Interval (ms)"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:8969
-#: src/dialogs/confdialog.cxx:9055
+#: src/dialogs/confdialog.cxx:8969 src/dialogs/confdialog.cxx:9055
 msgid "Msec's between retries"
 msgstr ""
 
@@ -4661,7 +4428,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9093
 msgid "Sideband:"
-msgstr ""
+msgstr "Oldalsáv:"
 
 #: src/dialogs/confdialog.cxx:9107
 msgid "PTT via Hamlib command"
@@ -4730,31 +4497,31 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9193
 msgid "Audio devices"
-msgstr ""
+msgstr "Hang eszközök"
 
 #: src/dialogs/confdialog.cxx:9197
 msgid "Devices"
-msgstr ""
+msgstr "Eszközök"
 
 #: src/dialogs/confdialog.cxx:9200
 msgid "OSS"
-msgstr ""
+msgstr "OSS"
 
 #: src/dialogs/confdialog.cxx:9201
 msgid "Use OSS audio server"
-msgstr ""
+msgstr "OSS han szerver használata"
 
 #: src/dialogs/confdialog.cxx:9207
 msgid "Select device"
-msgstr ""
+msgstr "Eszköz kiválasztása"
 
 #: src/dialogs/confdialog.cxx:9215
 msgid "PortAudio"
-msgstr ""
+msgstr "PortAudio"
 
 #: src/dialogs/confdialog.cxx:9216
 msgid "Use Port Audio server"
-msgstr ""
+msgstr "PortAudio szerver használata"
 
 #: src/dialogs/confdialog.cxx:9221
 msgid "Capture:"
@@ -4762,23 +4529,23 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9222
 msgid "Audio input device"
-msgstr ""
+msgstr "Hang bemeneti eszköz"
 
 #: src/dialogs/confdialog.cxx:9226
 msgid "Playback:"
-msgstr ""
+msgstr "Lejátszás:"
 
 #: src/dialogs/confdialog.cxx:9227
 msgid "Audio output device"
-msgstr ""
+msgstr "Hang kimeneti eszköz"
 
 #: src/dialogs/confdialog.cxx:9235
 msgid "PulseAudio"
-msgstr ""
+msgstr "PulseAudio"
 
 #: src/dialogs/confdialog.cxx:9236
 msgid "Use Pulse Audio server"
-msgstr ""
+msgstr "PulseAudio szerver használata"
 
 #: src/dialogs/confdialog.cxx:9241
 msgid "Server string:"
@@ -4796,11 +4563,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9261
 msgid "NO AUDIO DEVICE AVAILABLE (or testing)"
-msgstr ""
+msgstr "Csak fájl I/O"
 
 #: src/dialogs/confdialog.cxx:9270
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 #: src/dialogs/confdialog.cxx:9272
 msgid "Sample rate"
@@ -4854,11 +4621,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9383
 msgid "Right channel"
-msgstr ""
+msgstr "Jobb csatorna"
 
 #: src/dialogs/confdialog.cxx:9385
 msgid "Mono audio output"
-msgstr ""
+msgstr "Mono hangkimenet"
 
 #: src/dialogs/confdialog.cxx:9386
 msgid "Force output audio to single channel"
@@ -4874,7 +4641,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9397
 msgid "Reverse Left/Right channels"
-msgstr ""
+msgstr "Jobb/bal csatorna felcserélése"
 
 #: src/dialogs/confdialog.cxx:9398
 msgid "Software reversal of left-right audio channels"
@@ -4901,11 +4668,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9415
 msgid "Generate 1000 Hz square wave signal on right channel"
-msgstr ""
+msgstr "1000 Hz négyszögjel generálása a jobb csatornán"
 
 #: src/dialogs/confdialog.cxx:9420
 msgid "Pseudo-FSK on right audio channel"
-msgstr ""
+msgstr "Pszeudo-FSK a jobb hangcsatornán"
 
 #: src/dialogs/confdialog.cxx:9421
 msgid "Create 1000 Hz square wave on right channel"
@@ -4913,7 +4680,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9430
 msgid "Wav"
-msgstr ""
+msgstr "Wav"
 
 #: src/dialogs/confdialog.cxx:9432
 msgid "Wav write sample rate"
@@ -4947,7 +4714,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9469
 msgid "Receive modes"
-msgstr ""
+msgstr "Vételi módok"
 
 #: src/dialogs/confdialog.cxx:9472
 msgid "Searches passband"
@@ -5049,7 +4816,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9569
 msgid "Transmit modes"
-msgstr ""
+msgstr "Adási módok"
 
 #: src/dialogs/confdialog.cxx:9572
 msgid "End of xmt ID"
@@ -5061,7 +4828,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9582
 msgid "Video"
-msgstr ""
+msgstr "Videó"
 
 #: src/dialogs/confdialog.cxx:9584
 msgid "Video Preamble ID"
@@ -5069,7 +4836,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9587
 msgid "Transmit mode ID"
-msgstr ""
+msgstr "Adási mód ID"
 
 #: src/dialogs/confdialog.cxx:9588
 msgid "Waterfall video ID"
@@ -5081,11 +4848,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9593
 msgid "Waterfall video text"
-msgstr ""
+msgstr "Vízesés videó szöveg"
 
 #: src/dialogs/confdialog.cxx:9598
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: src/dialogs/confdialog.cxx:9599
 msgid ""
@@ -5121,7 +4888,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9651
 msgid "Video ID modes"
-msgstr ""
+msgstr "Videó ID módok"
 
 #: src/dialogs/confdialog.cxx:9660
 msgid "CW Postamble ID"
@@ -5129,7 +4896,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9663
 msgid "Transmit callsign"
-msgstr ""
+msgstr "Adási hívójel"
 
 #: src/dialogs/confdialog.cxx:9664
 msgid "Send Callsign in CW at end of every transmission"
@@ -5137,7 +4904,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9669
 msgid "Speed (WPM):"
-msgstr ""
+msgstr "Sebesség (WPM):"
 
 #: src/dialogs/confdialog.cxx:9670
 msgid "Send at this WPM"
@@ -5145,15 +4912,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9690
 msgid "CW ID modes"
-msgstr ""
+msgstr "CW ID módok"
 
 #: src/dialogs/confdialog.cxx:9705
 msgid "CPU"
-msgstr ""
+msgstr "Processzor"
 
 #: src/dialogs/confdialog.cxx:9709
 msgid "Slow CPU (less than 700MHz)"
-msgstr ""
+msgstr "Lassú processzor (kisebb mint 700 MHz)"
 
 #: src/dialogs/confdialog.cxx:9710
 msgid "Enable if you're computer does not decode properly"
@@ -5161,11 +4928,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9719
 msgid "NBEMS"
-msgstr ""
+msgstr "NBEMS"
 
 #: src/dialogs/confdialog.cxx:9721
 msgid "NBEMS data file interface"
-msgstr ""
+msgstr "NBEMS adatfájl interfész"
 
 #: src/dialogs/confdialog.cxx:9724
 msgid "Enable"
@@ -5189,15 +4956,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9741
 msgid "Open with flmsg"
-msgstr ""
+msgstr "Megnyitás flmsg-vel"
 
 #: src/dialogs/confdialog.cxx:9742
 msgid "Open message with flmsg"
-msgstr ""
+msgstr "Üzenet megynitása flmsg-vel"
 
 #: src/dialogs/confdialog.cxx:9747
 msgid "Open in browser"
-msgstr ""
+msgstr "Megnyitás böngészőben"
 
 #: src/dialogs/confdialog.cxx:9748
 msgid "Open file with default browser"
@@ -5205,7 +4972,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9753
 msgid "flmsg:"
-msgstr ""
+msgstr "flmsg:"
 
 #: src/dialogs/confdialog.cxx:9754
 msgid "Enter full path-filename for flmsg"
@@ -5213,7 +4980,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9767
 msgid "Locate flmsg"
-msgstr ""
+msgstr "Flmsg helye"
 
 #: src/dialogs/confdialog.cxx:9771
 msgid "Timeout (secs)"
@@ -5225,7 +4992,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9789
 msgid "Pskmail"
-msgstr ""
+msgstr "Pskmail"
 
 #: src/dialogs/confdialog.cxx:9792
 msgid "Mail Server Attributes"
@@ -5233,7 +5000,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9795
 msgid "Carrier frequency (Hz)"
-msgstr ""
+msgstr "Vivő frekvencia (Hz)"
 
 #: src/dialogs/confdialog.cxx:9796
 msgid "Default listen / transmit frequency"
@@ -5273,7 +5040,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9898
 msgid "PSK Reporter"
-msgstr ""
+msgstr "PSK Reporter"
 
 #: src/dialogs/confdialog.cxx:9901
 msgid "Automatically spot callsigns in decoded text"
@@ -5373,7 +5140,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10052
 msgid "Text i/o"
-msgstr ""
+msgstr "Szöveg i/o"
 
 #: src/dialogs/confdialog.cxx:10054
 msgid "Talker Socket (MS only)"
@@ -5405,19 +5172,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10084
 msgid "DTMF"
-msgstr ""
+msgstr "DTMF"
 
 #: src/dialogs/confdialog.cxx:10086
 msgid "Decode DTMF tones"
-msgstr ""
+msgstr "DTMF hangok dekódolása"
 
 #: src/dialogs/confdialog.cxx:10087
 msgid "Decode received DTMF tones"
-msgstr ""
+msgstr "Vett DTMF hangok dekódolása"
 
 #: src/dialogs/confdialog.cxx:10094
 msgid "WX"
-msgstr ""
+msgstr "WX"
 
 #: src/dialogs/confdialog.cxx:10096
 msgid "Weather query specification"
@@ -5425,7 +5192,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10099
 msgid "METAR station ID code"
-msgstr ""
+msgstr "METAR állomás ID kód"
 
 #: src/dialogs/confdialog.cxx:10100
 msgid ""
@@ -5435,7 +5202,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10105
 msgid "Full report"
-msgstr ""
+msgstr "Teljes riport"
 
 #: src/dialogs/confdialog.cxx:10106
 msgid "Insert full METAR report"
@@ -5470,7 +5237,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10130
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 #: src/dialogs/confdialog.cxx:10131
 msgid "report Fahrenheit"
@@ -5478,7 +5245,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10136
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 #: src/dialogs/confdialog.cxx:10137
 msgid "report Celsius"
@@ -5486,19 +5253,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10142
 msgid "Miles / Hour"
-msgstr ""
+msgstr "Mérföld / óra"
 
 #: src/dialogs/confdialog.cxx:10143
 msgid "report miles per hour"
-msgstr ""
+msgstr "riport mérföld/órában"
 
 #: src/dialogs/confdialog.cxx:10148
 msgid "kilometers / hour"
-msgstr ""
+msgstr "kilóméter/óra"
 
 #: src/dialogs/confdialog.cxx:10149
 msgid "report kilometers per hour"
-msgstr ""
+msgstr "riport kilóméter/órában"
 
 #: src/dialogs/confdialog.cxx:10154
 msgid "Inches Mg."
@@ -5526,19 +5293,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10172
 msgid "Barometric pressure"
-msgstr ""
+msgstr "barometrikus nyomás"
 
 #: src/dialogs/confdialog.cxx:10175
 msgid "Search on  web"
-msgstr ""
+msgstr "Keresés a web-wen"
 
 #: src/dialogs/confdialog.cxx:10182
 msgid "KML"
-msgstr ""
+msgstr "KML"
 
 #: src/dialogs/confdialog.cxx:10184
 msgid "KML files directory"
-msgstr ""
+msgstr "KML fájlok könyvtára"
 
 #: src/dialogs/confdialog.cxx:10185
 msgid "Where generated KML documents are stored."
@@ -5561,7 +5328,8 @@ msgid "Data retention time, in hours (0 for no limit)"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:10206
-msgid "Number of hours data is kept for each node. Zero means keeping everything."
+msgid ""
+"Number of hours data is kept for each node. Zero means keeping everything."
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:10215
@@ -5585,12 +5353,14 @@ msgid "Command run on KML creation"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:10249
-msgid "Command started when KML files are generated. Subprocesses are started once, and restarted if needed."
+msgid ""
+"Command started when KML files are generated. Subprocesses are started once, "
+"and restarted if needed."
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:10255
 msgid "Test command"
-msgstr ""
+msgstr "Teszt parancs"
 
 #: src/dialogs/confdialog.cxx:10256
 msgid "Execute command on KML files."
@@ -5626,15 +5396,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10280
 msgid "Callsign database"
-msgstr ""
+msgstr "Hívójel adatbázis"
 
 #: src/dialogs/confdialog.cxx:10283
 msgid "Call Lookup"
-msgstr ""
+msgstr "Hívójel keresés"
 
 #: src/dialogs/confdialog.cxx:10285
 msgid "Web Browser lookup"
-msgstr ""
+msgstr "Hívójel keresés a Web-en"
 
 #: src/dialogs/confdialog.cxx:10289
 msgid "Do not use callsign lookup via web browser"
@@ -5652,8 +5422,7 @@ msgstr ""
 msgid "HamCall online via default Internet Browser"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10302
-#: src/dialogs/confdialog.cxx:10350
+#: src/dialogs/confdialog.cxx:10302 src/dialogs/confdialog.cxx:10350
 msgid "Visit Hamcall web site"
 msgstr ""
 
@@ -5675,7 +5444,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10325
 msgid "QRZ cdrom"
-msgstr ""
+msgstr "QRZ CD-rom"
 
 #: src/dialogs/confdialog.cxx:10326
 msgid "Use CD or hard drive CD image"
@@ -5683,7 +5452,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10331
 msgid "QRZ.com"
-msgstr ""
+msgstr "QRZ.com"
 
 #: src/dialogs/confdialog.cxx:10332
 msgid ""
@@ -5693,7 +5462,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10337
 msgid "Hamcall.net"
-msgstr ""
+msgstr "Hamcall.net"
 
 #: src/dialogs/confdialog.cxx:10338
 msgid ""
@@ -5725,26 +5494,22 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10370
 msgid "User name"
-msgstr ""
+msgstr "Felhasználói név"
 
-#: src/dialogs/confdialog.cxx:10371
-#: src/dialogs/confdialog.cxx:10416
+#: src/dialogs/confdialog.cxx:10371 src/dialogs/confdialog.cxx:10416
 #: src/dialogs/confdialog.cxx:10451
 msgid "Your login name"
-msgstr ""
+msgstr "Bejelentkezési név"
 
-#: src/dialogs/confdialog.cxx:10385
-#: src/dialogs/confdialog.cxx:10430
+#: src/dialogs/confdialog.cxx:10385 src/dialogs/confdialog.cxx:10430
 msgid "Password"
-msgstr ""
+msgstr "Jelszó"
 
-#: src/dialogs/confdialog.cxx:10386
-#: src/dialogs/confdialog.cxx:10431
+#: src/dialogs/confdialog.cxx:10386 src/dialogs/confdialog.cxx:10431
 msgid "Your login password"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10402
-#: src/dialogs/confdialog.cxx:10447
+#: src/dialogs/confdialog.cxx:10402 src/dialogs/confdialog.cxx:10447
 msgid "Show password in plain text"
 msgstr ""
 
@@ -5754,7 +5519,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10414
 msgid "eQSL"
-msgstr ""
+msgstr "eQSL"
 
 #: src/dialogs/confdialog.cxx:10415
 msgid "User ID"
@@ -5766,7 +5531,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10465
 msgid "Options"
-msgstr ""
+msgstr "Opciók"
 
 #: src/dialogs/confdialog.cxx:10468
 msgid "send when logged (log button, <LOG>, <LNW>)"
@@ -5778,7 +5543,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10474
 msgid "Default message"
-msgstr ""
+msgstr "Alapértelmezett üzenet"
 
 #: src/dialogs/confdialog.cxx:10475
 msgid "default text to send with <LOG> etc"
@@ -5814,22 +5579,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10524
 msgid "Auto start programs with fldigi"
-msgstr ""
+msgstr "Automatikusan induló programok"
 
 #: src/dialogs/confdialog.cxx:10527
 msgid "flrig:"
-msgstr ""
+msgstr "flrig:"
 
 #: src/dialogs/confdialog.cxx:10528
 msgid "Enter full path-filename for flrig"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10541
-#: src/dialogs/confdialog.cxx:10559
-#: src/dialogs/confdialog.cxx:10577
-#: src/dialogs/confdialog.cxx:10595
-#: src/dialogs/confdialog.cxx:10613
-#: src/dialogs/confdialog.cxx:10631
+#: src/dialogs/confdialog.cxx:10541 src/dialogs/confdialog.cxx:10559
+#: src/dialogs/confdialog.cxx:10577 src/dialogs/confdialog.cxx:10595
+#: src/dialogs/confdialog.cxx:10613 src/dialogs/confdialog.cxx:10631
 #: src/dialogs/confdialog.cxx:10649
 msgid "Locate"
 msgstr ""
@@ -5840,7 +5602,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10545
 msgid "flamp:"
-msgstr ""
+msgstr "flamp:"
 
 #: src/dialogs/confdialog.cxx:10546
 msgid "Enter full path-filename for flamp"
@@ -5852,7 +5614,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10563
 msgid "flnet:"
-msgstr ""
+msgstr "flnet:"
 
 #: src/dialogs/confdialog.cxx:10564
 msgid "Enter full path-filename for flnet"
@@ -5864,7 +5626,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10581
 msgid "fllog:"
-msgstr ""
+msgstr "fllog:"
 
 #: src/dialogs/confdialog.cxx:10582
 msgid "Enter full path-filename for fllog"
@@ -5878,8 +5640,7 @@ msgstr ""
 msgid "Prog 1:"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10600
-#: src/dialogs/confdialog.cxx:10618
+#: src/dialogs/confdialog.cxx:10600 src/dialogs/confdialog.cxx:10618
 #: src/dialogs/confdialog.cxx:10636
 msgid "Enter full path-filename for external program"
 msgstr ""
@@ -5910,41 +5671,35 @@ msgid ""
 "-"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10654
-#: src/dialogs/confdialog.cxx:10661
-#: src/dialogs/confdialog.cxx:10667
-#: src/dialogs/confdialog.cxx:10673
-#: src/dialogs/confdialog.cxx:10679
-#: src/dialogs/confdialog.cxx:10685
+#: src/dialogs/confdialog.cxx:10654 src/dialogs/confdialog.cxx:10661
+#: src/dialogs/confdialog.cxx:10667 src/dialogs/confdialog.cxx:10673
+#: src/dialogs/confdialog.cxx:10679 src/dialogs/confdialog.cxx:10685
 #: src/dialogs/confdialog.cxx:10691
 msgid "Enable this entry when fldigi first starts"
 msgstr ""
 
-#: src/dialogs/confdialog.cxx:10696
-#: src/dialogs/confdialog.cxx:10700
-#: src/dialogs/confdialog.cxx:10704
-#: src/dialogs/confdialog.cxx:10708
-#: src/dialogs/confdialog.cxx:10712
-#: src/dialogs/confdialog.cxx:10716
+#: src/dialogs/confdialog.cxx:10696 src/dialogs/confdialog.cxx:10700
+#: src/dialogs/confdialog.cxx:10704 src/dialogs/confdialog.cxx:10708
+#: src/dialogs/confdialog.cxx:10712 src/dialogs/confdialog.cxx:10716
 #: src/dialogs/confdialog.cxx:10720
 msgid "Test"
-msgstr ""
+msgstr "Teszt"
 
 #: src/dialogs/confdialog.cxx:10697
 msgid "Start flrig"
-msgstr ""
+msgstr "Flrig indítása"
 
 #: src/dialogs/confdialog.cxx:10701
 msgid "Start flamp"
-msgstr ""
+msgstr "Flamp indítása"
 
 #: src/dialogs/confdialog.cxx:10705
 msgid "Start flnet"
-msgstr ""
+msgstr "Flnet indítása"
 
 #: src/dialogs/confdialog.cxx:10709
 msgid "Start fllog"
-msgstr ""
+msgstr "Fllog indítása"
 
 #: src/dialogs/confdialog.cxx:10713
 msgid "Start prog1"
@@ -5964,32 +5719,27 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10732
 msgid "ARQ"
-msgstr ""
+msgstr "ARQ"
 
-#: src/dialogs/confdialog.cxx:10735
-#: src/dialogs/confdialog.cxx:10800
+#: src/dialogs/confdialog.cxx:10735 src/dialogs/confdialog.cxx:10800
 #: src/dialogs/confdialog.cxx:10839
 msgid "IP Address"
-msgstr ""
+msgstr "IP cím"
 
-#: src/dialogs/confdialog.cxx:10736
-#: src/dialogs/confdialog.cxx:10801
+#: src/dialogs/confdialog.cxx:10736 src/dialogs/confdialog.cxx:10801
 msgid "IP Address format: nnn.nnn.nnn.nnn"
-msgstr ""
+msgstr "IP cím formátum: nnn.nnn.nnn.nnn"
 
-#: src/dialogs/confdialog.cxx:10750
-#: src/dialogs/confdialog.cxx:10815
+#: src/dialogs/confdialog.cxx:10750 src/dialogs/confdialog.cxx:10815
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
-#: src/dialogs/confdialog.cxx:10751
-#: src/dialogs/confdialog.cxx:10816
+#: src/dialogs/confdialog.cxx:10751 src/dialogs/confdialog.cxx:10816
 #: src/dialogs/confdialog.cxx:10855
 msgid "IP Address Port Number"
-msgstr ""
+msgstr "IP cím Port száma:"
 
-#: src/dialogs/confdialog.cxx:10766
-#: src/dialogs/confdialog.cxx:10797
+#: src/dialogs/confdialog.cxx:10766 src/dialogs/confdialog.cxx:10797
 #: src/dialogs/confdialog.cxx:10836
 msgid ""
 "Returns IP Address and port\n"
@@ -6006,7 +5756,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10779
 msgid "Enable ARQ"
-msgstr ""
+msgstr "ARQ engedélyezése"
 
 #: src/dialogs/confdialog.cxx:10780
 msgid "Used For PSKMail and FLDIGI Suite of Programs"
@@ -6014,20 +5764,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10786
 msgid "Enable KISS"
-msgstr ""
+msgstr "KISS engedélyezése"
 
-#: src/dialogs/confdialog.cxx:10787
-#: src/dialogs/confdialog.cxx:10933
+#: src/dialogs/confdialog.cxx:10787 src/dialogs/confdialog.cxx:10933
 msgid "Used for BPQ32"
 msgstr ""
 
 #: src/dialogs/confdialog.cxx:10793
 msgid "XMLRPC"
-msgstr ""
+msgstr "XMLRPC"
 
 #: src/dialogs/confdialog.cxx:10832
 msgid "KISS"
-msgstr ""
+msgstr "KISS"
 
 #: src/dialogs/confdialog.cxx:10840
 msgid "IP Address for KISS interface"
@@ -6035,7 +5784,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10854
 msgid "I/O"
-msgstr ""
+msgstr "I/O"
 
 #: src/dialogs/confdialog.cxx:10869
 msgid "Enable Busy Channel"
@@ -6075,7 +5824,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10926
 msgid "AX25 Decode"
-msgstr ""
+msgstr "AX25 Dekódolás"
 
 #: src/dialogs/confdialog.cxx:10927
 msgid "Decode AX25 Packets into human readable form"
@@ -6083,23 +5832,23 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:10932
 msgid "Enable CSMA"
-msgstr ""
+msgstr "CSMA engedélyezése"
 
 #: src/dialogs/confdialog.cxx:10949
 msgid "Restore defaults"
-msgstr ""
+msgstr "Alapértelmezettek visszaállítása"
 
 #: src/dialogs/font_browser.cxx:47
 msgid "Font color"
-msgstr ""
+msgstr "Betű szín"
 
 #: src/dialogs/font_browser.cxx:118
 msgid "Font:"
-msgstr ""
+msgstr "betű:"
 
 #: src/dialogs/font_browser.cxx:123
 msgid "Size:"
-msgstr ""
+msgstr "Méret:"
 
 #: src/dialogs/font_browser.cxx:133
 msgid "&OK"
@@ -6116,14 +5865,13 @@ msgstr ""
 msgid "Reading fonts..."
 msgstr ""
 
-#: src/dialogs/record_browse.cxx:25
-#: src/dialogs/record_browse.cxx:30
+#: src/dialogs/record_browse.cxx:25 src/dialogs/record_browse.cxx:30
 msgid "Data files sources"
 msgstr ""
 
 #: src/dialogs/record_browse.cxx:27
 msgid "Data files update"
-msgstr ""
+msgstr "Adatfájlok frissítése"
 
 #: src/dialogs/record_browse.cxx:29
 msgid "Tabular data sources"
@@ -6131,7 +5879,7 @@ msgstr ""
 
 #: src/dialogs/record_browse.cxx:43
 msgid "Data source"
-msgstr ""
+msgstr "Adat forrás"
 
 #: src/dialogs/record_browse.cxx:44
 msgid "Data files repository"
@@ -6147,11 +5895,11 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:106
 msgid "Event"
-msgstr ""
+msgstr "Esemény"
 
 #: src/dialogs/notifydialog.cxx:112
 msgid "Enabled"
-msgstr ""
+msgstr "Engedélyezve"
 
 #: src/dialogs/notifydialog.cxx:114
 msgid "RE:"
@@ -6159,15 +5907,15 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:128
 msgid "Filter"
-msgstr ""
+msgstr "Szűrő"
 
 #: src/dialogs/notifydialog.cxx:146
 msgid "DXCC entity"
-msgstr ""
+msgstr "DXCC entitás"
 
 #: src/dialogs/notifydialog.cxx:151
 msgid "Show DXCC entities"
-msgstr ""
+msgstr "DXCC entitások mutatása"
 
 #: src/dialogs/notifydialog.cxx:153
 msgid "Not worked before"
@@ -6175,11 +5923,11 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:156
 msgid "LotW user"
-msgstr ""
+msgstr "LotW felhasználó"
 
 #: src/dialogs/notifydialog.cxx:159
 msgid "eQSL user"
-msgstr ""
+msgstr "eQSL felhasználó"
 
 #: src/dialogs/notifydialog.cxx:164
 msgid "Duplicates"
@@ -6211,16 +5959,15 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:214
 msgid "Show alert window:"
-msgstr ""
+msgstr "Figyelmeztető ablak megjelenítése:"
 
-#: src/dialogs/notifydialog.cxx:228
-#: src/dialogs/notifydialog.cxx:259
+#: src/dialogs/notifydialog.cxx:228 src/dialogs/notifydialog.cxx:259
 msgid "Insert default text"
 msgstr ""
 
 #: src/dialogs/notifydialog.cxx:230
 msgid "Hide window after (s):"
-msgstr ""
+msgstr "Ablak időzített elrejtése (s):"
 
 #: src/dialogs/notifydialog.cxx:245
 msgid "Append to RX text:"
@@ -6236,15 +5983,15 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:277
 msgid "Run program:"
-msgstr ""
+msgstr "Program futtatása:"
 
 #: src/dialogs/notifydialog.cxx:340
 msgid "DXCC entities"
-msgstr ""
+msgstr "DXCC entitások"
 
 #: src/dialogs/notifydialog.cxx:354
 msgid "Find country:"
-msgstr ""
+msgstr "Ország keresése:"
 
 #: src/dialogs/notifydialog.cxx:355
 msgid "Press return to continue the search"
@@ -6252,21 +5999,18 @@ msgstr ""
 
 #: src/dialogs/notifydialog.cxx:367
 msgid "Find prefix:"
-msgstr ""
+msgstr "Prefix keresése:"
 
 #: src/logbook/lgbook.cxx:397
 msgid "Export Setup"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:398
-#: src/logbook/lgbook.cxx:1040
+#: src/logbook/lgbook.cxx:398 src/logbook/lgbook.cxx:1040
 msgid "Select Records to Export"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:406
-#: src/logbook/lgbook.cxx:456
-#: src/logbook/lgbook.cxx:1048
-#: src/logbook/lgbook.cxx:1122
+#: src/logbook/lgbook.cxx:406 src/logbook/lgbook.cxx:456
+#: src/logbook/lgbook.cxx:1048 src/logbook/lgbook.cxx:1122
 msgid "Check All"
 msgstr ""
 
@@ -6298,10 +6042,9 @@ msgstr ""
 msgid "Select Fields to Export"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:467
-#: src/logbook/lgbook.cxx:1079
+#: src/logbook/lgbook.cxx:467 src/logbook/lgbook.cxx:1079
 msgid "Freq"
-msgstr ""
+msgstr "Frekvencia"
 
 #: src/logbook/lgbook.cxx:478
 msgid "QSO Date On"
@@ -6315,36 +6058,31 @@ msgstr ""
 msgid "Time ON"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:490
-#: src/logbook/lgbook.cxx:1091
+#: src/logbook/lgbook.cxx:490 src/logbook/lgbook.cxx:1091
 msgid "Time OFF"
 msgstr ""
 
 #: src/logbook/lgbook.cxx:494
 msgid "TX Power"
-msgstr ""
+msgstr "TX teljesítmény"
 
-#: src/logbook/lgbook.cxx:497
-#: src/logbook/lgbook.cxx:1095
+#: src/logbook/lgbook.cxx:497 src/logbook/lgbook.cxx:1095
 msgid "RST sent"
-msgstr ""
+msgstr "RST küldött"
 
-#: src/logbook/lgbook.cxx:501
-#: src/logbook/lgbook.cxx:1099
+#: src/logbook/lgbook.cxx:501 src/logbook/lgbook.cxx:1099
 msgid "RST rcvd"
-msgstr ""
+msgstr "RT fogadott"
 
-#: src/logbook/lgbook.cxx:505
-#: src/logbook/lgbook.cxx:731
+#: src/logbook/lgbook.cxx:505 src/logbook/lgbook.cxx:731
 msgid "Qth"
-msgstr ""
+msgstr "Qth"
 
 #: src/logbook/lgbook.cxx:508
 msgid "LOC"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:515
-#: src/logbook/lgbook.cxx:876
+#: src/logbook/lgbook.cxx:515 src/logbook/lgbook.cxx:876
 msgid "QSL-VIA"
 msgstr ""
 
@@ -6356,41 +6094,34 @@ msgstr ""
 msgid "QSL sent date"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:533
-#: src/logbook/lgbook.cxx:1103
+#: src/logbook/lgbook.cxx:533 src/logbook/lgbook.cxx:1103
 msgid "Serial # in"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:536
-#: src/logbook/lgbook.cxx:1107
+#: src/logbook/lgbook.cxx:536 src/logbook/lgbook.cxx:1107
 msgid "Serial # out"
 msgstr ""
 
-#: src/logbook/lgbook.cxx:545
-#: src/logbook/lgbook.cxx:804
+#: src/logbook/lgbook.cxx:545 src/logbook/lgbook.cxx:804
 #: src/logbook/lgbook.cxx:805
 msgid "County"
-msgstr ""
+msgstr "Ország"
 
-#: src/logbook/lgbook.cxx:551
-#: src/logbook/lgbook.cxx:828
+#: src/logbook/lgbook.cxx:551 src/logbook/lgbook.cxx:828
 msgid "CQZ"
-msgstr ""
+msgstr "CQZ"
 
-#: src/logbook/lgbook.cxx:554
-#: src/logbook/lgbook.cxx:864
+#: src/logbook/lgbook.cxx:554 src/logbook/lgbook.cxx:864
 msgid "DXCC"
-msgstr ""
+msgstr "DXCC"
 
-#: src/logbook/lgbook.cxx:557
-#: src/logbook/lgbook.cxx:816
+#: src/logbook/lgbook.cxx:557 src/logbook/lgbook.cxx:816
 msgid "IOTA"
-msgstr ""
+msgstr "IOTA"
 
-#: src/logbook/lgbook.cxx:560
-#: src/logbook/lgbook.cxx:840
+#: src/logbook/lgbook.cxx:560 src/logbook/lgbook.cxx:840
 msgid "ITUZ"
-msgstr ""
+msgstr "ITUZ"
 
 #: src/logbook/lgbook.cxx:570
 msgid "Logbook"
@@ -6446,7 +6177,7 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:671
 msgid "Frequency in MHz"
-msgstr ""
+msgstr "Frekvencia MHz"
 
 #: src/logbook/lgbook.cxx:683
 msgid "Mode in use"
@@ -6454,19 +6185,19 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:694
 msgid "Pwr"
-msgstr ""
+msgstr "Telj."
 
 #: src/logbook/lgbook.cxx:695
 msgid "Transmit power used"
-msgstr ""
+msgstr "Adásti teljesítmény"
 
 #: src/logbook/lgbook.cxx:707
 msgid "Rst sent"
-msgstr ""
+msgstr "Rst küldve"
 
 #: src/logbook/lgbook.cxx:718
 msgid "QSL-sent"
-msgstr ""
+msgstr "QSL küldve"
 
 #: src/logbook/lgbook.cxx:719
 msgid "QSL sent on this date"
@@ -6594,11 +6325,11 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:1020
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: src/logbook/lgbook.cxx:1022
 msgid "Time"
-msgstr ""
+msgstr "Idő"
 
 #: src/logbook/lgbook.cxx:1039
 msgid "Cabrillo Setup"
@@ -6610,9 +6341,8 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:1062
 msgid "Contest:"
-msgstr ""
+msgstr "Verseny:"
 
 #: src/logbook/lgbook.cxx:1087
 msgid "QSO Date"
 msgstr ""
-
