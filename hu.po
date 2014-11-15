@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-15 15:05+0100\n"
+"PO-Revision-Date: 2014-11-15 15:36+0100\n"
 "Last-Translator: Ervin Hegedüs <airween@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -273,7 +273,7 @@ msgstr "URL másolása"
 
 #: src/dialogs/fl_digi.cxx:2014
 msgid "You are running the latest version"
-msgstr ""
+msgstr "Ez a legfrissebb verzió"
 
 #: src/dialogs/fl_digi.cxx:2080
 msgid "Sunspot creation underway!"
@@ -298,7 +298,7 @@ msgstr "Bementi és lejátszó eszköz"
 #: src/dialogs/fl_digi.cxx:2147
 #, c-format
 msgid "%s: Do not exist, create?"
-msgstr ""
+msgstr "%s: Nem létezik, létrehozzam?"
 
 #: src/dialogs/fl_digi.cxx:2147
 #: src/dialogs/fl_digi.cxx:2874
@@ -332,23 +332,23 @@ msgstr "Igen"
 
 #: src/dialogs/fl_digi.cxx:2527
 msgid "Clear log fields?"
-msgstr ""
+msgstr "Törlöd a mezőket?"
 
 #: src/dialogs/fl_digi.cxx:2527
 #: src/misc/configuration.cxx:691
 #: src/logbook/lgbook.cxx:444
 #: src/logbook/lgbook.cxx:1053
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: src/dialogs/fl_digi.cxx:2542
 msgid "Enter a CALL !"
-msgstr ""
+msgstr "Adj meg egy hívójelet"
 
 #: src/dialogs/fl_digi.cxx:2589
 #: src/dialogs/fl_digi.cxx:4100
 msgid "Confirm"
-msgstr ""
+msgstr "Megerősítés"
 
 #: src/dialogs/fl_digi.cxx:2874
 msgid "Save changed configuration?"
@@ -357,7 +357,7 @@ msgstr "Configuráció mentése?"
 #: src/dialogs/fl_digi.cxx:2890
 #: src/dialogs/fl_digi.cxx:2913
 msgid "Save log entry?"
-msgstr ""
+msgstr "Mented a log bejegyzést?"
 
 #: src/dialogs/fl_digi.cxx:2904
 msgid "Confirm Quit"
@@ -441,7 +441,7 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3724
 #: src/dialogs/confdialog.cxx:5289
 msgid "Operator"
-msgstr ""
+msgstr "Operátor"
 
 #: src/dialogs/fl_digi.cxx:3725
 msgid "Colors && Fonts"
@@ -461,7 +461,7 @@ msgstr "Vízesés"
 
 #: src/dialogs/fl_digi.cxx:3728
 msgid "Waterfall controls"
-msgstr ""
+msgstr "Vízesés beállítások"
 
 #: src/dialogs/fl_digi.cxx:3730
 #: src/dialogs/fl_digi.cxx:5923
@@ -477,7 +477,7 @@ msgstr "Hangkártya"
 #: src/dialogs/fl_digi.cxx:3733
 #: src/dialogs/fl_digi.cxx:5924
 msgid "IDs"
-msgstr ""
+msgstr "Azonosítók"
 
 #: src/dialogs/fl_digi.cxx:3734
 #: src/dialogs/confdialog.cxx:9701
@@ -522,6 +522,7 @@ msgid "Signal browser"
 msgstr "Jel böngésző"
 
 #: src/dialogs/fl_digi.cxx:3754
+#, fuzzy
 msgid "Controls"
 msgstr ""
 
@@ -531,7 +532,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3770
 msgid "View"
-msgstr ""
+msgstr "Nézet"
 
 #: src/dialogs/fl_digi.cxx:3772
 msgid "ADIF"
@@ -539,7 +540,7 @@ msgstr "ADIF"
 
 #: src/dialogs/fl_digi.cxx:3773
 msgid "Merge..."
-msgstr ""
+msgstr "Összefésülés..."
 
 #: src/dialogs/fl_digi.cxx:3774
 msgid "Export..."
@@ -547,7 +548,7 @@ msgstr "Exportálás..."
 
 #: src/dialogs/fl_digi.cxx:3777
 msgid "Reports"
-msgstr ""
+msgstr "Riportok"
 
 #: src/dialogs/fl_digi.cxx:3778
 msgid "Text..."
@@ -582,7 +583,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3797
 msgid "Beginners' Guide"
-msgstr ""
+msgstr "Kezdők kézikönyve"
 
 #: src/dialogs/fl_digi.cxx:3798
 msgid "Online documentation..."
@@ -646,11 +647,11 @@ msgstr "Lista törlése?"
 
 #: src/dialogs/fl_digi.cxx:4133
 msgid "report"
-msgstr ""
+msgstr "riport"
 
 #: src/dialogs/fl_digi.cxx:4133
 msgid "reports"
-msgstr ""
+msgstr "riportok"
 
 #: src/dialogs/fl_digi.cxx:4143
 msgid "Recent activity for grid"
@@ -681,11 +682,11 @@ msgstr "Törlés"
 #: src/spot/notify.cxx:216
 #: src/dialogs/confdialog.cxx:5534
 msgid "Select"
-msgstr ""
+msgstr "Kiválasztás"
 
 #: src/dialogs/fl_digi.cxx:4865
 msgid "Add current frequency"
-msgstr ""
+msgstr "Aktuális frekvencia hozzáadása"
 
 #: src/dialogs/fl_digi.cxx:4872
 msgid "Clear list"
@@ -788,12 +789,12 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:5016
 #: src/dialogs/fl_digi.cxx:5269
 msgid "Sent serial number (read only)"
-msgstr ""
+msgstr "Küldött sorszám (csak olvasható)"
 
 #: src/dialogs/fl_digi.cxx:5022
 #: src/dialogs/fl_digi.cxx:5260
 msgid "Received serial number"
-msgstr ""
+msgstr "Vett sorszám"
 
 #: src/dialogs/fl_digi.cxx:5027
 #: src/dialogs/fl_digi.cxx:5251
@@ -835,7 +836,7 @@ msgstr "Idő ki"
 #: src/dialogs/fl_digi.cxx:5236
 #: src/dialogs/fl_digi.cxx:5591
 msgid "Other call"
-msgstr ""
+msgstr "Hívójel"
 
 #: src/dialogs/fl_digi.cxx:5148
 msgid "Received RST"
@@ -851,7 +852,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5165
 msgid "Other name"
-msgstr ""
+msgstr "Ellenállomás név"
 
 #: src/dialogs/fl_digi.cxx:5221
 msgid "# S"
@@ -871,20 +872,25 @@ msgid ""
 "Shift-Fkey - execute\n"
 "Right Click - edit"
 msgstr ""
+"Bal egérgomb - futtatás\n"
+"Shift-Fgomb - futtatás\n"
+"Jobb egérgomb - szerkesztés"
 
 #: src/dialogs/fl_digi.cxx:5342
 msgid "Shift-key macro set"
-msgstr ""
+msgstr "Shift-billentyű makró beállítása"
 
 #: src/dialogs/fl_digi.cxx:5366
 msgid ""
 "Left click - select\n"
 "Right click - clear line"
 msgstr ""
+"Bal egérgomb - kiválasztás\n"
+"Jobb egérgomb - sor tartalmának törlése"
 
 #: src/dialogs/fl_digi.cxx:5384
 msgid "seek - regular expression"
-msgstr ""
+msgstr "keresés - reguláris kifejezés"
 
 #: src/dialogs/fl_digi.cxx:5407
 #: src/dialogs/Viewer.cxx:318
@@ -897,6 +903,9 @@ msgid ""
 "Fkey - execute\n"
 "Right Click - edit"
 msgstr ""
+"Bal egérgomb - futtatás\n"
+"F billentyű - futtatás\n"
+"Jobb egérgomb - szerkesztés"
 
 #: src/dialogs/fl_digi.cxx:5516
 msgid "Primary macro set"
@@ -919,21 +928,23 @@ msgid ""
 "Left click: change mode\n"
 "Right click: configure"
 msgstr ""
+"Bal egérgomb: mód váltás\n"
+"Jobb egérgomb: beállítás"
 
 #: src/dialogs/fl_digi.cxx:5568
 #: src/dialogs/fl_digi.cxx:6176
 msgid "CW transmit WPM"
-msgstr ""
+msgstr "CW adás sebesség (WPM)"
 
 #: src/dialogs/fl_digi.cxx:5574
 #: src/dialogs/fl_digi.cxx:6183
 msgid "Default WPM"
-msgstr ""
+msgstr "Alapértelmezett sebesség (WPM)"
 
 #: src/dialogs/fl_digi.cxx:5613
 #: src/dialogs/fl_digi.cxx:6215
 msgid "Tx level attenuator (dB)"
-msgstr ""
+msgstr "Tx csillapítás szint (dB)"
 
 #: src/dialogs/fl_digi.cxx:5643
 #: src/dialogs/fl_digi.cxx:6244
@@ -980,7 +991,7 @@ msgstr "Üres ADIF log file %s"
 #: src/logbook/adif_io.cxx:247
 #, c-format
 msgid "Error reading %s"
-msgstr ""
+msgstr "Olvasási hiba: %s"
 
 #: src/logbook/logbook.cxx:63
 #: src/logbook/logsupport.cxx:232
@@ -993,7 +1004,7 @@ msgstr "Exportálás CSV fájlba"
 
 #: src/logbook/logsupport.cxx:167
 msgid "Export to fixed field text file"
-msgstr ""
+msgstr "Exportálás fix szélességű mezőkkel szöveges fájlba"
 
 #: src/logbook/logsupport.cxx:194
 msgid "Export to ADIF file"
@@ -1009,7 +1020,7 @@ msgstr "Log fájl mentése"
 
 #: src/logbook/logsupport.cxx:494
 msgid "Merge ADIF file"
-msgstr ""
+msgstr "ADIF fájl összefésülés"
 
 #: src/logbook/logsupport.cxx:596
 #: src/spot/notify.cxx:204
@@ -1022,11 +1033,11 @@ msgstr "Frissítés"
 #: src/logbook/logsupport.cxx:1048
 #, c-format
 msgid "Really delete record for \"%s\"?"
-msgstr ""
+msgstr "Biztos hogy törlöd ezt a rekordot: \"%s\"?"
 
 #: src/logbook/logsupport.cxx:1456
 msgid "Create cabrillo report"
-msgstr ""
+msgstr "Cabrillo fájl generálás"
 
 #: src/logger/rx_extract.cxx:54
 msgid ""
@@ -1054,11 +1065,11 @@ msgstr "Az flmsg program helye"
 
 #: src/logger/rx_extract.cxx:333
 msgid "flmsg.exe\t*.exe"
-msgstr ""
+msgstr "flmsg.exe\t*.exe"
 
 #: src/logger/rx_extract.cxx:336
 msgid "flmsg\t*"
-msgstr ""
+msgstr "flmsg\t*"
 
 #: src/logger/rx_extract.cxx:408
 msgid "Locate executable"
@@ -1083,10 +1094,14 @@ msgid ""
 "    fldigi.files\\talk\\textout.txt (Windows)\n"
 "    ~/.fldigi/talk/textout.txt (Linux, OS X, Free BSD)"
 msgstr ""
+"Minden vett szövegadat mentése karakterenként az alábbi fájlba:\n"
+"\n"
+"    fldigi.files\\talk\\textout.txt (Windows)\n"
+"    ~/.fldigi/talk/textout.txt (Linux, OS X, Free BSD)"
 
 #: src/misc/configuration.cxx:509
 msgid "Rig mode"
-msgstr ""
+msgstr "Rig mód"
 
 #: src/misc/configuration.cxx:510
 msgid "Always LSB"
@@ -1103,10 +1118,14 @@ msgid ""
 "Reset options will take effect at the next start\n"
 "Files: fldigi_def.xml and fldigi.prefs will be deleted!\n"
 msgstr ""
+"Minden opciót alapértelmezett értékre állítasz?\n"
+"\n"
+"Az alapértelmezett értékek a következő induláskor lépnek érvénybe\n"
+"Az alábbi fájlok: fldigi_def.xml and fldigi.prefs törölve lesznek!\n"
 
 #: src/misc/configuration.cxx:693
 msgid "Confirm RESET"
-msgstr ""
+msgstr "Beállítások alapértelmezésének megerősítése"
 
 #: src/misc/debug.cxx:91
 msgid "Quiet"
@@ -1118,7 +1137,7 @@ msgstr "Hiba"
 
 #: src/misc/debug.cxx:91
 msgid "Warning"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 #: src/misc/debug.cxx:91
 msgid "Info"
@@ -1163,7 +1182,7 @@ msgstr "Log források"
 
 #: src/misc/debug.cxx:147
 msgid "Change log level"
-msgstr ""
+msgstr "Logolási szint módosítása"
 
 #: src/misc/macroedit.cxx:71
 msgid "<FREQ>\tmy frequency"
@@ -1624,7 +1643,7 @@ msgstr "Makró fájl megnyitása"
 #: src/misc/macros.cxx:2977
 #: src/misc/macros.cxx:3015
 msgid "Fldigi macro definition file\t*.{mdf}"
-msgstr ""
+msgstr "Fldigi makró definíciós fájl\t*.{mdf}"
 
 #: src/misc/macros.cxx:3014
 msgid "Save macro file"
@@ -1636,11 +1655,11 @@ msgstr "Megszakítva"
 
 #: src/misc/network.cxx:170
 msgid "Timed out"
-msgstr ""
+msgstr "Időtúllépés"
 
 #: src/misc/newinstall.cxx:387
 msgid "Finish"
-msgstr ""
+msgstr "Vége"
 
 #: src/misc/newinstall.cxx:388
 msgid "Next"
@@ -1652,15 +1671,15 @@ msgstr "Vissza"
 
 #: src/misc/newinstall.cxx:519
 msgid "The wizard will guide you through the basic fldigi settings"
-msgstr ""
+msgstr "A varázsló segít az fldigi alapbeállításainak elvégzésében"
 
 #: src/misc/newinstall.cxx:522
 msgid "Feel free to skip any pages or exit the wizard at any time"
-msgstr ""
+msgstr "Akármelyik oldalt kihagyhatod, vagy bármikor kiléphetsz a varázslóból"
 
 #: src/misc/newinstall.cxx:523
 msgid "All settings shown here can be changed later via the Configure menu"
-msgstr ""
+msgstr "Minen itt látható beállítás később módosítható a Konfigálás menüből"
 
 #: src/misc/newinstall.cxx:538
 msgid "Fldigi configuration wizard"
@@ -1671,7 +1690,7 @@ msgstr "Fldigi konfiguráció varázsló"
 #: src/mfsk/mfsk-pic.cxx:305
 #: src/mfsk/mfsk-pic.cxx:308
 msgid "Time needed: "
-msgstr ""
+msgstr "Szükséges idő:"
 
 #: src/mfsk/mfsk-pic.cxx:175
 msgid "Load image file"
@@ -1705,11 +1724,11 @@ msgstr "Felső jelszint (dB)"
 
 #: src/waterfall/waterfall.cxx:1602
 msgid "Signal range (dB)"
-msgstr ""
+msgstr "Jelerősség tartomány (dB)"
 
 #: src/waterfall/waterfall.cxx:1608
 msgid "Change waterfall scale"
-msgstr ""
+msgstr "Vízesés skála módosítása"
 
 #: src/waterfall/waterfall.cxx:1613
 msgid "Slew display lower in frequency"
@@ -1725,11 +1744,11 @@ msgstr ""
 
 #: src/waterfall/waterfall.cxx:1628
 msgid "Waterfall drop speed"
-msgstr ""
+msgstr "Vízesés folyam sebessége"
 
 #: src/waterfall/waterfall.cxx:1638
 msgid "Adjust cursor frequency"
-msgstr ""
+msgstr "Kurzor frekvencia beállítása"
 
 #: src/waterfall/waterfall.cxx:1643
 msgid ""
@@ -1822,7 +1841,7 @@ msgstr ""
 #: src/spot/notify.cxx:205
 #: src/spot/notify.cxx:517
 msgid "Remove"
-msgstr ""
+msgstr "Eltávolítás"
 
 #: src/spot/notify.cxx:217
 #: src/spot/notify.cxx:223
@@ -1830,7 +1849,7 @@ msgstr ""
 #: src/logbook/lgbook.cxx:548
 #: src/logbook/lgbook.cxx:853
 msgid "Continent"
-msgstr ""
+msgstr "Kontinens"
 
 #: src/spot/notify.cxx:218
 #: src/spot/notify.cxx:224
@@ -1851,11 +1870,11 @@ msgstr "Minden"
 
 #: src/spot/notify.cxx:222
 msgid "Deselect"
-msgstr ""
+msgstr "Kiválasztás megszüntetése"
 
 #: src/spot/notify.cxx:516
 msgid "Add"
-msgstr ""
+msgstr "Hozzáadás"
 
 #: src/spot/notify.cxx:519
 msgid "Test..."
@@ -1877,11 +1896,11 @@ msgstr "Minden törlése"
 
 #: src/spot/notify.cxx:1096
 msgid "The regular expression field must not be empty."
-msgstr ""
+msgstr "A reguláris kifejezés mező nem lehet üres"
 
 #: src/spot/notify.cxx:1102
 msgid "The regular expression must be valid."
-msgstr ""
+msgstr "Érvényes reguláris kifejezést adj meg"
 
 #: src/spot/notify.cxx:1109
 msgid "Please set your callsign first."
