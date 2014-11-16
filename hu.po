@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 08:49+0100\n"
+"PO-Revision-Date: 2014-11-16 09:17+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -339,27 +339,27 @@ msgstr "Fldigi konfiguráció..."
 
 #: src/dialogs/fl_digi.cxx:3504
 msgid "FLMSG files..."
-msgstr ""
+msgstr "FLMSG fájlok"
 
 #: src/dialogs/fl_digi.cxx:3505
 msgid "NBEMS files..."
-msgstr ""
+msgstr "NBEMS fájlok"
 
 #: src/dialogs/fl_digi.cxx:3506
 msgid "Data files..."
-msgstr ""
+msgstr "Adat fájlok"
 
 #: src/dialogs/fl_digi.cxx:3509 src/dialogs/confdialog.cxx:5967
 msgid "Macros"
-msgstr ""
+msgstr "makrók"
 
 #: src/dialogs/fl_digi.cxx:3510
 msgid "Open ..."
-msgstr ""
+msgstr "Megnyitás ..."
 
 #: src/dialogs/fl_digi.cxx:3511
 msgid "Save ..."
-msgstr ""
+msgstr "Mentés ..."
 
 #: src/dialogs/fl_digi.cxx:3514
 msgid "Text Capture"
@@ -368,7 +368,7 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3519 src/misc/debug.cxx:101
 #: src/dialogs/confdialog.cxx:9192
 msgid "Audio"
-msgstr ""
+msgstr "Hang"
 
 #: src/dialogs/fl_digi.cxx:3520
 msgid "RX capture"
@@ -380,11 +380,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3522 src/dialogs/confdialog.cxx:9292
 msgid "Playback"
-msgstr ""
+msgstr "Lejátszás"
 
 #: src/dialogs/fl_digi.cxx:3526 src/dialogs/fl_digi.cxx:5777
 msgid "Exit"
-msgstr ""
+msgstr "Kilépés"
 
 #: src/dialogs/fl_digi.cxx:3723 src/dialogs/fl_digi.cxx:5919
 msgid "&Configure"
@@ -392,20 +392,20 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3724 src/dialogs/confdialog.cxx:5289
 msgid "Operator"
-msgstr ""
+msgstr "Operátor"
 
 #: src/dialogs/fl_digi.cxx:3725
 msgid "Colors && Fonts"
-msgstr ""
+msgstr "Színek && Betűk"
 
 #: src/dialogs/fl_digi.cxx:3726 src/dialogs/confdialog.cxx:5400
 msgid "User Interface"
-msgstr ""
+msgstr "Felhasználói felület"
 
 #: src/dialogs/fl_digi.cxx:3727 src/dialogs/fl_digi.cxx:3762
 #: src/dialogs/fl_digi.cxx:5920 src/dialogs/confdialog.cxx:6580
 msgid "Waterfall"
-msgstr ""
+msgstr "Vízesés"
 
 #: src/dialogs/fl_digi.cxx:3728
 msgid "Waterfall controls"
@@ -414,11 +414,11 @@ msgstr ""
 #: src/dialogs/fl_digi.cxx:3730 src/dialogs/fl_digi.cxx:5923
 #: src/dialogs/confdialog.cxx:6974
 msgid "Modems"
-msgstr ""
+msgstr "Modemek"
 
 #: src/dialogs/fl_digi.cxx:3732 src/dialogs/fl_digi.cxx:5922
 msgid "Sound Card"
-msgstr ""
+msgstr "Hangkártya"
 
 #: src/dialogs/fl_digi.cxx:3733 src/dialogs/fl_digi.cxx:5924
 msgid "IDs"
@@ -426,24 +426,24 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3734 src/dialogs/confdialog.cxx:9701
 msgid "Misc"
-msgstr ""
+msgstr "Egyéb"
 
 #: src/dialogs/fl_digi.cxx:3735 src/dialogs/confdialog.cxx:10519
 msgid "Autostart"
-msgstr ""
+msgstr "Automatikus indítás"
 
 #: src/dialogs/fl_digi.cxx:3736 src/dialogs/confdialog.cxx:10728
 msgid "IO"
-msgstr ""
+msgstr "IO"
 
 #: src/dialogs/fl_digi.cxx:3737 src/dialogs/fl_digi.cxx:5925
 #: src/dialogs/notifydialog.cxx:104
 msgid "Notifications"
-msgstr ""
+msgstr "Figyelmeztetések"
 
 #: src/dialogs/fl_digi.cxx:3739
 msgid "QRZ/eQSL"
-msgstr ""
+msgstr "QRZ/eQSL"
 
 #: src/dialogs/fl_digi.cxx:3740 src/dialogs/fl_digi.cxx:5926
 msgid "Save Config"
@@ -451,15 +451,15 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3745
 msgid "View/Hide Channels"
-msgstr ""
+msgstr "Csatornák megjelenítés/elrejtés"
 
 #: src/dialogs/fl_digi.cxx:3747
 msgid "Floating scope"
-msgstr ""
+msgstr "Lebegő szkóp"
 
 #: src/dialogs/fl_digi.cxx:3751
 msgid "Signal browser"
-msgstr ""
+msgstr "Jelböngésző"
 
 #: src/dialogs/fl_digi.cxx:3754
 msgid "Controls"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3772
 msgid "ADIF"
-msgstr ""
+msgstr "ADIF"
 
 #: src/dialogs/fl_digi.cxx:3773
 msgid "Merge..."
@@ -483,36 +483,36 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3774
 msgid "Export..."
-msgstr ""
+msgstr "Exportálás..."
 
 #: src/dialogs/fl_digi.cxx:3777
 msgid "Reports"
-msgstr ""
+msgstr "Riportok"
 
 #: src/dialogs/fl_digi.cxx:3778
 msgid "Text..."
-msgstr ""
+msgstr "Szöveg..."
 
 #: src/dialogs/fl_digi.cxx:3779
 msgid "CSV..."
-msgstr ""
+msgstr "CSV..."
 
 #: src/dialogs/fl_digi.cxx:3780
 msgid "Cabrillo..."
-msgstr ""
+msgstr "Cabrillo..."
 
 #: src/dialogs/fl_digi.cxx:3783 src/logbook/logsupport.cxx:595
 #: src/logbook/lgbook.cxx:960
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 #: src/dialogs/fl_digi.cxx:3784 src/dialogs/confdialog.cxx:8722
 msgid "Open..."
-msgstr ""
+msgstr "Megnyitás..."
 
 #: src/dialogs/fl_digi.cxx:3792
 msgid "&Help"
-msgstr ""
+msgstr "&Segítség"
 
 #: src/dialogs/fl_digi.cxx:3795
 msgid "Create sunspots"
@@ -528,7 +528,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3799
 msgid "Fldigi web site..."
-msgstr ""
+msgstr "Fldigi weboldal..."
 
 #: src/dialogs/fl_digi.cxx:3800
 msgid "Reception reports..."
@@ -536,11 +536,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3801
 msgid "Command line options"
-msgstr ""
+msgstr "Parancssori opciók"
 
 #: src/dialogs/fl_digi.cxx:3802
 msgid "Audio device info"
-msgstr ""
+msgstr "Hangeszköz információ"
 
 #: src/dialogs/fl_digi.cxx:3803
 msgid "Build info"
@@ -548,11 +548,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:3804 src/misc/debug.cxx:138
 msgid "Event log"
-msgstr ""
+msgstr "Eseménynapló"
 
 #: src/dialogs/fl_digi.cxx:3805
 msgid "Check for updates..."
-msgstr ""
+msgstr "Frissítések ellenőrzése"
 
 #: src/dialogs/fl_digi.cxx:3806
 msgid "&About"
@@ -564,28 +564,28 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4044
 msgid "NO CALLSIGN SET"
-msgstr ""
+msgstr "NINCS HÍVÓJEL BEÁLLÍTVA"
 
 #: src/dialogs/fl_digi.cxx:4059
 msgid "Close List"
-msgstr ""
+msgstr "Lista bezárása"
 
 #: src/dialogs/fl_digi.cxx:4069 src/dialogs/fl_digi.cxx:4824
 #: src/dialogs/fl_digi.cxx:5089 src/dialogs/fl_digi.cxx:5201
 msgid "Open List"
-msgstr ""
+msgstr "Lista megnyitása"
 
 #: src/dialogs/fl_digi.cxx:4100
 msgid "Clear list?"
-msgstr ""
+msgstr "Lista törlése?"
 
 #: src/dialogs/fl_digi.cxx:4133
 msgid "report"
-msgstr ""
+msgstr "Riport"
 
 #: src/dialogs/fl_digi.cxx:4133
 msgid "reports"
-msgstr ""
+msgstr "riportok"
 
 #: src/dialogs/fl_digi.cxx:4143
 msgid "Recent activity for grid"
@@ -597,7 +597,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4830 src/dialogs/fl_digi.cxx:5096
 msgid "QRZ"
-msgstr ""
+msgstr "QRZ"
 
 #: src/dialogs/fl_digi.cxx:4836 src/dialogs/fl_digi.cxx:5103
 #: src/dialogs/fl_digi.cxx:5208 src/dialogs/fl_digi.cxx:5413
@@ -605,16 +605,16 @@ msgstr ""
 #: src/widgets/FTextView.cxx:645 src/widgets/flinput2.cxx:47
 #: src/dialogs/confdialog.cxx:8049
 msgid "Clear"
-msgstr ""
+msgstr "Törlés"
 
 #: src/dialogs/fl_digi.cxx:4858 src/spot/notify.cxx:216
 #: src/dialogs/confdialog.cxx:5534
 msgid "Select"
-msgstr ""
+msgstr "Kiválasztás"
 
 #: src/dialogs/fl_digi.cxx:4865
 msgid "Add current frequency"
-msgstr ""
+msgstr "Jelenlegi frekvencia hozzáadása"
 
 #: src/dialogs/fl_digi.cxx:4872
 msgid "Clear list"
@@ -6056,7 +6056,7 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:467 src/logbook/lgbook.cxx:1079
 msgid "Freq"
-msgstr ""
+msgstr "Frekv"
 
 #: src/logbook/lgbook.cxx:478
 msgid "QSO Date On"
@@ -6088,11 +6088,11 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:505 src/logbook/lgbook.cxx:731
 msgid "Qth"
-msgstr ""
+msgstr "Qth"
 
 #: src/logbook/lgbook.cxx:508
 msgid "LOC"
-msgstr ""
+msgstr "LOC"
 
 #: src/logbook/lgbook.cxx:515 src/logbook/lgbook.cxx:876
 msgid "QSL-VIA"
@@ -6104,7 +6104,7 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:530
 msgid "QSL sent date"
-msgstr ""
+msgstr "QSL elküldésének dátuma"
 
 #: src/logbook/lgbook.cxx:533 src/logbook/lgbook.cxx:1103
 msgid "Serial # in"
@@ -6117,23 +6117,23 @@ msgstr ""
 #: src/logbook/lgbook.cxx:545 src/logbook/lgbook.cxx:804
 #: src/logbook/lgbook.cxx:805
 msgid "County"
-msgstr ""
+msgstr "Ország"
 
 #: src/logbook/lgbook.cxx:551 src/logbook/lgbook.cxx:828
 msgid "CQZ"
-msgstr ""
+msgstr "CQZ"
 
 #: src/logbook/lgbook.cxx:554 src/logbook/lgbook.cxx:864
 msgid "DXCC"
-msgstr ""
+msgstr "DCC"
 
 #: src/logbook/lgbook.cxx:557 src/logbook/lgbook.cxx:816
 msgid "IOTA"
-msgstr ""
+msgstr "IOTA"
 
 #: src/logbook/lgbook.cxx:560 src/logbook/lgbook.cxx:840
 msgid "ITUZ"
-msgstr ""
+msgstr "ITUZ"
 
 #: src/logbook/lgbook.cxx:570
 msgid "Logbook"
@@ -6177,39 +6177,39 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:646
 msgid "Date QSO Ended"
-msgstr ""
+msgstr "QSV végének dátuma"
 
 #: src/logbook/lgbook.cxx:659
 msgid "Time QSO ended"
-msgstr ""
+msgstr "QSO végének ideje"
 
 #: src/logbook/lgbook.cxx:670
 msgid "Freq."
-msgstr ""
+msgstr "Frekv."
 
 #: src/logbook/lgbook.cxx:671
 msgid "Frequency in MHz"
-msgstr ""
+msgstr "Frekvencia MHz"
 
 #: src/logbook/lgbook.cxx:683
 msgid "Mode in use"
-msgstr ""
+msgstr "Használt mód"
 
 #: src/logbook/lgbook.cxx:694
 msgid "Pwr"
-msgstr ""
+msgstr "Teljesítmény"
 
 #: src/logbook/lgbook.cxx:695
 msgid "Transmit power used"
-msgstr ""
+msgstr "Használt adóteljesítmény"
 
 #: src/logbook/lgbook.cxx:707
 msgid "Rst sent"
-msgstr ""
+msgstr "Rts elküldve"
 
 #: src/logbook/lgbook.cxx:718
 msgid "QSL-sent"
-msgstr ""
+msgstr "QSL elküldve"
 
 #: src/logbook/lgbook.cxx:719
 msgid "QSL sent on this date"
@@ -6293,7 +6293,7 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:936
 msgid "Call Search"
-msgstr ""
+msgstr "Hívójel keresése"
 
 #: src/logbook/lgbook.cxx:937
 msgid "Search for this callsign"
@@ -6329,23 +6329,23 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:989
 msgid "Find previous"
-msgstr ""
+msgstr "Előző keresése"
 
 #: src/logbook/lgbook.cxx:997
 msgid "Find next"
-msgstr ""
+msgstr "Következő keresése"
 
 #: src/logbook/lgbook.cxx:1020
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: src/logbook/lgbook.cxx:1022
 msgid "Time"
-msgstr ""
+msgstr "Idő"
 
 #: src/logbook/lgbook.cxx:1039
 msgid "Cabrillo Setup"
-msgstr ""
+msgstr "Cabrillo beállítás"
 
 #: src/logbook/lgbook.cxx:1059
 msgid "Select Cabrillo Contest & Fields"
@@ -6353,7 +6353,7 @@ msgstr ""
 
 #: src/logbook/lgbook.cxx:1062
 msgid "Contest:"
-msgstr ""
+msgstr "Verseny:"
 
 #: src/logbook/lgbook.cxx:1087
 msgid "QSO Date"
