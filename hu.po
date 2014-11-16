@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 12:02+0100\n"
+"PO-Revision-Date: 2014-11-16 12:04+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2443,7 +2443,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5837
 msgid "QSO logging"
-msgstr ""
+msgstr "QSO naplózás"
 
 #: src/dialogs/confdialog.cxx:5840
 msgid "Prompt to save log on exit"
