@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 12:04+0100\n"
+"PO-Revision-Date: 2014-11-16 13:51+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -702,11 +702,11 @@ msgstr "Város"
 
 #: src/dialogs/fl_digi.cxx:4994
 msgid "US State"
-msgstr ""
+msgstr "USA Állam"
 
 #: src/dialogs/fl_digi.cxx:4999
 msgid "Can. Province"
-msgstr ""
+msgstr "Can. tartomány"
 
 #: src/dialogs/fl_digi.cxx:5004
 msgid "Maidenhead Locator"
@@ -1049,7 +1049,7 @@ msgstr ""
 
 #: src/misc/debug.cxx:91
 msgid "Debug"
-msgstr ""
+msgstr "Hibakeresés"
 
 #: src/misc/debug.cxx:100
 msgid "ARQ control"
@@ -1065,7 +1065,7 @@ msgstr "RPC"
 
 #: src/misc/debug.cxx:105
 msgid "Spotter"
-msgstr ""
+msgstr "Megfigyelő"
 
 #: src/misc/debug.cxx:106
 msgid "KISS control"
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: src/mfsk/mfsk-pic.cxx:327
 msgid "Transfer speed, X1-normal"
-msgstr ""
+msgstr "Adási sebesség, X1 a normál"
 
 #: src/mfsk/mfsk-pic.cxx:339
 msgid "Load"
@@ -1883,7 +1883,7 @@ msgstr "Szériaszám"
 
 #: src/widgets/FTextRXTX.cxx:113
 msgid "Insert marker"
-msgstr ""
+msgstr "Jelölő beszúrása"
 
 #: src/widgets/FTextRXTX.cxx:121
 msgid "Quick entry"
@@ -2061,6 +2061,8 @@ msgid ""
 "Clear channel text after\n"
 "# seconds of inactivity"
 msgstr ""
+"Csatonra szöveg törlése \n"
+"# másodperc inaktivítás után"
 
 #: src/dialogs/confdialog.cxx:5444
 msgid "Channel label"
@@ -2068,7 +2070,7 @@ msgstr "Csatorna címke"
 
 #: src/dialogs/confdialog.cxx:5445
 msgid "Appearance of label on each channel"
-msgstr ""
+msgstr "Címke megjelenítése minden csatornán"
 
 #: src/dialogs/confdialog.cxx:5456
 msgid "Audio frequency"
@@ -2110,7 +2112,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5480
 msgid "Lowest freq on bottom of viewer"
-msgstr ""
+msgstr "Alacsonyabb frekvenciák a megjelenítő alján"
 
 #: src/dialogs/confdialog.cxx:5481
 msgid "Change positions of low to high channels"
@@ -2118,7 +2120,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5486
 msgid "Play back history when active channel selected"
-msgstr ""
+msgstr "Előzmények visszajátszása ha aktív csatorna van kiválasztva"
 
 #: src/dialogs/confdialog.cxx:5487
 msgid "Audio stream history decoded on selected signal"
@@ -2231,7 +2233,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5592
 msgid "Start"
-msgstr ""
+msgstr "Indítás"
 
 #: src/dialogs/confdialog.cxx:5593
 msgid "Starting number"
@@ -2272,7 +2274,7 @@ msgstr "Sáv"
 
 #: src/dialogs/confdialog.cxx:5641
 msgid "Bands must match"
-msgstr ""
+msgstr "A sávoknak egyeznie kell"
 
 #: src/dialogs/confdialog.cxx:5646 src/dialogs/notifydialog.cxx:191
 #: src/logbook/lgbook.cxx:474 src/logbook/lgbook.cxx:682
@@ -2282,11 +2284,11 @@ msgstr "Mód"
 
 #: src/dialogs/confdialog.cxx:5647
 msgid "Mode must match"
-msgstr ""
+msgstr "A módnak egyeznie kell"
 
 #: src/dialogs/confdialog.cxx:5653
 msgid "State must match"
-msgstr ""
+msgstr "Az államnak egyeznie kell"
 
 #: src/dialogs/confdialog.cxx:5659
 msgid "free form 1 must match"
@@ -2298,11 +2300,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5665
 msgid "QSO must not occur within a time period of"
-msgstr ""
+msgstr "A QSO nem fordul elő ezen az időtartamon belül "
 
 #: src/dialogs/confdialog.cxx:5670
 msgid "minutes"
-msgstr ""
+msgstr "percek"
 
 #: src/dialogs/confdialog.cxx:5671
 msgid "Enter time span in minutes"
@@ -2319,7 +2321,7 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:5700 src/dialogs/confdialog.cxx:6982
 #: src/dialogs/confdialog.cxx:7987 src/dialogs/confdialog.cxx:9884
 msgid "General"
-msgstr ""
+msgstr "Általános"
 
 #: src/dialogs/confdialog.cxx:5701
 msgid "User Interface - General"
@@ -2327,11 +2329,11 @@ msgstr "Kezelői felület - Általános"
 
 #: src/dialogs/confdialog.cxx:5705
 msgid "Show tooltips"
-msgstr ""
+msgstr "Tippek mutatása"
 
 #: src/dialogs/confdialog.cxx:5706
 msgid "Enable / disable tooltips"
-msgstr ""
+msgstr "Tippke mutatása Engedélyezve/Tiltva"
 
 #: src/dialogs/confdialog.cxx:5712
 msgid "Show menu icons"
@@ -2343,15 +2345,15 @@ msgstr "Menüikonok ki/be"
 
 #: src/dialogs/confdialog.cxx:5718
 msgid "UI scheme"
-msgstr ""
+msgstr "Felhasználói felület téma"
 
 #: src/dialogs/confdialog.cxx:5719
 msgid "Change application look and feel"
-msgstr ""
+msgstr "Alkalmazás megjelenésének változtatása"
 
 #: src/dialogs/confdialog.cxx:5737
 msgid "Visible modes"
-msgstr ""
+msgstr "Látható módok"
 
 #: src/dialogs/confdialog.cxx:5738
 msgid "Select modes for menu access"
@@ -2359,11 +2361,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5741
 msgid "UI language"
-msgstr ""
+msgstr "Felhasználói felület nyelve"
 
 #: src/dialogs/confdialog.cxx:5742 src/dialogs/confdialog.cxx:6888
 msgid "Changes take effect on next program startup"
-msgstr ""
+msgstr "A változtatások a program következő indításakor lépnek érvénybe"
 
 #: src/dialogs/confdialog.cxx:5761
 msgid "Print CW / RTTY / THROB / CONTESTIA in lowercase"
@@ -2371,19 +2373,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5771
 msgid "Transmit all text in lower case"
-msgstr ""
+msgstr "Az összes szöveg adása kisbetűkkel"
 
 #: src/dialogs/confdialog.cxx:5778
 msgid "Exit prompts"
-msgstr ""
+msgstr "Kilépés prompt"
 
 #: src/dialogs/confdialog.cxx:5781
 msgid "Prompt to save Configuration"
-msgstr ""
+msgstr "Prompt a konfiguráció mentésekor"
 
 #: src/dialogs/confdialog.cxx:5786
 msgid "Prompt to save macro file"
-msgstr ""
+msgstr "Prompt a makró fájlok mentésekor"
 
 #: src/dialogs/confdialog.cxx:5787 src/dialogs/confdialog.cxx:6077
 msgid "Write current macro set on program exit"
@@ -2391,7 +2393,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5792
 msgid "Prompt to save log"
-msgstr ""
+msgstr "Prompt a napló mentésekor"
 
 #: src/dialogs/confdialog.cxx:5793 src/dialogs/confdialog.cxx:5841
 msgid "Bug me about saving log entries"
@@ -2399,7 +2401,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5798
 msgid "Confirm exit"
-msgstr ""
+msgstr "Kilépés jóváhagyása"
 
 #: src/dialogs/confdialog.cxx:5805
 msgid "Check for updates"
@@ -2415,11 +2417,11 @@ msgstr "Log"
 
 #: src/dialogs/confdialog.cxx:5818
 msgid "User Interface - Logging"
-msgstr ""
+msgstr "Felhasználói felület - Naplózás"
 
 #: src/dialogs/confdialog.cxx:5819
 msgid "Client/Server Logbook"
-msgstr ""
+msgstr "Kliens/Szerver Napló"
 
 #: src/dialogs/confdialog.cxx:5822
 msgid "Address:"
@@ -2427,7 +2429,7 @@ msgstr "Cím:"
 
 #: src/dialogs/confdialog.cxx:5823
 msgid "Enter URL address of server"
-msgstr ""
+msgstr "Adja meg a szerver URL-jét"
 
 #: src/dialogs/confdialog.cxx:5827 src/dialogs/confdialog.cxx:9941
 msgid "Port:"
@@ -2435,11 +2437,11 @@ msgstr "Port:"
 
 #: src/dialogs/confdialog.cxx:5828
 msgid "Enter Port # assigned to server"
-msgstr ""
+msgstr "Adja meg a szerver Port-ját"
 
 #: src/dialogs/confdialog.cxx:5832
 msgid "Reconnect"
-msgstr ""
+msgstr "Újracsatlakozás"
 
 #: src/dialogs/confdialog.cxx:5837
 msgid "QSO logging"
@@ -2447,19 +2449,19 @@ msgstr "QSO naplózás"
 
 #: src/dialogs/confdialog.cxx:5840
 msgid "Prompt to save log on exit"
-msgstr ""
+msgstr "Promt a napló mentésekor és kilépéskor"
 
 #: src/dialogs/confdialog.cxx:5846
 msgid "Clear on save"
-msgstr ""
+msgstr "Törlés mentéskor"
 
 #: src/dialogs/confdialog.cxx:5847
 msgid "Clear log entries after saving or using macro <LOG>"
-msgstr ""
+msgstr "A log mezők törlése mentés után vagy a <LOG> makró használatakor"
 
 #: src/dialogs/confdialog.cxx:5852
 msgid "Convert callsign to upper case"
-msgstr ""
+msgstr "Hívójel konvertálása nagybetűssé"
 
 #: src/dialogs/confdialog.cxx:5853
 msgid "Force callsign field to UPPERCASE"
@@ -2475,7 +2477,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5864
 msgid "Sort by Date/Time OFF"
-msgstr ""
+msgstr "Rendezés a befejező Dátum/Idő szerint"
 
 #: src/dialogs/confdialog.cxx:5865
 msgid "Sort by date/time OFF - effects all ADIF/Cabrillo reports"
@@ -2511,26 +2513,26 @@ msgstr "cty.dat mappa"
 
 #: src/dialogs/confdialog.cxx:5889
 msgid "Enter full path-name for cty.dat folder"
-msgstr ""
+msgstr "Adja meg a cty.dat mappájának teljes elérési útvonalát"
 
 #: src/dialogs/confdialog.cxx:5902
 msgid "Browse"
-msgstr ""
+msgstr "Böngészés"
 
 #: src/dialogs/confdialog.cxx:5903
 msgid "Locate cty.dat file"
-msgstr ""
+msgstr "A cty,dat fájl helye"
 
 #: src/dialogs/confdialog.cxx:5906 src/dialogs/confdialog.cxx:6349
 #: src/dialogs/confdialog.cxx:6369 src/dialogs/confdialog.cxx:7133
 #: src/dialogs/confdialog.cxx:10765 src/dialogs/confdialog.cxx:10796
 #: src/dialogs/confdialog.cxx:10835
 msgid "Default"
-msgstr ""
+msgstr "Alepértelmezett"
 
 #: src/dialogs/confdialog.cxx:5907
 msgid "Restore cty.dat default folder"
-msgstr ""
+msgstr "A cty.dat alapértelmezett mappájának visszaállítása"
 
 #: src/dialogs/confdialog.cxx:5910
 msgid "Reload"
@@ -2546,7 +2548,7 @@ msgstr "Adóteljesítmény"
 
 #: src/dialogs/confdialog.cxx:5915
 msgid "Tx power used for logbook entries"
-msgstr ""
+msgstr "A napló mezőben használt Tx adóteljesítmény"
 
 #: src/dialogs/confdialog.cxx:5931
 msgid "Rx Text Capture"
@@ -2570,7 +2572,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5946
 msgid "Word delimiters"
-msgstr ""
+msgstr "Szó határolók"
 
 #: src/dialogs/confdialog.cxx:5947
 msgid ""
@@ -2584,7 +2586,7 @@ msgstr "Felhasználói felület - Makrók"
 
 #: src/dialogs/confdialog.cxx:5972
 msgid "Mouse wheel active on macro buttons"
-msgstr ""
+msgstr "Egérgörgő akív a makró gomboknál"
 
 #: src/dialogs/confdialog.cxx:5973
 msgid "enable mouse wheel control of macro bar"
@@ -2596,7 +2598,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5983
 msgid "Button Height"
-msgstr ""
+msgstr "Gomb magasság"
 
 #: src/dialogs/confdialog.cxx:5984
 msgid "Height of macro bar"
@@ -2604,7 +2606,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5994
 msgid "One above Rx/Tx"
-msgstr ""
+msgstr "Rx/Tx egymás fölé"
 
 #: src/dialogs/confdialog.cxx:5995
 msgid ""
@@ -2662,7 +2664,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6064
 msgid "Load last used macro file on startup"
-msgstr ""
+msgstr "Az utoljára haszált makró fájl betöltése induláskor"
 
 #: src/dialogs/confdialog.cxx:6065
 msgid ""
@@ -2676,11 +2678,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6071
 msgid "The filename is written to the RX text area"
-msgstr ""
+msgstr "A fájlnév kiírása az Rx szövegterületre"
 
 #: src/dialogs/confdialog.cxx:6076
 msgid "Prompt to save macro file when closing"
-msgstr ""
+msgstr "Prompt megjelenítése a makró fájl mentéséhez bezáráskor"
 
 #: src/dialogs/confdialog.cxx:6086
 msgid "WF Ctrls"
@@ -2748,7 +2750,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6172
 msgid "User Interface - Colors / Fonts"
-msgstr ""
+msgstr "Felhasználói felület Színek / Betűk"
 
 #: src/dialogs/confdialog.cxx:6175
 msgid "Rx/Tx"
@@ -2756,15 +2758,15 @@ msgstr "Rx/Tx"
 
 #: src/dialogs/confdialog.cxx:6176
 msgid "Rx/Tx Character set"
-msgstr ""
+msgstr "Rx/Tx karakter beállítás"
 
 #: src/dialogs/confdialog.cxx:6177
 msgid "Select Rx/Tx Character Set"
-msgstr ""
+msgstr "Rx/Tx karakterbeállítás kiválasztása"
 
 #: src/dialogs/confdialog.cxx:6197
 msgid "Rx bkgnd"
-msgstr ""
+msgstr "Rx háttér"
 
 #: src/dialogs/confdialog.cxx:6200
 msgid "Tx bkgnd"
@@ -2780,7 +2782,7 @@ msgstr "Tx betű"
 
 #: src/dialogs/confdialog.cxx:6215
 msgid "Text Highlighting"
-msgstr ""
+msgstr "Szöveg kiemelés"
 
 #: src/dialogs/confdialog.cxx:6218
 msgid "XMIT"
@@ -2839,7 +2841,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6262
 msgid "14070.150"
-msgstr ""
+msgstr "14070.150"
 
 #: src/dialogs/confdialog.cxx:6271 src/dialogs/confdialog.cxx:6346
 #: src/dialogs/confdialog.cxx:6366
@@ -2854,7 +2856,7 @@ msgstr "Háttérszín"
 
 #: src/dialogs/confdialog.cxx:6277
 msgid "Digit Color"
-msgstr ""
+msgstr "Számjegyek Színe"
 
 #: src/dialogs/confdialog.cxx:6280
 msgid "Sys Colors"
@@ -2878,11 +2880,11 @@ msgstr "Teljesítmény mérő"
 
 #: src/dialogs/confdialog.cxx:6311
 msgid "Power scale"
-msgstr ""
+msgstr "Teljesítmény skála"
 
 #: src/dialogs/confdialog.cxx:6312 src/dialogs/confdialog.cxx:6811
 msgid "Select the type of FFT prefilter"
-msgstr ""
+msgstr "FFT előszűrő típusának kiválasztása"
 
 #: src/dialogs/confdialog.cxx:6323
 msgid "25 W"
@@ -2894,7 +2896,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6354
 msgid "Logbook Dialog"
-msgstr ""
+msgstr "napló párbeszédablak"
 
 #: src/dialogs/confdialog.cxx:6376
 msgid "F_keys"
@@ -2902,7 +2904,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6378
 msgid "Use colored buttons"
-msgstr ""
+msgstr "Színes gombok használata"
 
 #: src/dialogs/confdialog.cxx:6383
 msgid "Group 1"
@@ -2910,7 +2912,7 @@ msgstr "Csoport 1"
 
 #: src/dialogs/confdialog.cxx:6384
 msgid "Background color for Function key group 1"
-msgstr ""
+msgstr "1. Funkcióbillentyű-csoport háttérszíne"
 
 #: src/dialogs/confdialog.cxx:6389
 msgid "Group 2"
@@ -2918,7 +2920,7 @@ msgstr "Csoport 2"
 
 #: src/dialogs/confdialog.cxx:6390
 msgid "Background color for Function key group 2"
-msgstr ""
+msgstr "2. Funkcióbillentyű-csoport háttérszíne"
 
 #: src/dialogs/confdialog.cxx:6395
 msgid "Group 3"
@@ -2926,7 +2928,7 @@ msgstr "Csoport 3"
 
 #: src/dialogs/confdialog.cxx:6396
 msgid "Background color for Function key group 3"
-msgstr ""
+msgstr "3. Funkcióbillentyű-csoport háttérszíne"
 
 #: src/dialogs/confdialog.cxx:6404
 msgid "Font/Color"
@@ -3048,7 +3050,7 @@ msgstr "Rx / Tx Panelek"
 
 #: src/dialogs/confdialog.cxx:6566
 msgid "Tx above Rx"
-msgstr ""
+msgstr "TX az Rx felett"
 
 #: src/dialogs/confdialog.cxx:6567
 msgid "Enable to put Tx panel above Rx panel"
@@ -3176,7 +3178,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6780
 msgid "FFT Processing"
-msgstr ""
+msgstr "FFT feldolgozás"
 
 #: src/dialogs/confdialog.cxx:6784 src/dialogs/confdialog.cxx:7153
 msgid "Lower limit"
@@ -3188,7 +3190,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6804
 msgid "FFT averaging"
-msgstr ""
+msgstr "FFT átlagolás"
 
 #: src/dialogs/confdialog.cxx:6805
 msgid "Use averaging to decrease waterfall noise"
@@ -3196,27 +3198,27 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6810
 msgid "FFT prefilter window function"
-msgstr ""
+msgstr "FFT előszűrés ablak funkció"
 
 #: src/dialogs/confdialog.cxx:6822
 msgid "Rectangular"
-msgstr ""
+msgstr "Négyszögletes"
 
 #: src/dialogs/confdialog.cxx:6824
 msgid "Triangular"
-msgstr ""
+msgstr "Háromszögletű"
 
 #: src/dialogs/confdialog.cxx:6829 src/dialogs/confdialog.cxx:7165
 msgid "Upper limit"
-msgstr ""
+msgstr "Felső határ"
 
 #: src/dialogs/confdialog.cxx:6830
 msgid "High frequency limit in Hz"
-msgstr ""
+msgstr "Felső frekvenciahatár Hz-ben"
 
 #: src/dialogs/confdialog.cxx:6849
 msgid "Latency"
-msgstr ""
+msgstr "Késés"
 
 #: src/dialogs/confdialog.cxx:6850
 msgid ""
@@ -3243,7 +3245,7 @@ msgstr "Vízesés magassága picelben"
 
 #: src/dialogs/confdialog.cxx:6893
 msgid "CPU usage increases with waterfall height"
-msgstr ""
+msgstr "A processzor használat növekszik a vízesés magasságával"
 
 #: src/dialogs/confdialog.cxx:6916
 msgid "Mouse"
@@ -3251,7 +3253,7 @@ msgstr "Egér"
 
 #: src/dialogs/confdialog.cxx:6920
 msgid "Left or right click always replays audio history"
-msgstr ""
+msgstr "A bal vagy jobb klikk mindig visszajátsza a hang előzményeket"
 
 #: src/dialogs/confdialog.cxx:6921
 msgid "Replay trackline audio"
@@ -3310,7 +3312,7 @@ msgstr "Rx WPM"
 
 #: src/dialogs/confdialog.cxx:7014
 msgid "Tracked CW speed in WPM"
-msgstr ""
+msgstr "Követett CW sebessége WPM-ben"
 
 #: src/dialogs/confdialog.cxx:7019
 msgid "SOM decoding"
@@ -3326,7 +3328,7 @@ msgstr "Alsó"
 
 #: src/dialogs/confdialog.cxx:7027
 msgid "Detector low threshold"
-msgstr ""
+msgstr "Detektor alsó küszöb"
 
 #: src/dialogs/confdialog.cxx:7046
 msgid "Upper"
@@ -3334,15 +3336,15 @@ msgstr "Felső"
 
 #: src/dialogs/confdialog.cxx:7047
 msgid "Detector high threshold"
-msgstr ""
+msgstr "Detektor felő küszöb"
 
 #: src/dialogs/confdialog.cxx:7066
 msgid "Matched Filter"
-msgstr ""
+msgstr "Illesztett szűrő"
 
 #: src/dialogs/confdialog.cxx:7067
 msgid "Matched Filter bandwidth"
-msgstr ""
+msgstr "Illesztett szűrő sávszélesség"
 
 #: src/dialogs/confdialog.cxx:7073
 msgid "FFT filter"
@@ -3354,19 +3356,19 @@ msgstr "FFT / Fir szűrő"
 
 #: src/dialogs/confdialog.cxx:7080
 msgid "Tracking"
-msgstr ""
+msgstr "Követés"
 
 #: src/dialogs/confdialog.cxx:7081
 msgid "Automatic Rx speed tracking"
-msgstr ""
+msgstr "Automatikus Rx sebességkövetés"
 
 #: src/dialogs/confdialog.cxx:7087
 msgid "Range, WPM"
-msgstr ""
+msgstr "Tartomány, WPM"
 
 #: src/dialogs/confdialog.cxx:7088
 msgid "Range +/- wpm"
-msgstr ""
+msgstr "Taromány +/- wpm"
 
 #: src/dialogs/confdialog.cxx:7112
 msgid "TX WPM"
@@ -3374,19 +3376,19 @@ msgstr "TX WPM"
 
 #: src/dialogs/confdialog.cxx:7113 src/dialogs/confdialog.cxx:7178
 msgid "My transmit CW WPM"
-msgstr ""
+msgstr "Az adási CW WPM-em"
 
 #: src/dialogs/confdialog.cxx:7134
 msgid "The default CW speed"
-msgstr ""
+msgstr "Alapértelmezett CW sebesség"
 
 #: src/dialogs/confdialog.cxx:7154
 msgid "No slower than this"
-msgstr ""
+msgstr "Ne legyen lassabb ennél"
 
 #: src/dialogs/confdialog.cxx:7166
 msgid "No faster than this"
-msgstr ""
+msgstr "Ne legyen gyorsabb ennél"
 
 #: src/dialogs/confdialog.cxx:7177
 msgid "F-WPM"
@@ -3394,31 +3396,31 @@ msgstr "F-WPM"
 
 #: src/dialogs/confdialog.cxx:7198
 msgid "Use Farnsworth timing"
-msgstr ""
+msgstr "Farnsworth időzítés használata"
 
 #: src/dialogs/confdialog.cxx:7207
 msgid "Timing and QSK"
-msgstr ""
+msgstr "Időzítés és QSK"
 
 #: src/dialogs/confdialog.cxx:7210
 msgid "Timing"
-msgstr ""
+msgstr "Időzítéx"
 
 #: src/dialogs/confdialog.cxx:7213
 msgid "Weight (%)"
-msgstr ""
+msgstr "Súly (%)"
 
 #: src/dialogs/confdialog.cxx:7214
 msgid "Dot to dot-space ratio"
-msgstr ""
+msgstr "Pont-tól pontig köz arány"
 
 #: src/dialogs/confdialog.cxx:7233 src/dialogs/confdialog.cxx:7234
 msgid "Dash to dot ratio"
-msgstr ""
+msgstr "Vonaltól pontig köz arány"
 
 #: src/dialogs/confdialog.cxx:7252
 msgid "Edge timing"
-msgstr ""
+msgstr "Él időzítés"
 
 #: src/dialogs/confdialog.cxx:7253
 msgid "Leading and Trailing edge risetimes (msec)"
@@ -3426,7 +3428,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7271
 msgid "Edge shape"
-msgstr ""
+msgstr "Él alak"
 
 #: src/dialogs/confdialog.cxx:7272
 msgid "Raised cosine = Hanning"
@@ -3450,7 +3452,7 @@ msgstr "QSK a jobb hangcsatornán"
 
 #: src/dialogs/confdialog.cxx:7300
 msgid "Generate square wave signal on right channel"
-msgstr ""
+msgstr "Négyszögjel generálás a jobb csatornán"
 
 #: src/dialogs/confdialog.cxx:7305
 msgid "Pre-keydown timing (ms)"
@@ -3470,7 +3472,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7343
 msgid "Send continuously"
-msgstr ""
+msgstr "Küldés folyamatosan"
 
 #: src/dialogs/confdialog.cxx:7344
 msgid "Send a continuous stream of test characters"
@@ -3478,11 +3480,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7349
 msgid "Test char"
-msgstr ""
+msgstr "Teszt karakter"
 
 #: src/dialogs/confdialog.cxx:7350
 msgid "Test character for QSK adjustment"
-msgstr ""
+msgstr "teszt karakter a QSK beállításhoz"
 
 #: src/dialogs/confdialog.cxx:7370
 msgid "Prosigns"
@@ -3534,7 +3536,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7544 src/dialogs/confdialog.cxx:8389
 msgid "Secondary Text"
-msgstr ""
+msgstr "Másodlagos Szöveg"
 
 #: src/dialogs/confdialog.cxx:7545 src/dialogs/confdialog.cxx:8390
 msgid "Text to send during keyboard idle times"
@@ -3550,11 +3552,11 @@ msgstr "DSP szűrő használata dekódolás előtt"
 
 #: src/dialogs/confdialog.cxx:7566 src/dialogs/confdialog.cxx:8411
 msgid "Filter bandwidth factor"
-msgstr ""
+msgstr "Szűrő sávszélesség tényező"
 
 #: src/dialogs/confdialog.cxx:7567 src/dialogs/confdialog.cxx:8412
 msgid "Filter bandwidth relative to signal width"
-msgstr ""
+msgstr "Szűrő sávszélessége a jelszélességhez képest"
 
 #: src/dialogs/confdialog.cxx:7585
 msgid "FEC"
@@ -3566,7 +3568,7 @@ msgstr "MultiíPSK kompatibilis FEC engedélyezése"
 
 #: src/dialogs/confdialog.cxx:7591 src/dialogs/confdialog.cxx:8430
 msgid "CWI threshold"
-msgstr ""
+msgstr "CWI küszöb"
 
 #: src/dialogs/confdialog.cxx:7592 src/dialogs/confdialog.cxx:8431
 msgid "CWI detection and suppression"
@@ -3666,7 +3668,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7750
 msgid "Enable for very weak signals"
-msgstr ""
+msgstr "Nagyon gyenge jelek engedélyezése"
 
 #: src/dialogs/confdialog.cxx:7760
 msgid "Transmit lower start tone"
@@ -3682,7 +3684,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7787
 msgid "Allow manual tuning"
-msgstr ""
+msgstr "Kézi hangolás engedélyezése"
 
 #: src/dialogs/confdialog.cxx:7796
 msgid "Olivia"
@@ -3698,7 +3700,7 @@ msgstr "Hangok"
 
 #: src/dialogs/confdialog.cxx:7818 src/dialogs/confdialog.cxx:7914
 msgid "Select number of tones"
-msgstr ""
+msgstr "Hangok számának kiválasztása"
 
 #: src/dialogs/confdialog.cxx:7834 src/dialogs/confdialog.cxx:7930
 msgid "Receive synchronizer"
@@ -3743,7 +3745,7 @@ msgstr "PSK"
 
 #: src/dialogs/confdialog.cxx:7989
 msgid "AFC behavior"
-msgstr ""
+msgstr "AFC viselkedés"
 
 #: src/dialogs/confdialog.cxx:7992
 msgid "Acquisition search range (Hz)"
@@ -3779,7 +3781,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8054
 msgid "seconds"
-msgstr ""
+msgstr "másodpercek"
 
 #: src/dialogs/confdialog.cxx:8055
 msgid "Will occur after this time in seconds"
@@ -3815,11 +3817,11 @@ msgstr "Vivő eltolás kiválasztása"
 
 #: src/dialogs/confdialog.cxx:8116
 msgid "Custom shift"
-msgstr ""
+msgstr "Egyedi eltolás"
 
 #: src/dialogs/confdialog.cxx:8117
 msgid "Input carrier shift"
-msgstr ""
+msgstr "Bejövő jel eltolás"
 
 #: src/dialogs/confdialog.cxx:8135
 msgid "Baud rate"
@@ -3855,7 +3857,7 @@ msgstr "Stop bitek kiválasztása"
 
 #: src/dialogs/confdialog.cxx:8200
 msgid "AutoCRLF"
-msgstr ""
+msgstr "Automatikus CRLF"
 
 #: src/dialogs/confdialog.cxx:8201
 msgid "Add CRLF after page width characters"
@@ -3867,7 +3869,7 @@ msgstr "karakterek"
 
 #: src/dialogs/confdialog.cxx:8207
 msgid "Auto CRLF line length"
-msgstr ""
+msgstr "Automatikus CRLF sorhossz"
 
 #: src/dialogs/confdialog.cxx:8225
 msgid "CR-CR-LF"
@@ -3923,7 +3925,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8282
 msgid "Filter Shape Factor"
-msgstr ""
+msgstr "Szűrő alaktényező"
 
 #: src/dialogs/confdialog.cxx:8283
 msgid ""
@@ -3987,7 +3989,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8343
 msgid "track color"
-msgstr ""
+msgstr "követés szín"
 
 #: src/dialogs/confdialog.cxx:8344
 msgid "Color of Mark Track"
@@ -3999,7 +4001,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8357
 msgid "SYNOP to ADIF"
-msgstr ""
+msgstr "SYNOP-ból ADIF-bal"
 
 #: src/dialogs/confdialog.cxx:8358
 msgid "Decodes SYNOP messages (Ex: Deutsche Wetterdienst) to ADIF log file"
@@ -4007,7 +4009,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8364
 msgid "SYNOP to KML"
-msgstr ""
+msgstr "SYNOP-ból KML-be"
 
 #: src/dialogs/confdialog.cxx:8365
 msgid ""
@@ -4106,7 +4108,7 @@ msgstr "Frekvenciaeltolás (800 Hz)"
 
 #: src/dialogs/confdialog.cxx:8521
 msgid "Default 800 Hz. Deutsche Wetterdienst 850Hz"
-msgstr ""
+msgstr "Alapértelmezett 800 Hz. Deutsche Wetterdienst 850 Hz"
 
 #: src/dialogs/confdialog.cxx:8535
 msgid "Received fax maximum rows number (5000)"
@@ -4114,7 +4116,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8536
 msgid "Maximum row number for a received fax image."
-msgstr ""
+msgstr "Maximum sorszám a vett fax képben."
 
 #: src/dialogs/confdialog.cxx:8550
 msgid "Fax images destination directory"
@@ -4130,15 +4132,15 @@ msgstr "Adás ablak elrejtése"
 
 #: src/dialogs/confdialog.cxx:8559
 msgid "Hide transmission window by default."
-msgstr ""
+msgstr "Alapértelmezett szerint az adás ablak elrejtése"
 
 #: src/dialogs/confdialog.cxx:8564
 msgid "Save image as monochrome file"
-msgstr ""
+msgstr "Kép mentése fekete-fehér fájlként"
 
 #: src/dialogs/confdialog.cxx:8565
 msgid "Save the fax image as a gray-level PNG file."
-msgstr ""
+msgstr "Fax kép mentése PNG szükeárnyalatos fájlként"
 
 #: src/dialogs/confdialog.cxx:8574
 msgid "Scan"
@@ -4150,11 +4152,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8585
 msgid "dB Range"
-msgstr ""
+msgstr "dB Tartomány"
 
 #: src/dialogs/confdialog.cxx:8594
 msgid "Use relative dB"
-msgstr ""
+msgstr "Relatív dB használata"
 
 #: src/dialogs/confdialog.cxx:8605
 msgid "Rig"
@@ -4162,7 +4164,7 @@ msgstr "Rádió"
 
 #: src/dialogs/confdialog.cxx:8606
 msgid "Transceiver control"
-msgstr ""
+msgstr "Rádióadó vezérlése"
 
 #: src/dialogs/confdialog.cxx:8610
 msgid "Hardware PTT"
@@ -4182,7 +4184,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8624
 msgid "Use separate serial port PTT"
-msgstr ""
+msgstr "Elkülönített soros port PTT használata"
 
 #: src/dialogs/confdialog.cxx:8629 src/dialogs/confdialog.cxx:8726
 #: src/dialogs/confdialog.cxx:8936 src/dialogs/confdialog.cxx:9206
@@ -4225,39 +4227,39 @@ msgstr "DTR kezdő feszültsége"
 #: src/dialogs/confdialog.cxx:9089 src/dialogs/confdialog.cxx:9164
 #: src/dialogs/confdialog.cxx:9956
 msgid "Initialize"
-msgstr ""
+msgstr "Inicializálás"
 
 #: src/dialogs/confdialog.cxx:8664
 msgid "Initialize the H/W PTT interface"
-msgstr ""
+msgstr "H/W PTT interfész inicializálása"
 
 #: src/dialogs/confdialog.cxx:8667
 msgid "Use parallel port PTT"
-msgstr ""
+msgstr "Párhuzamos port PTT használata"
 
 #: src/dialogs/confdialog.cxx:8672
 msgid "Use uHRouter PTT"
-msgstr ""
+msgstr "uHRouter PTT használata"
 
 #: src/dialogs/confdialog.cxx:8679
 msgid "PTT delays valid for all CAT/PTT types"
-msgstr ""
+msgstr "PTT késleltetés az összes CAT/PTT típusra érvényes"
 
 #: src/dialogs/confdialog.cxx:8682
 msgid "Start of transmit PTT delay"
-msgstr ""
+msgstr "PTT adásindítás késleltetés"
 
 #: src/dialogs/confdialog.cxx:8683
 msgid "Delay NN msec before starting audio"
-msgstr ""
+msgstr "Hang indítás előtt késleltetés NN tizemásodperc"
 
 #: src/dialogs/confdialog.cxx:8692
 msgid "PTT end of transmit delay"
-msgstr ""
+msgstr "PTT adás vége késleltetés"
 
 #: src/dialogs/confdialog.cxx:8693
 msgid "Delay NN msec before releasing PTT"
-msgstr ""
+msgstr "PTT elengedés utáni késleltetés"
 
 #: src/dialogs/confdialog.cxx:8706
 msgid "RigCAT"
@@ -4305,7 +4307,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8775 src/dialogs/confdialog.cxx:8985
 msgid "Write delay (ms)"
-msgstr ""
+msgstr "Írási késleltetés (tizedmásodperc)"
 
 #: src/dialogs/confdialog.cxx:8776
 msgid "Wait for response to subsequent command"
@@ -4317,11 +4319,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8808 src/dialogs/confdialog.cxx:9035
 msgid "Stopbits"
-msgstr ""
+msgstr "Stop bitek"
 
 #: src/dialogs/confdialog.cxx:8828
 msgid "Initialize RigCAT interface"
-msgstr ""
+msgstr "RigCAT interfész inicializálása"
 
 #: src/dialogs/confdialog.cxx:8831
 msgid "Commands are echoed"
@@ -4353,7 +4355,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8851
 msgid "DTR is ptt line"
-msgstr ""
+msgstr "DTR a PTT vonalon"
 
 #: src/dialogs/confdialog.cxx:8856
 msgid "RTS +12 v"
@@ -4373,7 +4375,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8868 src/dialogs/confdialog.cxx:9126
 msgid "RTS/CTS flow control"
-msgstr ""
+msgstr "RTS/CTS folyamatvezérlés"
 
 #: src/dialogs/confdialog.cxx:8869
 msgid "Rig uses RTS/CTS handshake"
@@ -4381,7 +4383,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8874
 msgid "Restore Settings on Close"
-msgstr ""
+msgstr "A beállítások visszaállítása bezáráskor"
 
 #: src/dialogs/confdialog.cxx:8875
 msgid "Restore the serial (COM) port settings"
@@ -4393,7 +4395,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:8881
 msgid "Reset rigCAT interface"
-msgstr ""
+msgstr "rigCAT interfész visszaállítása"
 
 #: src/dialogs/confdialog.cxx:8886
 msgid "VSP Enable"
@@ -4491,7 +4493,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9133
 msgid "XON/XOFF flow control"
-msgstr ""
+msgstr "XON/XOFF folyamatvezérlés"
 
 #: src/dialogs/confdialog.cxx:9134
 msgid "Rig requires Xon/Xoff flow control"
@@ -4499,7 +4501,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9140
 msgid "Reset hamlib interface"
-msgstr ""
+msgstr "Hamlib interfész visszaállítása"
 
 #: src/dialogs/confdialog.cxx:9149
 msgid "XML-RPC"
@@ -4518,7 +4520,7 @@ msgstr "XM_RPC program használata"
 
 #: src/dialogs/confdialog.cxx:9160
 msgid "Experimental"
-msgstr ""
+msgstr "Kísérleti"
 
 #: src/dialogs/confdialog.cxx:9165
 msgid "Initialize XML-RPC rig control"
@@ -4598,7 +4600,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9260
 msgid "File I/O only"
-msgstr ""
+msgstr "Csak I/O fájl"
 
 #: src/dialogs/confdialog.cxx:9261
 msgid "NO AUDIO DEVICE AVAILABLE (or testing)"
@@ -4624,7 +4626,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9308
 msgid "Converter"
-msgstr ""
+msgstr "Konverter"
 
 #: src/dialogs/confdialog.cxx:9309
 msgid "Set the type of resampler used of offset correction"
@@ -4632,11 +4634,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9325
 msgid "Corrections"
-msgstr ""
+msgstr "Korrekciók"
 
 #: src/dialogs/confdialog.cxx:9328
 msgid "RX ppm"
-msgstr ""
+msgstr "RX ppm"
 
 #: src/dialogs/confdialog.cxx:9329
 msgid "RX sound card correction"
@@ -4668,7 +4670,7 @@ msgstr "Mono hangkimenet"
 
 #: src/dialogs/confdialog.cxx:9386
 msgid "Force output audio to single channel"
-msgstr ""
+msgstr "Audio kimenet erőltetése egy csatornán"
 
 #: src/dialogs/confdialog.cxx:9391
 msgid "Modem signal on left and right channels"
@@ -4684,7 +4686,7 @@ msgstr "Jobb/bal csatorna felcserélése"
 
 #: src/dialogs/confdialog.cxx:9398
 msgid "Software reversal of left-right audio channels"
-msgstr ""
+msgstr "Bal-jobb hangcsatornák szoftveres felcserélése"
 
 #: src/dialogs/confdialog.cxx:9403
 msgid ""
@@ -4743,7 +4745,7 @@ msgstr "Reed-Solomon ID (Rx)"
 
 #: src/dialogs/confdialog.cxx:9462
 msgid "Notify only"
-msgstr ""
+msgstr "Csak figyelmeztetés"
 
 #: src/dialogs/confdialog.cxx:9463
 msgid ""
@@ -4777,7 +4779,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9484
 msgid "Disables detector"
-msgstr ""
+msgstr "Érzékelő letiltása"
 
 #: src/dialogs/confdialog.cxx:9485
 msgid "Disable further detection when RSID is received"
@@ -4843,7 +4845,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9557
 msgid "Seconds"
-msgstr ""
+msgstr "Másodpercek"
 
 #: src/dialogs/confdialog.cxx:9558
 msgid "Use for triggering amplifier carrier detect"
@@ -4879,7 +4881,7 @@ msgstr "Adási mód ID"
 
 #: src/dialogs/confdialog.cxx:9588
 msgid "Waterfall video ID"
-msgstr ""
+msgstr "Vízesés videó ID"
 
 #: src/dialogs/confdialog.cxx:9592
 msgid "Transmit video text"
@@ -4913,7 +4915,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9620
 msgid "Chars/Row:"
-msgstr ""
+msgstr "Karakter/Sor"
 
 #: src/dialogs/confdialog.cxx:9621
 msgid "Set the number of characters per row"
@@ -4921,7 +4923,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9641
 msgid "500 Hz limit"
-msgstr ""
+msgstr "500 Hz határ"
 
 #: src/dialogs/confdialog.cxx:9646
 msgid "Mode width limit"
@@ -4965,7 +4967,7 @@ msgstr "Lassú processzor (kisebb mint 700 MHz)"
 
 #: src/dialogs/confdialog.cxx:9710
 msgid "Enable if you're computer does not decode properly"
-msgstr ""
+msgstr "Engedélyezve, ha a számítógép nem dekódol rendesen"
 
 #: src/dialogs/confdialog.cxx:9719
 msgid "NBEMS"
@@ -5025,7 +5027,7 @@ msgstr "Flmsg helye"
 
 #: src/dialogs/confdialog.cxx:9771
 msgid "Timeout (secs)"
-msgstr ""
+msgstr "Időtúllépés (mp)"
 
 #: src/dialogs/confdialog.cxx:9772
 msgid "Extract times out after NN seconds of inactivity."
@@ -5037,7 +5039,7 @@ msgstr "Pskmail"
 
 #: src/dialogs/confdialog.cxx:9792
 msgid "Mail Server Attributes"
-msgstr ""
+msgstr "Levelező szerver attribútumok"
 
 #: src/dialogs/confdialog.cxx:9795
 msgid "Carrier frequency (Hz)"
@@ -5045,11 +5047,11 @@ msgstr "Vivő frekvencia (Hz)"
 
 #: src/dialogs/confdialog.cxx:9796
 msgid "Default listen / transmit frequency"
-msgstr ""
+msgstr "Alapértelmezett vételi/adási frekvencia"
 
 #: src/dialogs/confdialog.cxx:9815
 msgid "Search range (Hz)"
-msgstr ""
+msgstr "Keresési tartomány (Hz)"
 
 #: src/dialogs/confdialog.cxx:9816
 msgid "Listen for signals within this range"
@@ -5057,7 +5059,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9855
 msgid "AFC range (Hz)"
-msgstr ""
+msgstr "AFC tartomány (Hz)"
 
 #: src/dialogs/confdialog.cxx:9856
 msgid "Limit AFC movement to this range"
@@ -5077,7 +5079,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:9896
 msgid "Spotting"
-msgstr ""
+msgstr "Megigyelés"
 
 #: src/dialogs/confdialog.cxx:9898
 msgid "PSK Reporter"
