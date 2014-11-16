@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 10:56+0100\n"
+"PO-Revision-Date: 2014-11-16 11:05+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3080,25 +3080,25 @@ msgstr "Betöltés..."
 
 #: src/dialogs/confdialog.cxx:6640
 msgid "Load a new palette"
-msgstr ""
+msgstr "Új színséma betöltése"
 
 #: src/dialogs/confdialog.cxx:6643
 msgid "Save..."
-msgstr ""
+msgstr "Mentés..."
 
 #: src/dialogs/confdialog.cxx:6644
 msgid "Save this palette"
-msgstr ""
+msgstr "Színséma mentése"
 
 #: src/dialogs/confdialog.cxx:6647 src/dialogs/confdialog.cxx:7800
 #: src/dialogs/confdialog.cxx:7896
 msgid "Bandwidth"
-msgstr ""
+msgstr "Sávszélesség"
 
 #: src/dialogs/confdialog.cxx:6650 src/dialogs/confdialog.cxx:6674
 #: src/dialogs/confdialog.cxx:6698
 msgid "ON"
-msgstr ""
+msgstr "BE"
 
 #: src/dialogs/confdialog.cxx:6651
 msgid "Show cursor with bandwidth lines"
@@ -3108,12 +3108,12 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:6704 src/dialogs/confdialog.cxx:6722
 #: src/dialogs/font_browser.cxx:141
 msgid "Color"
-msgstr ""
+msgstr "Szín"
 
 #: src/dialogs/confdialog.cxx:6663 src/dialogs/confdialog.cxx:6687
 #: src/dialogs/confdialog.cxx:6711
 msgid "Wide"
-msgstr ""
+msgstr "Széles"
 
 #: src/dialogs/confdialog.cxx:6664 src/dialogs/confdialog.cxx:6688
 #: src/dialogs/confdialog.cxx:6699 src/dialogs/confdialog.cxx:6712
@@ -3122,7 +3122,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6671
 msgid "Center line"
-msgstr ""
+msgstr "Középvonal"
 
 #: src/dialogs/confdialog.cxx:6675
 msgid "Show cursor with center line"
@@ -3138,11 +3138,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6733
 msgid "Frequency scale"
-msgstr ""
+msgstr "Frekvenciaskála"
 
 #: src/dialogs/confdialog.cxx:6736
 msgid "Always show audio frequencies"
-msgstr ""
+msgstr "Mindig mutassa a hangrekvenciákat"
 
 #: src/dialogs/confdialog.cxx:6737
 msgid "Audio or RF frequencies on waterfall scale"
@@ -3154,19 +3154,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6748
 msgid "Transmit signal"
-msgstr ""
+msgstr "Adás jel"
 
 #: src/dialogs/confdialog.cxx:6751
 msgid "Monitor transmitted signal"
-msgstr ""
+msgstr "Adott jel monitorozása"
 
 #: src/dialogs/confdialog.cxx:6752
 msgid "Show transmit signal on waterfall"
-msgstr ""
+msgstr "Adott jel megjelenítése a vízesésen"
 
 #: src/dialogs/confdialog.cxx:6757
 msgid "Signal level"
-msgstr ""
+msgstr "Jelszint"
 
 #: src/dialogs/confdialog.cxx:6758
 msgid "Set level for good viewing"
@@ -3237,7 +3237,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6892
 msgid "Waterfall height in pixels"
-msgstr ""
+msgstr "Vízesés magassága picelben"
 
 #: src/dialogs/confdialog.cxx:6893
 msgid "CPU usage increases with waterfall height"
@@ -3245,7 +3245,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6916
 msgid "Mouse"
-msgstr ""
+msgstr "Egér"
 
 #: src/dialogs/confdialog.cxx:6920
 msgid "Left or right click always replays audio history"
@@ -3265,7 +3265,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6932
 msgid "Insert text on single left click"
-msgstr ""
+msgstr "Szöveg beillesztése bal egérgomb egy kattintásával"
 
 #: src/dialogs/confdialog.cxx:6933
 msgid ""
@@ -3292,19 +3292,19 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:6979 src/dialogs/confdialog.cxx:9658
 #: src/dialogs/confdialog.cxx:9973
 msgid "CW"
-msgstr ""
+msgstr "CW"
 
 #: src/dialogs/confdialog.cxx:6987
 msgid "Filter bandwidth"
-msgstr ""
+msgstr "Szűrő sávszélessége"
 
 #: src/dialogs/confdialog.cxx:6988
 msgid "CW dsp filter bandwidth"
-msgstr ""
+msgstr "CW dsp szűrő sávszélessége"
 
 #: src/dialogs/confdialog.cxx:7008
 msgid "Rx WPM"
-msgstr ""
+msgstr "Rx WPM"
 
 #: src/dialogs/confdialog.cxx:7014
 msgid "Tracked CW speed in WPM"
@@ -3312,7 +3312,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7019
 msgid "SOM decoding"
-msgstr ""
+msgstr "SOM dekódolás"
 
 #: src/dialogs/confdialog.cxx:7020
 msgid "Self Organizing Mapping"
@@ -3320,7 +3320,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7026
 msgid "Lower"
-msgstr ""
+msgstr "Alsó"
 
 #: src/dialogs/confdialog.cxx:7027
 msgid "Detector low threshold"
@@ -3328,7 +3328,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7046
 msgid "Upper"
-msgstr ""
+msgstr "Felső"
 
 #: src/dialogs/confdialog.cxx:7047
 msgid "Detector high threshold"
@@ -3344,11 +3344,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7073
 msgid "FFT filter"
-msgstr ""
+msgstr "FFT szűrő"
 
 #: src/dialogs/confdialog.cxx:7074
 msgid "FFT / FIR filter"
-msgstr ""
+msgstr "FFT / Fir szűrő"
 
 #: src/dialogs/confdialog.cxx:7080
 msgid "Tracking"
@@ -3368,7 +3368,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7112
 msgid "TX WPM"
-msgstr ""
+msgstr "TX WPM"
 
 #: src/dialogs/confdialog.cxx:7113 src/dialogs/confdialog.cxx:7178
 msgid "My transmit CW WPM"
@@ -3388,7 +3388,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7177
 msgid "F-WPM"
-msgstr ""
+msgstr "F-WPM"
 
 #: src/dialogs/confdialog.cxx:7198
 msgid "Use Farnsworth timing"
@@ -3440,11 +3440,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:7296
 msgid "QSK"
-msgstr ""
+msgstr "QSK"
 
 #: src/dialogs/confdialog.cxx:7299
 msgid "QSK on right audio channel"
-msgstr ""
+msgstr "QSK a jobb hangcsatornán"
 
 #: src/dialogs/confdialog.cxx:7300
 msgid "Generate square wave signal on right channel"
