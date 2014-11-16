@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 09:17+0100\n"
+"PO-Revision-Date: 2014-11-16 09:32+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -618,11 +618,11 @@ msgstr "Jelenlegi frekvencia hozzáadása"
 
 #: src/dialogs/fl_digi.cxx:4872
 msgid "Clear list"
-msgstr ""
+msgstr "Lista törlése"
 
 #: src/dialogs/fl_digi.cxx:4879
 msgid "Delete from list"
-msgstr ""
+msgstr "Törlés a listából"
 
 #: src/dialogs/fl_digi.cxx:4903
 msgid "Select operating parameters"
@@ -630,16 +630,16 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4933
 msgid "Frq"
-msgstr ""
+msgstr "Frekv"
 
 #: src/dialogs/fl_digi.cxx:4935
 msgid "frequency kHz"
-msgstr ""
+msgstr "frekvencia kHz"
 
 #: src/dialogs/fl_digi.cxx:4939 src/dialogs/fl_digi.cxx:5112
 #: src/dialogs/fl_digi.cxx:5218
 msgid "On"
-msgstr ""
+msgstr "Be"
 
 #: src/dialogs/fl_digi.cxx:4940
 msgid "Press to update QSO start time"
@@ -647,26 +647,26 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4946
 msgid "QSO start time"
-msgstr ""
+msgstr "QSO induló időpont"
 
 #: src/dialogs/fl_digi.cxx:4951 src/dialogs/fl_digi.cxx:5125
 #: src/dialogs/fl_digi.cxx:5219
 msgid "Off"
-msgstr ""
+msgstr "Ki"
 
 #: src/dialogs/fl_digi.cxx:4952
 msgid "QSO end time"
-msgstr ""
+msgstr "QSO befejező időpont"
 
 #: src/dialogs/fl_digi.cxx:4957 src/dialogs/fl_digi.cxx:5142
 #: src/logbook/lgbook.cxx:620
 msgid "In"
-msgstr ""
+msgstr "Be"
 
 #: src/dialogs/fl_digi.cxx:4962 src/dialogs/fl_digi.cxx:5150
 #: src/logbook/lgbook.cxx:706
 msgid "Out"
-msgstr ""
+msgstr "Ki"
 
 #: src/dialogs/fl_digi.cxx:4969 src/dialogs/fl_digi.cxx:5134
 #: src/dialogs/fl_digi.cxx:5220 src/widgets/FTextRXTX.cxx:103
@@ -677,15 +677,15 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4970
 msgid "call sign"
-msgstr ""
+msgstr "hívójel"
 
 #: src/dialogs/fl_digi.cxx:4976
 msgid "Op"
-msgstr ""
+msgstr "Op"
 
 #: src/dialogs/fl_digi.cxx:4977
 msgid "Operator name"
-msgstr ""
+msgstr "Operátor neve"
 
 #: src/dialogs/fl_digi.cxx:4982
 msgid "Azimuth"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:4989
 msgid "City"
-msgstr ""
+msgstr "Város"
 
 #: src/dialogs/fl_digi.cxx:4994
 msgid "US State"
@@ -709,11 +709,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5016 src/dialogs/fl_digi.cxx:5269
 msgid "Sent serial number (read only)"
-msgstr ""
+msgstr "Szériszám küldése (csak olvasható)"
 
 #: src/dialogs/fl_digi.cxx:5022 src/dialogs/fl_digi.cxx:5260
 msgid "Received serial number"
-msgstr ""
+msgstr "Vett szériaszám"
 
 #: src/dialogs/fl_digi.cxx:5027 src/dialogs/fl_digi.cxx:5251
 msgid "Contest exchange in"
@@ -723,26 +723,26 @@ msgstr ""
 #: src/widgets/FTextRXTX.cxx:108 src/logbook/lgbook.cxx:521
 #: src/logbook/lgbook.cxx:767
 msgid "Country"
-msgstr ""
+msgstr "ország"
 
 #: src/dialogs/fl_digi.cxx:5048 src/logbook/lgbook.cxx:524
 #: src/logbook/lgbook.cxx:791
 msgid "Notes"
-msgstr ""
+msgstr "Megjegyzés"
 
 #: src/dialogs/fl_digi.cxx:5116 src/dialogs/fl_digi.cxx:5275
 msgid "Press to update"
-msgstr ""
+msgstr "Nyomj a frissítéshez"
 
 #: src/dialogs/fl_digi.cxx:5122 src/dialogs/fl_digi.cxx:5281
 #: src/logbook/lgbook.cxx:584
 msgid "Time On"
-msgstr ""
+msgstr "Idő be"
 
 #: src/dialogs/fl_digi.cxx:5131 src/dialogs/fl_digi.cxx:5289
 #: src/logbook/lgbook.cxx:658
 msgid "Time Off"
-msgstr ""
+msgstr "Idő ki"
 
 #: src/dialogs/fl_digi.cxx:5140 src/dialogs/fl_digi.cxx:5236
 #: src/dialogs/fl_digi.cxx:5591
@@ -751,11 +751,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5148
 msgid "Received RST"
-msgstr ""
+msgstr "Vett RST"
 
 #: src/dialogs/fl_digi.cxx:5156
 msgid "Sent RST"
-msgstr ""
+msgstr "Küldött RST"
 
 #: src/dialogs/fl_digi.cxx:5158
 msgid "Nm"
@@ -793,6 +793,8 @@ msgid ""
 "Left click - select\n"
 "Right click - clear line"
 msgstr ""
+"Bal klikk - kiválasztás\n"
+"Jobb klikk - sor törlése"
 
 #: src/dialogs/fl_digi.cxx:5384
 msgid "seek - regular expression"
@@ -811,30 +813,32 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5516
 msgid "Primary macro set"
-msgstr ""
+msgstr "Elsődleges makró beállítása"
 
 #: src/dialogs/fl_digi.cxx:5533 src/dialogs/fl_digi.cxx:6143
 msgid "Detected signal level"
-msgstr ""
+msgstr "Érzékelt jelszint"
 
 #: src/dialogs/fl_digi.cxx:5544 src/dialogs/fl_digi.cxx:6155
 #: src/waterfall/waterfall.cxx:2138
 msgid "Squelch level"
-msgstr ""
+msgstr "Zajzár szint"
 
 #: src/dialogs/fl_digi.cxx:5558 src/dialogs/fl_digi.cxx:6169
 msgid ""
 "Left click: change mode\n"
 "Right click: configure"
 msgstr ""
+"Bal klikk: mód váltása\n"
+"Jobb klikk: konfigurálás"
 
 #: src/dialogs/fl_digi.cxx:5568 src/dialogs/fl_digi.cxx:6176
 msgid "CW transmit WPM"
-msgstr ""
+msgstr "CW adási WPM"
 
 #: src/dialogs/fl_digi.cxx:5574 src/dialogs/fl_digi.cxx:6183
 msgid "Default WPM"
-msgstr ""
+msgstr "Alapértelmezett WPM"
 
 #: src/dialogs/fl_digi.cxx:5613 src/dialogs/fl_digi.cxx:6215
 msgid "Tx level attenuator (dB)"
@@ -842,11 +846,11 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5643 src/dialogs/fl_digi.cxx:6244
 msgid "Automatic Frequency Control"
-msgstr ""
+msgstr "Automatikus Frekvencia Kontroll"
 
 #: src/dialogs/fl_digi.cxx:5647 src/dialogs/fl_digi.cxx:6247
 msgid "Squelch"
-msgstr ""
+msgstr "Zajzár"
 
 #: src/dialogs/fl_digi.cxx:5652 src/dialogs/fl_digi.cxx:6251
 msgid "Monitor KISS Pwr Squelch"
@@ -854,21 +858,23 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:5699 src/dialogs/fl_digi.cxx:6053
 msgid "Scope"
-msgstr ""
+msgstr "Szkóp"
 
 #: src/dialogs/fl_digi.cxx:5935 src/dialogs/Viewer.cxx:275
 msgid "Signal Browser"
-msgstr ""
+msgstr "Jelböngésző"
 
 #: src/dialogs/Viewer.cxx:279
 msgid "Find: "
-msgstr ""
+msgstr "Keresés:"
 
 #: src/dialogs/Viewer.cxx:312
 msgid ""
 "Left click to clear text\n"
 "Right click to reset frequencies"
 msgstr ""
+"Bal klikk szöveg törlése\n"
+"Jobb klikk frekvencia nullázása"
 
 #: src/logbook/adif_io.cxx:228
 #, c-format
@@ -882,11 +888,11 @@ msgstr ""
 
 #: src/logbook/logbook.cxx:63 src/logbook/logsupport.cxx:232
 msgid "Save changed Logbook?"
-msgstr ""
+msgstr "Naplófájl mentése?"
 
 #: src/logbook/logsupport.cxx:141
 msgid "Export to CSV file"
-msgstr ""
+msgstr "CSV fájl exportálása"
 
 #: src/logbook/logsupport.cxx:167
 msgid "Export to fixed field text file"
@@ -894,30 +900,30 @@ msgstr ""
 
 #: src/logbook/logsupport.cxx:194
 msgid "Export to ADIF file"
-msgstr ""
+msgstr "Exportálás ADIF fájlba"
 
 #: src/logbook/logsupport.cxx:277
 msgid "Open logbook file"
-msgstr ""
+msgstr "Naplófájl megnyitása"
 
 #: src/logbook/logsupport.cxx:300
 msgid "Save logbook file"
-msgstr ""
+msgstr "Naplófájl mentése"
 
 #: src/logbook/logsupport.cxx:494
 msgid "Merge ADIF file"
-msgstr ""
+msgstr "ADIF fájl ellenőrzése"
 
 #: src/logbook/logsupport.cxx:596 src/spot/notify.cxx:204
 #: src/spot/notify.cxx:518 src/dialogs/record_browse.cxx:47
 #: src/logbook/lgbook.cxx:967
 msgid "Update"
-msgstr ""
+msgstr "Frissítés"
 
 #: src/logbook/logsupport.cxx:1048
 #, c-format
 msgid "Really delete record for \"%s\"?"
-msgstr ""
+msgstr "Valóban törli ezt a rekordot \"%s\"?"
 
 #: src/logbook/logsupport.cxx:1456
 msgid "Create cabrillo report"
@@ -944,23 +950,23 @@ msgstr ""
 #: src/logger/rx_extract.cxx:333 src/logger/rx_extract.cxx:336
 #: src/dialogs/confdialog.cxx:9768
 msgid "Locate flmsg executable"
-msgstr ""
+msgstr "flmsg futtatható fájl helye"
 
 #: src/logger/rx_extract.cxx:333
 msgid "flmsg.exe\t*.exe"
-msgstr ""
+msgstr "flmsg.exe\t*.exe"
 
 #: src/logger/rx_extract.cxx:336
 msgid "flmsg\t*"
-msgstr ""
+msgstr "flmsg\t*"
 
 #: src/logger/rx_extract.cxx:408
 msgid "Locate executable"
-msgstr ""
+msgstr "Futtatható fájl helye"
 
 #: src/logger/rx_extract.cxx:408
 msgid "*.exe"
-msgstr ""
+msgstr "*.exe"
 
 #: src/logger/rx_extract.cxx:411
 msgid "Locate binary"
@@ -968,7 +974,7 @@ msgstr ""
 
 #: src/logger/rx_extract.cxx:411
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: src/logger/speak.cxx:42
 msgid ""
@@ -984,11 +990,11 @@ msgstr ""
 
 #: src/misc/configuration.cxx:510
 msgid "Always LSB"
-msgstr ""
+msgstr "Mindig LSB"
 
 #: src/misc/configuration.cxx:511
 msgid "Always USB"
-msgstr ""
+msgstr "Mindig USB"
 
 #: src/misc/configuration.cxx:688
 msgid ""
@@ -1008,15 +1014,15 @@ msgstr ""
 
 #: src/misc/debug.cxx:91
 msgid "Error"
-msgstr ""
+msgstr "HIba"
 
 #: src/misc/debug.cxx:91
 msgid "Warning"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 #: src/misc/debug.cxx:91
 msgid "Info"
-msgstr ""
+msgstr "Információ"
 
 #: src/misc/debug.cxx:91
 msgid "Verbose"
@@ -1028,15 +1034,15 @@ msgstr ""
 
 #: src/misc/debug.cxx:100
 msgid "ARQ control"
-msgstr ""
+msgstr "ARQ kontroll"
 
 #: src/misc/debug.cxx:102 src/waterfall/waterfall.cxx:2139
 msgid "Modem"
-msgstr ""
+msgstr "Modem"
 
 #: src/misc/debug.cxx:104
 msgid "RPC"
-msgstr ""
+msgstr "RPC"
 
 #: src/misc/debug.cxx:105
 msgid "Spotter"
@@ -1044,15 +1050,15 @@ msgstr ""
 
 #: src/misc/debug.cxx:106
 msgid "KISS control"
-msgstr ""
+msgstr "KISS kontroll"
 
 #: src/misc/debug.cxx:107
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
 #: src/misc/debug.cxx:142
 msgid "Log sources"
-msgstr ""
+msgstr "Napló forrása"
 
 #: src/misc/debug.cxx:147
 msgid "Change log level"
