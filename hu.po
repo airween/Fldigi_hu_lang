@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 13:51+0100\n"
+"PO-Revision-Date: 2014-11-16 14:25+0100\n"
 "Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1105,7 +1105,7 @@ msgstr "<MYNAME>\tA nevem"
 
 #: src/misc/macroedit.cxx:76
 msgid "<MYQTH>\tmy QTH"
-msgstr ""
+msgstr "<MYQTH>\tQTH-m"
 
 #: src/misc/macroedit.cxx:77
 msgid "<MYRST>\tmy RST"
@@ -1113,19 +1113,19 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:78
 msgid "<ANTENNA>\tmy antenna"
-msgstr ""
+msgstr "<ANTENNA>\tAntennám"
 
 #: src/misc/macroedit.cxx:79
 msgid "<BAND>\toperating band"
-msgstr ""
+msgstr "<BAND>\tMűködési sáv"
 
 #: src/misc/macroedit.cxx:80
 msgid "<VER>\tFldigi version"
-msgstr ""
+msgstr "<VER>\tFldigi verzió"
 
 #: src/misc/macroedit.cxx:83
 msgid "<CALL>\tother call"
-msgstr ""
+msgstr "<CALL>\tEllenállomásl hívójele"
 
 #: src/misc/macroedit.cxx:84
 msgid "<INFO1>\tS/N etc."
@@ -1141,7 +1141,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:87
 msgid "<NAME>\tother name"
-msgstr ""
+msgstr "<NAME>\tEllenállomás neve"
 
 #: src/misc/macroedit.cxx:88
 msgid "<QTH>\tother QTH"
@@ -1149,7 +1149,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:89
 msgid "<RST>\tother RST"
-msgstr ""
+msgstr "<RST>\tEllenállomás RST-je"
 
 #: src/misc/macroedit.cxx:90
 msgid "<QSONBR>\t# QSO recs"
@@ -1169,11 +1169,11 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:96
 msgid "<CLRRX>\tclear RX pane"
-msgstr ""
+msgstr "<CLRRX>\tRX panel törlése"
 
 #: src/misc/macroedit.cxx:97
 msgid "<CLRTX>\tclear TX pane"
-msgstr ""
+msgstr "<CLRTX>\tTX panel törlése"
 
 #: src/misc/macroedit.cxx:100
 msgid "<GET>\ttext to NAME/QTH"
@@ -1185,15 +1185,16 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:108
 msgid "<CLRLOG>\tclear log fields"
-msgstr ""
+msgstr "<CLRLOG>\tNapló mezők törlése"
 
 #: src/misc/macroedit.cxx:109
 msgid "<LOG>\tsave QSO data"
-msgstr ""
+msgstr "<LOG>\tQSO adatok mentése"
 
 #: src/misc/macroedit.cxx:110
 msgid "<LOG:msg>\tsaveQSO data, append msg to notes"
 msgstr ""
+"<LOG:msg>\tQSO adatainak mentése, az üzenet hozzáfűzése a megjegyzéshez"
 
 #: src/misc/macroedit.cxx:111
 msgid "<LNW>\tlog at xmt time"
@@ -1205,7 +1206,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:113
 msgid "<EQSL>\tlog eQSL"
-msgstr ""
+msgstr "<EQSL>\teQSL naplózás"
 
 #: src/misc/macroedit.cxx:114
 msgid "<EQSL:[msg]>\tlog eQSL optional msg"
@@ -1213,7 +1214,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:117
 msgid "<QSOTIME>\tQSO time (HHMM))"
-msgstr ""
+msgstr "<QSOTIME>\tQSO ideje (ÓÓPP))"
 
 #: src/misc/macroedit.cxx:118
 msgid "<ILDT>\tLDT in iso-8601 format"
@@ -1221,7 +1222,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:119
 msgid "<LDT>\tLocal datetime"
-msgstr ""
+msgstr "<LDT>\tHelyi dátum és idő"
 
 #: src/misc/macroedit.cxx:120
 msgid "<IZDT>\tZDT in iso-8601 format"
@@ -1229,43 +1230,43 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:121
 msgid "<ZDT>\tUTC datetime"
-msgstr ""
+msgstr "<ZDT>\tUTC dátum és idő"
 
 #: src/misc/macroedit.cxx:122
 msgid "<LT>\tlocal time HHMM"
-msgstr ""
+msgstr "<LT>\tHelyi idő ÓÓPP"
 
 #: src/misc/macroedit.cxx:123
 msgid "<ZT>\tzulu time HHMMZ"
-msgstr ""
+msgstr "<ZT>\tzulu idő HHPPZ (Z=Zóna)"
 
 #: src/misc/macroedit.cxx:124
 msgid "<LD>\tlocal date YYYY-MM-DD"
-msgstr ""
+msgstr "<LD>\tHelyi dátum ÉÉÉÉ-HH-NN"
 
 #: src/misc/macroedit.cxx:125
 msgid "<ZD>\tzulu date YYYY-MM-DD Z"
-msgstr ""
+msgstr "<ZD>\tzulu dátum ÉÉÉÉ-HH-NN Z (zóna)"
 
 #: src/misc/macroedit.cxx:126
 msgid "<WX>\tget weather data"
-msgstr ""
+msgstr "<WX>\tIdőjárási adatok lekérdezése"
 
 #: src/misc/macroedit.cxx:127
 msgid "<WX:xxxx>\tget weather data for station"
-msgstr ""
+msgstr "<WX:xxxx>\tIdőjárásai adatok lekérdezése a megadott állomásról"
 
 #: src/misc/macroedit.cxx:130
 msgid "<CNTR>\tcontest counter"
-msgstr ""
+msgstr "<CNTR>\tVerseny számláló"
 
 #: src/misc/macroedit.cxx:131
 msgid "<DECR>\tdecrement counter"
-msgstr ""
+msgstr "<DECR>\tdecrement counter"
 
 #: src/misc/macroedit.cxx:132
 msgid "<INCR>\tincrement counter"
-msgstr ""
+msgstr "<INCR>\tSzámláló növelése"
 
 #: src/misc/macroedit.cxx:133
 msgid "<XIN>\texchange in"
@@ -1289,15 +1290,15 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:140
 msgid "<RX>\treceive"
-msgstr ""
+msgstr "<RX>\tVétel"
 
 #: src/misc/macroedit.cxx:141
 msgid "<TX>\ttransmit"
-msgstr ""
+msgstr "<TX>\tAdás"
 
 #: src/misc/macroedit.cxx:142
 msgid "<TX/RX>\ttoggle T/R"
-msgstr ""
+msgstr "<TX/RX>\tT/R átkapcsolás"
 
 #: src/misc/macroedit.cxx:143
 msgid "<SRCHUP>\tsearch UP for signal"
@@ -1313,7 +1314,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:146
 msgid "<GOFREQ:NNNN>\tmove to freq NNNN Hz"
-msgstr ""
+msgstr "<GOFREQ:NNNN>\tFrekvencia állítása NNNN Hz-re"
 
 #: src/misc/macroedit.cxx:147
 msgid "<QSYTO>\tleft-clk QSY button"
@@ -1349,15 +1350,15 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:159
 msgid "<FILE:>\tinsert text file"
-msgstr ""
+msgstr "<FILE:>\tSzövegfájl beszúrása"
 
 #: src/misc/macroedit.cxx:160
 msgid "<IMAGE:>\tinsert MFSK image"
-msgstr ""
+msgstr "<IMAGE:>\tMFSK kép beszúrása"
 
 #: src/misc/macroedit.cxx:163
 msgid "<PAUSE>\tpause transmit"
-msgstr ""
+msgstr "<PAUSE>\tAdás szüneteltetése"
 
 #: src/misc/macroedit.cxx:164
 msgid "<IDLE:NN.nn>\tidle signal for NN.nn sec"
@@ -1389,7 +1390,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:175
 msgid "<CWID>\tCW identifier"
-msgstr ""
+msgstr "<CWID>\tCW azonosító"
 
 #: src/misc/macroedit.cxx:176
 msgid "<ID>\tsend mode ID in video text"
@@ -1397,7 +1398,7 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:177
 msgid "<TEXT>\tvideo text"
-msgstr ""
+msgstr "<TEXT>\tvideó szöveg"
 
 #: src/misc/macroedit.cxx:178
 msgid "<TXRSID:on|off|t>\tTx RSID on,off,toggle"
@@ -1437,11 +1438,11 @@ msgstr ""
 
 #: src/misc/macroedit.cxx:193
 msgid "<AFC:on|off|t>\tAFC  on,off,toggle"
-msgstr ""
+msgstr "<AFC:on|off|t>\tAFC  be/ki átkapcsolás"
 
 #: src/misc/macroedit.cxx:194
 msgid "<LOCK:on|off|t>\tLOCK on,off,toggle"
-msgstr ""
+msgstr "<LOCK:on|off|t>\tLOCK be/ki átkapcsolás"
 
 #: src/misc/macroedit.cxx:195
 msgid "<REV:on|off|t>\tRev on,off,toggle"
