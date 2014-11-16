@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 09:32+0100\n"
-"Last-Translator: Szilárd Jakab <station.ha1em@gmail.com>, Ervin Hegedus <airween@gmail.com>\n"
+"PO-Revision-Date: 2014-11-16 10:56+0100\n"
+"Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -467,7 +467,6 @@ msgid "Signal browser"
 msgstr "Jelböngésző"
 
 #: src/dialogs/fl_digi.cxx:3754
-#, fuzzy
 msgid "Controls"
 msgstr ""
 
@@ -2533,15 +2532,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5910
 msgid "Reload"
-msgstr ""
+msgstr "Újraolvasás"
 
 #: src/dialogs/confdialog.cxx:5911
 msgid "Reload cty.dat"
-msgstr ""
+msgstr "cty.dat újraolvasása"
 
 #: src/dialogs/confdialog.cxx:5914
 msgid "Transmit Power"
-msgstr ""
+msgstr "Adóteljesítmény"
 
 #: src/dialogs/confdialog.cxx:5915
 msgid "Tx power used for logbook entries"
@@ -2579,7 +2578,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5968
 msgid "User Interface - Macros"
-msgstr ""
+msgstr "Felhasználói felület - Makrók"
 
 #: src/dialogs/confdialog.cxx:5972
 msgid "Mouse wheel active on macro buttons"
@@ -2687,7 +2686,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6087
 msgid "User Interface - Waterfall controls"
-msgstr ""
+msgstr "Felhasználói felület - Vízesés kontroll"
 
 #: src/dialogs/confdialog.cxx:6091
 msgid "Enable check box to show each respective operator control"
@@ -2727,7 +2726,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6149
 msgid "QSY"
-msgstr ""
+msgstr "QSY"
 
 #: src/dialogs/confdialog.cxx:6155
 msgid "XMT lock"
@@ -2735,11 +2734,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6161
 msgid "Enable all"
-msgstr ""
+msgstr "Minden engedélyezése"
 
 #: src/dialogs/confdialog.cxx:6164
 msgid "Disable all"
-msgstr ""
+msgstr "Minden tiltása"
 
 #: src/dialogs/confdialog.cxx:6171
 msgid "Clrs/Fnts"
@@ -2751,7 +2750,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6175
 msgid "Rx/Tx"
-msgstr ""
+msgstr "Rx/Tx"
 
 #: src/dialogs/confdialog.cxx:6176
 msgid "Rx/Tx Character set"
@@ -2767,15 +2766,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6200
 msgid "Tx bkgnd"
-msgstr ""
+msgstr "Tx háttér"
 
 #: src/dialogs/confdialog.cxx:6209
 msgid "Rx font"
-msgstr ""
+msgstr "Rx betű"
 
 #: src/dialogs/confdialog.cxx:6212
 msgid "Tx font"
-msgstr ""
+msgstr "Tx betű"
 
 #: src/dialogs/confdialog.cxx:6215
 msgid "Text Highlighting"
@@ -2783,7 +2782,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6218
 msgid "XMIT"
-msgstr ""
+msgstr "XMIT"
 
 #: src/dialogs/confdialog.cxx:6219
 msgid "Sent chars in Rx/Tx pane"
@@ -2825,12 +2824,12 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6248 src/dialogs/confdialog.cxx:6414
 msgid "System"
-msgstr ""
+msgstr "Rendszer"
 
 #: src/dialogs/confdialog.cxx:6251 src/dialogs/confdialog.cxx:6401
 #: src/logbook/lgbook.cxx:563
 msgid "Defaults"
-msgstr ""
+msgstr "Alapértelmezések"
 
 #: src/dialogs/confdialog.cxx:6258
 msgid "FreqDisp / Meters"
@@ -2843,13 +2842,13 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:6271 src/dialogs/confdialog.cxx:6346
 #: src/dialogs/confdialog.cxx:6366
 msgid "Font"
-msgstr ""
+msgstr "Betű"
 
 #: src/dialogs/confdialog.cxx:6274 src/dialogs/confdialog.cxx:6288
 #: src/dialogs/confdialog.cxx:6302 src/dialogs/confdialog.cxx:6343
 #: src/dialogs/confdialog.cxx:6363
 msgid "Bg Color"
-msgstr ""
+msgstr "Háttérszín"
 
 #: src/dialogs/confdialog.cxx:6277
 msgid "Digit Color"
@@ -2857,11 +2856,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6280
 msgid "Sys Colors"
-msgstr ""
+msgstr "Rendszer színek"
 
 #: src/dialogs/confdialog.cxx:6285
 msgid "S-meter"
-msgstr ""
+msgstr "S-mérő"
 
 #: src/dialogs/confdialog.cxx:6291 src/dialogs/confdialog.cxx:6305
 msgid "Scale Color"
@@ -2873,7 +2872,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6299
 msgid "PWR-meter"
-msgstr ""
+msgstr "Teljesítmény mérő"
 
 #: src/dialogs/confdialog.cxx:6311
 msgid "Power scale"
@@ -2885,7 +2884,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6323
 msgid "25 W"
-msgstr ""
+msgstr "25 W"
 
 #: src/dialogs/confdialog.cxx:6334
 msgid "Logging Panel Controls"
@@ -2905,7 +2904,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6383
 msgid "Group 1"
-msgstr ""
+msgstr "Csoport 1"
 
 #: src/dialogs/confdialog.cxx:6384
 msgid "Background color for Function key group 1"
@@ -2913,7 +2912,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6389
 msgid "Group 2"
-msgstr ""
+msgstr "Csoport 2"
 
 #: src/dialogs/confdialog.cxx:6390
 msgid "Background color for Function key group 2"
@@ -2921,7 +2920,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6395
 msgid "Group 3"
-msgstr ""
+msgstr "Csoport 3"
 
 #: src/dialogs/confdialog.cxx:6396
 msgid "Background color for Function key group 3"
@@ -2929,7 +2928,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6404
 msgid "Font/Color"
-msgstr ""
+msgstr "betű/Szín"
 
 #: src/dialogs/confdialog.cxx:6409
 msgid "Tabs"
@@ -2941,7 +2940,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6419
 msgid "Buttons"
-msgstr ""
+msgstr "Gombok"
 
 #: src/dialogs/confdialog.cxx:6421
 msgid "Spot"
@@ -2949,11 +2948,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6424
 msgid "RxID"
-msgstr ""
+msgstr "RxID"
 
 #: src/dialogs/confdialog.cxx:6427
 msgid "TxID"
-msgstr ""
+msgstr "TxID"
 
 #: src/dialogs/confdialog.cxx:6430
 msgid "Tune"
@@ -2973,7 +2972,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6442
 msgid "AFC"
-msgstr ""
+msgstr "AFC"
 
 #: src/dialogs/confdialog.cxx:6445
 msgid "SQL-1"
@@ -2993,15 +2992,15 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6501 src/dialogs/confdialog.cxx:9504
 msgid "Low"
-msgstr ""
+msgstr "alacsony"
 
 #: src/dialogs/confdialog.cxx:6509 src/dialogs/confdialog.cxx:9504
 msgid "High"
-msgstr ""
+msgstr "Magas"
 
 #: src/dialogs/confdialog.cxx:6517
 msgid "Normal"
-msgstr ""
+msgstr "Nomál"
 
 #: src/dialogs/confdialog.cxx:6525
 msgid "Over"
@@ -3043,7 +3042,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6563
 msgid "Rx / Tx Panels"
-msgstr ""
+msgstr "Rx / Tx Panelek"
 
 #: src/dialogs/confdialog.cxx:6566
 msgid "Tx above Rx"
@@ -3073,11 +3072,11 @@ msgstr ""
 #: src/dialogs/confdialog.cxx:6681 src/dialogs/confdialog.cxx:6705
 #: src/dialogs/confdialog.cxx:6723
 msgid "Change color"
-msgstr ""
+msgstr "Szín állítás"
 
 #: src/dialogs/confdialog.cxx:6639
 msgid "Load..."
-msgstr ""
+msgstr "Betöltés..."
 
 #: src/dialogs/confdialog.cxx:6640
 msgid "Load a new palette"
