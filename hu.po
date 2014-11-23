@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.02\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-11 14:32-0600\n"
-"PO-Revision-Date: 2014-11-16 14:25+0100\n"
-"Last-Translator: Jakab szilárd <station.ha1em@gmail.com>\n"
+"PO-Revision-Date: 2014-11-23 18:02+0100\n"
+"Last-Translator: Ervin Hegedus <airween@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: src/dialogs/fl_digi.cxx:2087
 msgid "Audio device information is only available for the PortAudio backend"
-msgstr ""
+msgstr "A hangkártyainformációk csak PortAudio használata esetén érhetőek el"
 
 #: src/dialogs/fl_digi.cxx:2096
 msgid "Capture device"
@@ -368,7 +368,7 @@ msgstr "Mentés ..."
 
 #: src/dialogs/fl_digi.cxx:3514
 msgid "Text Capture"
-msgstr ""
+msgstr "Szöveg olvasás"
 
 #: src/dialogs/fl_digi.cxx:3519 src/misc/debug.cxx:101
 #: src/dialogs/confdialog.cxx:9192
@@ -377,7 +377,7 @@ msgstr "Hang"
 
 #: src/dialogs/fl_digi.cxx:3520
 msgid "RX capture"
-msgstr ""
+msgstr "RX olvasása"
 
 #: src/dialogs/fl_digi.cxx:3521
 msgid "TX generate"
@@ -549,7 +549,7 @@ msgstr "Hangeszköz információ"
 
 #: src/dialogs/fl_digi.cxx:3803
 msgid "Build info"
-msgstr ""
+msgstr "Fordítási információ"
 
 #: src/dialogs/fl_digi.cxx:3804 src/misc/debug.cxx:138
 msgid "Event log"
@@ -631,7 +631,7 @@ msgstr "Törlés a listából"
 
 #: src/dialogs/fl_digi.cxx:4903
 msgid "Select operating parameters"
-msgstr ""
+msgstr "Üzemi paraméterek kiválasztása"
 
 #: src/dialogs/fl_digi.cxx:4933
 msgid "Frq"
@@ -694,7 +694,7 @@ msgstr "Operátor neve"
 
 #: src/dialogs/fl_digi.cxx:4982
 msgid "Azimuth"
-msgstr ""
+msgstr "Irányszög"
 
 #: src/dialogs/fl_digi.cxx:4989
 msgid "City"
@@ -772,11 +772,11 @@ msgstr "Ellenállomás név"
 
 #: src/dialogs/fl_digi.cxx:5221
 msgid "# S"
-msgstr ""
+msgstr "# S"
 
 #: src/dialogs/fl_digi.cxx:5222
 msgid "# R"
-msgstr ""
+msgstr "# R"
 
 #: src/dialogs/fl_digi.cxx:5223
 msgid "Ex"
@@ -1029,7 +1029,7 @@ msgstr "Visszaállítás megerősítése"
 
 #: src/misc/debug.cxx:91
 msgid "Quiet"
-msgstr ""
+msgstr "Csendes"
 
 #: src/misc/debug.cxx:91
 msgid "Error"
@@ -1693,17 +1693,19 @@ msgstr "Rádió xml fájl megnyitása"
 
 #: src/rigcontrol/rigxml.cxx:946
 msgid "Fldigi rig xml definition file\t*.xml"
-msgstr ""
+msgstr "Fldigi rig xml leíró fájl\t*.xml"
 
 #: src/soundcard/sound.cxx:149
 msgid ""
 "Waveform Audio Format\t*.wav\n"
 "AU\t*.{au,snd}\n"
 msgstr ""
+"Waveform Audió formátum\t*.wav\n"
+"AU\t*.{au,snd}\n"
 
 #: src/soundcard/sound.cxx:152
 msgid "Free Lossless Audio Codec\t*.flac"
-msgstr ""
+msgstr "Szabad felhasználású veszteségmentes hangfájl\t.flac"
 
 #: src/soundcard/sound.cxx:158 src/soundcard/sound.cxx:160
 msgid "Audio file"
@@ -1798,6 +1800,8 @@ msgid ""
 "Default test string is:\n"
 "  \""
 msgstr ""
+"Az alapértelmezett teszt szöveg:\n"
+"\""
 
 #: src/spot/notify.cxx:1280
 msgid "Enter test string or leave blank for default:"
@@ -1807,15 +1811,15 @@ msgstr ""
 
 #: src/spot/notify.cxx:1291
 msgid "This event's regular expression is invalid."
-msgstr ""
+msgstr "Az ehhez az eseményhez társított reguláris kifejezés hibás."
 
 #: src/spot/notify.cxx:1298
 msgid "The test string did not match this event's search pattern."
-msgstr ""
+msgstr "A teszt szöveg nem egyezik az esemény mintájával."
 
 #: src/spot/notify.cxx:1316
 msgid "Available substrings"
-msgstr ""
+msgstr "Rendelkezésre álló mintaszövegek"
 
 #: src/spot/notify.cxx:1399 src/logbook/lgbook.cxx:1026
 msgid "Frequency"
@@ -2206,7 +2210,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5555
 msgid "free form exchange"
-msgstr ""
+msgstr "szabad formátumú ellenőrzőszám"
 
 #: src/dialogs/confdialog.cxx:5569
 msgid "RST always 599"
@@ -2214,23 +2218,23 @@ msgstr "RST mindig 599"
 
 #: src/dialogs/confdialog.cxx:5570
 msgid "Force RST in/out to 599"
-msgstr ""
+msgstr "A kapott és adott RST mindig 599"
 
 #: src/dialogs/confdialog.cxx:5575
 msgid "Send CW cut numbers"
-msgstr ""
+msgstr "CW-ben a számok rövid formátumú használata"
 
 #: src/dialogs/confdialog.cxx:5576
 msgid "0 = T; 9 = N"
-msgstr ""
+msgstr "0 = T; 9 = N"
 
 #: src/dialogs/confdialog.cxx:5586
 msgid "Use leading zeros"
-msgstr ""
+msgstr "Vezető nullák használata"
 
 #: src/dialogs/confdialog.cxx:5587
 msgid "Insert leading zeros into Xmtd serial number"
-msgstr ""
+msgstr "Vezető nullák beszúrása az Xmtd sorszámba"
 
 #: src/dialogs/confdialog.cxx:5592
 msgid "Start"
@@ -2258,7 +2262,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5631
 msgid "Duplicate check, CALL plus"
-msgstr ""
+msgstr "Dupla QSO ellenőrzés"
 
 #: src/dialogs/confdialog.cxx:5634
 msgid "On/Off"
@@ -2266,7 +2270,7 @@ msgstr "Be/Ki"
 
 #: src/dialogs/confdialog.cxx:5635
 msgid "Check for duplicates"
-msgstr ""
+msgstr "Dupla QSO-k ellenőrzése"
 
 #: src/dialogs/confdialog.cxx:5640 src/dialogs/notifydialog.cxx:188
 #: src/logbook/lgbook.cxx:471
@@ -2313,11 +2317,11 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5687
 msgid "Dup Color"
-msgstr ""
+msgstr "Dupla QSO színe"
 
 #: src/dialogs/confdialog.cxx:5688
 msgid "Left click to select dup color"
-msgstr ""
+msgstr "Bal egérgombbal a duplikált QSO szín kiválasztása"
 
 #: src/dialogs/confdialog.cxx:5700 src/dialogs/confdialog.cxx:6982
 #: src/dialogs/confdialog.cxx:7987 src/dialogs/confdialog.cxx:9884
@@ -2390,7 +2394,7 @@ msgstr "Prompt a makró fájlok mentésekor"
 
 #: src/dialogs/confdialog.cxx:5787 src/dialogs/confdialog.cxx:6077
 msgid "Write current macro set on program exit"
-msgstr ""
+msgstr "Jelenleg használt makrók mentése kilépéskor"
 
 #: src/dialogs/confdialog.cxx:5792
 msgid "Prompt to save log"
@@ -2466,15 +2470,15 @@ msgstr "Hívójel konvertálása nagybetűssé"
 
 #: src/dialogs/confdialog.cxx:5853
 msgid "Force callsign field to UPPERCASE"
-msgstr ""
+msgstr "Hívójel mező használata nagybetűvel"
 
 #: src/dialogs/confdialog.cxx:5858
 msgid "Auto-fill Country and Azimuth"
-msgstr ""
+msgstr "Ország és irányszög automatikus kitöltése"
 
 #: src/dialogs/confdialog.cxx:5859
 msgid "Fill in Country / Azimuth using cty.dat information"
-msgstr ""
+msgstr "Ország és irányszög kitöltése a cty.dat adatfájl alapján"
 
 #: src/dialogs/confdialog.cxx:5864
 msgid "Sort by Date/Time OFF"
@@ -2494,19 +2498,19 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:5876
 msgid "Default RST in to 599"
-msgstr ""
+msgstr "RST alapértelmezett értéke 599"
 
 #: src/dialogs/confdialog.cxx:5877
 msgid "Clear log controls sets RST in to 599"
-msgstr ""
+msgstr "A naplóbeállítások törlése a fogadott RST-t is beállítja 599-re"
 
 #: src/dialogs/confdialog.cxx:5882
 msgid "Default RST out to 599"
-msgstr ""
+msgstr "Az alapértelmezett RST 599"
 
 #: src/dialogs/confdialog.cxx:5883
 msgid "Clear log controls sets RST out to 599"
-msgstr ""
+msgstr "A naplóbeállítások törlése a küldött RST-t is beállítja 599-re"
 
 #: src/dialogs/confdialog.cxx:5888
 msgid "cty.dat folder"
@@ -2675,7 +2679,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6070
 msgid "Display macro filename on startup"
-msgstr ""
+msgstr "Használt makró fájl mutatása induláskor"
 
 #: src/dialogs/confdialog.cxx:6071
 msgid "The filename is written to the RX text area"
@@ -2687,7 +2691,7 @@ msgstr "Prompt megjelenítése a makró fájl mentéséhez bezáráskor"
 
 #: src/dialogs/confdialog.cxx:6086
 msgid "WF Ctrls"
-msgstr ""
+msgstr "Vízesés beállítások"
 
 #: src/dialogs/confdialog.cxx:6087
 msgid "User Interface - Waterfall controls"
@@ -2699,35 +2703,35 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6101
 msgid "WF Magnification"
-msgstr ""
+msgstr "Vízesés nagyítás"
 
 #: src/dialogs/confdialog.cxx:6107
 msgid "WF carrier"
-msgstr ""
+msgstr "Vízesés vivő"
 
 #: src/dialogs/confdialog.cxx:6113
 msgid "WF Shift Controls"
-msgstr ""
+msgstr "Vízesés váltások"
 
 #: src/dialogs/confdialog.cxx:6119
 msgid "WF ref level"
-msgstr ""
+msgstr "Vízesés ref szint"
 
 #: src/dialogs/confdialog.cxx:6125
 msgid "WF drop rate"
-msgstr ""
+msgstr "Vízesés sebesség"
 
 #: src/dialogs/confdialog.cxx:6131
 msgid "WF amp span"
-msgstr ""
+msgstr "Vízesés amp méret"
 
 #: src/dialogs/confdialog.cxx:6137
 msgid "WF Store"
-msgstr ""
+msgstr "Vízesés tárolás"
 
 #: src/dialogs/confdialog.cxx:6143
 msgid "WF mode"
-msgstr ""
+msgstr "Vízesés mód"
 
 #: src/dialogs/confdialog.cxx:6149
 msgid "QSY"
@@ -2817,7 +2821,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6237
 msgid "Alternate character color in Rx panelr"
-msgstr ""
+msgstr "Más karakterszín az RX panelon"
 
 #: src/dialogs/confdialog.cxx:6242
 msgid "SEL"
@@ -2825,7 +2829,7 @@ msgstr ""
 
 #: src/dialogs/confdialog.cxx:6243
 msgid "Selection background color in Rx Tx panels"
-msgstr ""
+msgstr "Háttérszín választása az RX/TX panelokon"
 
 #: src/dialogs/confdialog.cxx:6248 src/dialogs/confdialog.cxx:6414
 msgid "System"
@@ -2869,11 +2873,11 @@ msgstr "S-mérő"
 
 #: src/dialogs/confdialog.cxx:6291 src/dialogs/confdialog.cxx:6305
 msgid "Scale Color"
-msgstr ""
+msgstr "Skála szín"
 
 #: src/dialogs/confdialog.cxx:6294 src/dialogs/confdialog.cxx:6308
 msgid "Meter Color"
-msgstr ""
+msgstr "Mérő szín"
 
 #: src/dialogs/confdialog.cxx:6299
 msgid "PWR-meter"
@@ -2893,7 +2897,7 @@ msgstr "25 W"
 
 #: src/dialogs/confdialog.cxx:6334
 msgid "Logging Panel Controls"
-msgstr ""
+msgstr "Napló panel színek"
 
 #: src/dialogs/confdialog.cxx:6354
 msgid "Logbook Dialog"
@@ -2901,7 +2905,7 @@ msgstr "napló párbeszédablak"
 
 #: src/dialogs/confdialog.cxx:6376
 msgid "F_keys"
-msgstr ""
+msgstr "F billentyűk"
 
 #: src/dialogs/confdialog.cxx:6378
 msgid "Use colored buttons"
@@ -2937,11 +2941,11 @@ msgstr "betű/Szín"
 
 #: src/dialogs/confdialog.cxx:6409
 msgid "Tabs"
-msgstr ""
+msgstr "Fülek"
 
 #: src/dialogs/confdialog.cxx:6411
 msgid "Tab Color"
-msgstr ""
+msgstr "Fülek színei"
 
 #: src/dialogs/confdialog.cxx:6419
 msgid "Buttons"
@@ -2961,7 +2965,7 @@ msgstr "TxID"
 
 #: src/dialogs/confdialog.cxx:6430
 msgid "Tune"
-msgstr ""
+msgstr "Hangolás"
 
 #: src/dialogs/confdialog.cxx:6433
 msgid "Lk"
